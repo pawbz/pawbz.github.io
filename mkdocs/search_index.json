@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome! Namaste!\n\n\nPublications\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\n\n\nAwards",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-namaste",
+            "text": "",
+            "title": "Welcome! Namaste!"
+        },
+        {
+            "location": "/#publications",
+            "text": "mkdocs new [dir-name]  - Create a new project.",
+            "title": "Publications"
+        },
+        {
+            "location": "/#awards",
+            "text": "",
+            "title": "Awards"
+        }
+    ]
+}
