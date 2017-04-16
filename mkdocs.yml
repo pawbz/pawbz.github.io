@@ -1,8 +1,9 @@
-site_name:        Home page of Pawan Bharadwaj
+site_name:        Pawan Bharadwaj
 repo_url:         https://github.com/pawbz/pawbz.github.io
-site_description: Home page of Pawan Bharadwaj 
+site_description: Pawan Bharadwaj 
 site_author:      pawbz
 
+theme: slate
 extra_css:
           - assets/Documenter.css
 
@@ -23,3 +24,8 @@ extra_css:
 
 pages:
           - Home: index.md
+          - About Me: aboutme.md
+          - Publications: publications.md
+          - Presentations: presentations.md
+          - Research: research.md
+          - Software: software.md
