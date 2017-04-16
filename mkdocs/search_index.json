@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome! Namaste!\n\n\nPublications\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\n\n\nAwards",
+            "text": "Welcome! Namaste!\n\n\nPublications\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\n\n\nGoogle Scholar Citations\n (for citation statistics)\n\n\n\nResearch Gate\n (for full text of publications)\n\n\n\nGitHub\n (software)\n\n\n\nORCID\n \n\n\n\nAwards",
             "title": "Home"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "location": "/#publications",
-            "text": "mkdocs new [dir-name]  - Create a new project.",
+            "text": "mkdocs new [dir-name]  - Create a new project.   Google Scholar Citations  (for citation statistics)  Research Gate  (for full text of publications)  GitHub  (software)  ORCID",
             "title": "Publications"
         },
         {
@@ -22,7 +22,7 @@
         },
         {
             "location": "/aboutme/",
-            "text": "",
+            "text": "Dept. of Earth, Atmospheric and Planetary Sciences\n\nBuilding 54-319\n\n77 Massachusetts Ave., Cambridge, MA 02139\n\nPhone: +18573205756\n\nE-mail address: pawbz@mit.edu",
             "title": "About Me"
         },
         {
