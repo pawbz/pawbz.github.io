@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome! Namaste!\n\n\nPublications\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\n\n\nGoogle Scholar Citations\n (for citation statistics)\n\n\n\nResearch Gate\n (for full text of publications)\n\n\n\nGitHub\n (software)\n\n\n\nORCID\n \n\n\n\nAwards",
+            "text": "Welcome! Namaste!\n\n\nOther Webpages\n\n\nGoogle Scholar Citations\n (for citation statistics)\n\n\n\nResearch Gate\n (for full text of publications)\n\n\n\nGitHub\n (software)\n\n\n\nORCID\n \n\n\n\nAwards",
             "title": "Home"
         },
         {
@@ -11,9 +11,9 @@
             "title": "Welcome! Namaste!"
         },
         {
-            "location": "/#publications",
-            "text": "mkdocs new [dir-name]  - Create a new project.   Google Scholar Citations  (for citation statistics)  Research Gate  (for full text of publications)  GitHub  (software)  ORCID",
-            "title": "Publications"
+            "location": "/#other-webpages",
+            "text": "Google Scholar Citations  (for citation statistics)  Research Gate  (for full text of publications)  GitHub  (software)  ORCID",
+            "title": "Other Webpages"
         },
         {
             "location": "/#awards",
@@ -26,14 +26,24 @@
             "title": "About Me"
         },
         {
-            "location": "/presentations/",
+            "location": "/publications/",
             "text": "",
+            "title": "Publications"
+        },
+        {
+            "location": "/presentations/",
+            "text": "Full Waveform Inversion with an Auxiliary Bump Functional (2016) \n\n[slides]\n \n\n \n\n\n\nParametrization Analysis for Full Waveform Inversion (2014)\n\n[slides]\n \n\n \n\n\n\nMulti-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013)\n\n[slides]\n \n\n \n\n\n\nEnhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013)\n\n[slides]",
             "title": "Presentations"
         },
         {
             "location": "/research/",
             "text": "",
             "title": "Research"
+        },
+        {
+            "location": "/software/",
+            "text": "",
+            "title": "Software"
         }
     ]
 }

@@ -19,6 +19,14 @@
 
     
     <url>
+     <loc>None/publications/</loc>
+     <lastmod>2017-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>None/presentations/</loc>
      <lastmod>2017-04-16</lastmod>
      <changefreq>daily</changefreq>
@@ -28,6 +36,14 @@
     
     <url>
      <loc>None/research/</loc>
+     <lastmod>2017-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/software/</loc>
      <lastmod>2017-04-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
