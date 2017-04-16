@@ -19,6 +19,21 @@
             "location": "/#awards",
             "text": "",
             "title": "Awards"
+        },
+        {
+            "location": "/aboutme/",
+            "text": "",
+            "title": "About Me"
+        },
+        {
+            "location": "/presentations/",
+            "text": "",
+            "title": "Presentations"
+        },
+        {
+            "location": "/research/",
+            "text": "",
+            "title": "Research"
         }
     ]
 }
