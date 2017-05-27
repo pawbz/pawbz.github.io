@@ -1,7 +1,7 @@
 # Conference Talks
 
 <p><strong>Full Waveform Inversion with an Auxiliary Bump Functional (2016) 
-<a href="awbz.pdf">[slides]</a> 
+<a href="../pdfs/Pawan_bump_slides.pdf">[slides]</a> 
 </strong> </p>
 <p><strong>Parametrization Analysis for Full Waveform Inversion (2014)
 <a href="awbz.pdf">[slides]</a> 
