@@ -27,23 +27,63 @@
         },
         {
             "location": "/publications/",
-            "text": "",
+            "text": "Journal Articles\n\n\nConference Abstracts",
             "title": "Publications"
         },
         {
+            "location": "/publications/#journal-articles",
+            "text": "",
+            "title": "Journal Articles"
+        },
+        {
+            "location": "/publications/#conference-abstracts",
+            "text": "",
+            "title": "Conference Abstracts"
+        },
+        {
             "location": "/presentations/",
-            "text": "Full Waveform Inversion with an Auxiliary Bump Functional (2016) \n\n[slides]\n \n\n \n\n\n\nParametrization Analysis for Full Waveform Inversion (2014)\n\n[slides]\n \n\n \n\n\n\nMulti-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013)\n\n[slides]\n \n\n \n\n\n\nEnhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013)\n\n[slides]",
+            "text": "Conference Talks\n\n\nFull Waveform Inversion with an Auxiliary Bump Functional (2016) \n\n[slides]\n \n\n \n\n\n\nParametrization Analysis for Full Waveform Inversion (2014)\n\n[slides]\n \n\n \n\n\n\nMulti-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013)\n\n[slides]\n \n\n \n\n\n\nWorkshops\n\n\nEnhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013)\n\n[slides]",
             "title": "Presentations"
         },
         {
+            "location": "/presentations/#conference-talks",
+            "text": "Full Waveform Inversion with an Auxiliary Bump Functional (2016)  [slides]      Parametrization Analysis for Full Waveform Inversion (2014) [slides]      Multi-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013) [slides]",
+            "title": "Conference Talks"
+        },
+        {
+            "location": "/presentations/#workshops",
+            "text": "Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) [slides]",
+            "title": "Workshops"
+        },
+        {
             "location": "/research/",
-            "text": "",
+            "text": "Blind Source Separation\n\n\nFull Wavefrom Inversion\n\n\nSuper-virtual Seismic Interferometry",
             "title": "Research"
         },
         {
-            "location": "/software/",
+            "location": "/research/#blind-source-separation",
             "text": "",
+            "title": "Blind Source Separation"
+        },
+        {
+            "location": "/research/#full-wavefrom-inversion",
+            "text": "",
+            "title": "Full Wavefrom Inversion"
+        },
+        {
+            "location": "/research/#super-virtual-seismic-interferometry",
+            "text": "",
+            "title": "Super-virtual Seismic Interferometry"
+        },
+        {
+            "location": "/software/",
+            "text": "Seismic Toolbox in Julia",
             "title": "Software"
+        },
+        {
+            "location": "/software/#seismic-toolbox-in-julia",
+            "text": "",
+            "title": "Seismic Toolbox in Julia"
         }
     ]
 }
