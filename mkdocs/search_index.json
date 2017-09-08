@@ -77,13 +77,18 @@
         },
         {
             "location": "/software/",
-            "text": "Seismic Inversion Toolbox in Julia\n\n\nA simple Jupyter \nnotebook\n that demonstrates \nfull waveform inversion of seismic data.",
+            "text": "I mainly write software in \nFORTRAN\n and \nJulia\n. Most of the packages are shared on my \nGitHub\n page, \nwhile I include here some useful subroutines that I have worked on.\n\n\nSeismic Inversion Toolbox in Julia\n\n\n\n\nA simple Jupyter \nnotebook\n that demonstrates \nfull waveform inversion of seismic data.\n\n\n\n\nProgramming Utils\n\n\n\n\nA Makefile to Automatically Compile f90 Source Files with Dependencies",
             "title": "Software"
         },
         {
             "location": "/software/#seismic-inversion-toolbox-in-julia",
             "text": "A simple Jupyter  notebook  that demonstrates \nfull waveform inversion of seismic data.",
             "title": "Seismic Inversion Toolbox in Julia"
+        },
+        {
+            "location": "/software/#programming-utils",
+            "text": "A Makefile to Automatically Compile f90 Source Files with Dependencies",
+            "title": "Programming Utils"
         }
     ]
 }
