@@ -12,8 +12,13 @@
         },
         {
             "location": "/aboutme/",
-            "text": "Dept. of Earth, Atmospheric and Planetary Sciences\nBuilding 54-319\n77 Massachusetts Ave., Cambridge, MA 02139\nPhone: +18573205756\nE-mail address: pawbz@mit.edu",
+            "text": "Address\n\n\nDept. of Earth, Atmospheric and Planetary Sciences\nBuilding 54-319\n77 Massachusetts Ave., Cambridge, MA 02139\nPhone: +18573205756\nE-mail address: pawbz@mit.edu",
             "title": "About Me"
+        },
+        {
+            "location": "/aboutme/#address",
+            "text": "Dept. of Earth, Atmospheric and Planetary Sciences\nBuilding 54-319\n77 Massachusetts Ave., Cambridge, MA 02139\nPhone: +18573205756\nE-mail address: pawbz@mit.edu",
+            "title": "Address"
         },
         {
             "location": "/publications/",
