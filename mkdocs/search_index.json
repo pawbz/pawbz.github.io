@@ -77,13 +77,13 @@
         },
         {
             "location": "/software/",
-            "text": "Seismic Toolbox in Julia",
+            "text": "Seismic Inversion Toolbox in Julia\n\n\nA simple Jupyter \nnotebook\n that demonstrates \nfull waveform inversion of seismic data.",
             "title": "Software"
         },
         {
-            "location": "/software/#seismic-toolbox-in-julia",
-            "text": "",
-            "title": "Seismic Toolbox in Julia"
+            "location": "/software/#seismic-inversion-toolbox-in-julia",
+            "text": "A simple Jupyter  notebook  that demonstrates \nfull waveform inversion of seismic data.",
+            "title": "Seismic Inversion Toolbox in Julia"
         }
     ]
 }
