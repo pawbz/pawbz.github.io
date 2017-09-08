@@ -1,5 +1,3 @@
-I like 
-
 # Blind Source Separation
 * Deblending Random Seismic Sources via Independent Component Analysis (2017) [slides]()
 
