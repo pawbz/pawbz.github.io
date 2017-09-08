@@ -42,18 +42,18 @@
         },
         {
             "location": "/presentations/",
-            "text": "Conference Talks\n\n\nFull Waveform Inversion with an Auxiliary Bump Functional (2017) \n\n[slides]\n \n\nFull Waveform Inversion with an Auxiliary Bump Functional (2016) \n\n[slides]\n \n\n \n\n\nParametrization Analysis for Full Waveform Inversion (2014)\n\n[slides]\n \n\n \n\n\nMulti-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013)\n\n[slides]\n \n\n \n\n\n\nWorkshops\n\n\nEnhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013)\n\n[slides]",
+            "text": "Full Waveform Inversion\n\n\nFull Waveform Inversion with an Auxiliary Bump Functional (2016) \nslides\n\n\nParametrization Analysis for Full Waveform Inversion (2014) \nslides\n\n\nMulti-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013) \nslides\n\n\nSeismic Interferometry\n\n\nEnhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) \nslides",
             "title": "Presentations"
         },
         {
-            "location": "/presentations/#conference-talks",
-            "text": "Full Waveform Inversion with an Auxiliary Bump Functional (2017)  [slides]   Full Waveform Inversion with an Auxiliary Bump Functional (2016)  [slides]      Parametrization Analysis for Full Waveform Inversion (2014) [slides]      Multi-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013) [slides]",
-            "title": "Conference Talks"
+            "location": "/presentations/#full-waveform-inversion",
+            "text": "Full Waveform Inversion with an Auxiliary Bump Functional (2016)  slides  Parametrization Analysis for Full Waveform Inversion (2014)  slides  Multi-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013)  slides",
+            "title": "Full Waveform Inversion"
         },
         {
-            "location": "/presentations/#workshops",
-            "text": "Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) [slides]",
-            "title": "Workshops"
+            "location": "/presentations/#seismic-interferometry",
+            "text": "Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013)  slides",
+            "title": "Seismic Interferometry"
         },
         {
             "location": "/research/",
