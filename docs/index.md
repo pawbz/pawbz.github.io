@@ -1,4 +1,6 @@
 # Welcome! Namaste!
+Inline-style: 
+![alt text](https://github.com/pawbz/pawbz.github.io/blob/src/jpegs/pawbz1.jpg "Pawan Bharadwaj")
 
 
 
