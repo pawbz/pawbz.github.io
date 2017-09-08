@@ -3,7 +3,7 @@ repo_url:         https://github.com/pawbz/pawbz.github.io
 site_description: Pawan Bharadwaj 
 site_author:      pawbz
 
-theme: slate
+theme: yeti
 extra_css:
           - assets/Documenter.css
 

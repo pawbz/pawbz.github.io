@@ -1,18 +1,13 @@
-# Conference Talks
+# Full Waveform Inversion
 
-<p><strong>Full Waveform Inversion with an Auxiliary Bump Functional (2016) 
-<a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/Pawan_BumpFunctional_Slides.pdf">[slides]</a> 
-</strong> </p>
-<p><strong>Parametrization Analysis for Full Waveform Inversion (2014)
-<a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/Pawan_EAGE14slides.pdf">[slides]</a> 
-</strong> </p>
-<p><strong>Multi-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013)
-<a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/Pawan_SEG13slides.pdf">[slides]</a> 
-</strong> </p>
+Full Waveform Inversion with an Auxiliary Bump Functional (2016) [slides](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/Pawan_BumpFunctional_Slides.pdf)
 
-# Workshops
+Parametrization Analysis for Full Waveform Inversion (2014) [slides](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/Pawan_EAGE14slides.pdf)
 
-<p><strong>Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013)
-<a href="awbz.pdf">[slides]</a> 
-</strong> </p>
+Multi-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013) [slides](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/Pawan_SEG13slides.pdf)
+
+
+# Seismic Interferometry
+
+Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) [slides](fff)
 
