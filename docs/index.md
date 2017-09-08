@@ -1,6 +1,5 @@
-# Welcome! Namaste!
-Inline-style: 
 ![Image of Yaktocat](img/pawbz2.jpg)
+# Welcome! Namaste!
 
 
 
