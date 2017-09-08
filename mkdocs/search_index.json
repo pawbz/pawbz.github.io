@@ -2,23 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome! Namaste!\n\n\nOther Webpages\n\n\n\n\nGoogle Scholar Citations\n(for citation statistics)\n\n\nResearch Gate\n(for full text of publications)\n\n\nGitHub\n(software)\n\n\nORCID\n\n\n\n\nAwards",
+            "text": "Welcome! Namaste!\n\n\n\n\nGoogle Scholar Citations\n(for citation statistics)\n\n\nResearch Gate\n(for full text of publications)\n\n\nGitHub\n(software)\n\n\nORCID",
             "title": "Home"
         },
         {
             "location": "/#welcome-namaste",
-            "text": "",
-            "title": "Welcome! Namaste!"
-        },
-        {
-            "location": "/#other-webpages",
             "text": "Google Scholar Citations (for citation statistics)  Research Gate (for full text of publications)  GitHub (software)  ORCID",
-            "title": "Other Webpages"
-        },
-        {
-            "location": "/#awards",
-            "text": "",
-            "title": "Awards"
+            "title": "Welcome! Namaste!"
         },
         {
             "location": "/aboutme/",
@@ -42,7 +32,7 @@
         },
         {
             "location": "/presentations/",
-            "text": "I like \n\n\nBlind Source Separation\n\n\n\n\nDeblending Random Seismic Sources via Independent Component Analysis (2017) \nslides\n\n\n\n\nFull Waveform Inversion\n\n\n\n\nFull Waveform Inversion with an Auxiliary Bump Functional (2016) \nslides\n\n\nParametrization Analysis for Full Waveform Inversion (2014) \nslides\n\n\nMulti-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013) \nslides\n\n\n\n\nSeismic Interferometry\n\n\n\n\nEnhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) \nslides",
+            "text": "Blind Source Separation\n\n\n\n\nDeblending Random Seismic Sources via Independent Component Analysis (2017) \nslides\n\n\n\n\nFull Waveform Inversion\n\n\n\n\nFull Waveform Inversion with an Auxiliary Bump Functional (2016) \nslides\n\n\nParametrization Analysis for Full Waveform Inversion (2014) \nslides\n\n\nMulti-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013) \nslides\n\n\n\n\nSeismic Interferometry\n\n\n\n\nEnhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) \nslides",
             "title": "Presentations"
         },
         {
