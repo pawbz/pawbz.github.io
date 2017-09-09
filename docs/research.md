@@ -1,6 +1,6 @@
 # Blind Source Separation
 
-# Full Wavefrom Inversion
+# Full Waveform Inversion
 
 # Super-virtual Seismic Interferometry
 
