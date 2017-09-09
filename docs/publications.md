@@ -2,7 +2,7 @@
 
 ### 2017
 * *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic
-full waveform inversion, ``Geophysical Journal International`` [\[pdf\]]()
+full waveform inversion, ``Geophysical Journal International`` (in review) [\[pdf\]]()
 
 * *Pawan Bharadwaj*, Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,
 A shear-wave seismic system using full waveform inversion to look ahead of a tunnel-
@@ -36,63 +36,75 @@ by supervirtual interferometry, `The Leading Edge` [\[pdf\]]()
 ### 2017
 * *Pawan Bharadwaj*, Laurent Demanet, Aimé Fournier,
 Deblending random seismic sources via independent component analysis, 
+Society of Exploration Geophysicists,
 `SEG Annual Meeting` [\[pdf\]]()
 
 ### 2016
 
 * *Pawan Bharadwaj*, Guy Drijkoningen, Wim Mulder, Thomas Tscharner, and Rob Jenneskens, A shear-wave 
 seismic system to look ahead of a tunnel boring machine, Proceedings of the
-World Tunneling Congress, Society for Mining, Metallurgy & Exploration [\[pdf\]]()
+Society for Mining, Metallurgy & Exploration,
+`World Tunneling Congress` [\[pdf\]]()
 
 
 ### 2015
 
 * *Pawan Bharadwaj*, Wim Mulder, Guy Drijkoningen, and Ralph Reijnen, Looking ahead of a tunnel
-boring machine with 2-D SH full waveform inversion, in 77th European Association of
-Geoscientists & Engineers Conference and Exhibition [\[pdf\]]()
+boring machine with 2-D SH full waveform inversion, European Association of
+Geoscientists & Engineers Conference and Exhibition, `EAGE Annual Meeting` [\[pdf\]]()
 
 
 * *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, An auxiliary bump functional to overcome
-cycle skipping in waveform inversion, in 77th European Association of Geoscientists
-& Engineers Conference and Exhibition-Workshops [\[pdf\]]()
+cycle skipping in waveform inversion, 
+European Association of Geoscientists
+& Engineers Conference and Exhibition-Workshops, 
+`EAGE Annual Meeting` [\[pdf\]]()
 
 
 ### 2014 
 
 * *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, Parametrization for 2-D SH full waveform
-inversion, in 76th European Association of Geoscientists & Engineers Conference and
-Exhibition [\[pdf\]]()
+inversion, 
+European Association of Geoscientists
+& Engineers Conference and Exhibition, 
+`EAGE Annual Meeting` [\[pdf\]]()
 
 
 ### 2013
 
 * *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, Multi-objective full waveform inversion
-in the absence of low frequencies, in Society of Exploration Geophysicists Annual
-Meeting, Society of Exploration Geophysicists (SEG) [\[pdf\]]()
+in the absence of low frequencies, 
+Society of Exploration Geophysicists,
+`SEG Annual Meeting` [\[pdf\]]()
 
 
 ### 2012
 
 * Gerard Schuster, *Pawan Bharadwaj*, Tarje Nissen-Meyer, and Martin Mai, Extracting CMB diffractions by
-super-virtual interferometry, in American Geophysical Union Fall Meeting Abstracts [\[pdf\]]()
+super-virtual interferometry, 
+American Geophysical Union,
+`AGU Fall Meeting` [\[pdf\]]()
 
 
 ### 2011
 
 * *Pawan Bharadwaj*, Gerard  Schuster, and Ian Mallinson, Super-virtual refraction interferometry:
-theory, in Society of Exploration Geophysicists Technical Program Expanded Abstracts [\[pdf\]]()
+theory, 
+Society of Exploration Geophysicists,
+`SEG Annual Meeting` [\[pdf\]]()
 
 
 * Gerard Schuster, *Pawan Bharadwaj*, and Kirk McIntosh, Refraction interferometry and free-surface
-multiples for large-offset OBS data, `American Geophysical Union Fall Meeting Abstracts` 
-[\[pdf\]]()
+multiples for large-offset OBS data,
+American Geophysical Union,
+`AGU Fall Meeting` [\[pdf\]]()
 
 
 ### 2010
 * Gerard Schuster and *Pawan Bharadwaj*, Extending the aperture and enhancing the S/N ratio of
-refraction imaging by super-virtual interferometry, `American Geophysical Union Fall
-Meeting Abstracts`
-[\[pdf\]]()
+refraction imaging by super-virtual interferometry, 
+American Geophysical Union,
+`AGU Fall Meeting` [\[pdf\]]()
 
 
 
