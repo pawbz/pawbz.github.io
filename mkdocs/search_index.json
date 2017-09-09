@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/",
-            "text": "---\nff\n\n\nWelcome! Namaste!\n\n\nI am a geophysicist postdoctoral associate in Massachusetts Institute of Technology\n\n\n\n\nGoogle Scholar Citations\n (for citation statistics)\n\n\nResearch Gate\n (for full text of publications)\n\n\nGitHub\n (software)\n\n\nORCID\n\n\nEarth Resources Laboratory",
+            "text": "Welcome! Namaste!\n\n\nI am a \ngeophysicist\n by background, currently a postdoctoral associate in the \n\nImaging and Computing Group\n Massachusetts Institute of Technology.\n\n\nOther Personal Pages\n\n\n\n\nGoogle Scholar Citations\n (for citation statistics)\n\n\nResearch Gate\n (for full text of publications)\n\n\nGitHub\n (software)\n\n\nORCID\n\n\nLinkedin\n\n\nEarth Resources Laboratory Homepage",
             "title": "Home"
         },
         {
             "location": "/#welcome-namaste",
-            "text": "I am a geophysicist postdoctoral associate in Massachusetts Institute of Technology   Google Scholar Citations  (for citation statistics)  Research Gate  (for full text of publications)  GitHub  (software)  ORCID  Earth Resources Laboratory",
+            "text": "I am a  geophysicist  by background, currently a postdoctoral associate in the  Imaging and Computing Group  Massachusetts Institute of Technology.",
             "title": "Welcome! Namaste!"
+        },
+        {
+            "location": "/#other-personal-pages",
+            "text": "Google Scholar Citations  (for citation statistics)  Research Gate  (for full text of publications)  GitHub  (software)  ORCID  Linkedin  Earth Resources Laboratory Homepage",
+            "title": "Other Personal Pages"
         },
         {
             "location": "/aboutme/",
@@ -27,7 +32,7 @@
         },
         {
             "location": "/publications/",
-            "text": "Journal Articles\n\n\n2017\n\n\n2016\n\n\n2011\n\n\n\n\nEnhanced Refractor Imaging by Supervirtual Interferometry\n\n\n\n\nConference Abstracts\n\n\nPhD Thesis\n\n\nSeismic Waveform Inversion: Bump Functional, Parameterization Analysis and Imaging Ahead of a Tunnel-Boring Machine \n[pdf]",
+            "text": "Journal Articles\n\n\n2017\n\n\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic\nfull waveform inversion, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,\nA shear-wave seismic system using full waveform inversion to look ahead of a tunnel-\nboring machine, \nNear Surface Geophysics\n \n[pdf]\n\n\n\n\n\n\n2016\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, Full waveform inversion with an auxiliary\nbump functional, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2014\n\n\n\n\nPawan Bharadwaj\n, Tarje Nissen-Meyer, Gerard Schuster, and Martin Mai, Enhancing core-diffracted\narrivals by supervirtual interferometry, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2013\n\n\n\n\nPawan Bharadwaj\n, Xin Wang, Gerard Schuster, and Kirk McIntosh, Increasing the number and\nsignal-to-noise ratio of OBS traces with supervirtual refraction interferometry and\nfree-surface multiples, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2012\n\n\n\n\nPawan Bharadwaj\n, Gerard Schuster, Ian Mallinson, and Wei Dai, Theory of supervirtual refraction\ninterferometry, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2011\n\n\n\n\nIan Mallinson, \nPawan Bharadwaj\n, Gerard Schuster, and Helmut Jakubowicz, Enhanced refractor imaging\nby supervirtual interferometry, The Leading Edge \n[pdf]\n\n\n\n\nConference Abstracts\n\n\n2017\n\n\n\n\nPawan Bharadwaj\n, Laurent Demanet, Aim\u00e9 Fournier,\nDeblending random seismic sources via independent component analysis, SEG Annual Meeting \n[pdf]\n\n\n\n\nPhD Thesis\n\n\nSeismic Waveform Inversion: Bump Functional, Parameterization Analysis and Imaging Ahead of a Tunnel-Boring Machine \n[pdf]",
             "title": "Publications"
         },
         {
@@ -37,23 +42,43 @@
         },
         {
             "location": "/publications/#2017",
-            "text": "",
+            "text": "Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic\nfull waveform inversion,  Geophysical Journal International   [pdf]    Pawan Bharadwaj , Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,\nA shear-wave seismic system using full waveform inversion to look ahead of a tunnel-\nboring machine,  Near Surface Geophysics   [pdf]",
             "title": "2017"
         },
         {
             "location": "/publications/#2016",
-            "text": "",
+            "text": "Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, Full waveform inversion with an auxiliary\nbump functional,  Geophysical Journal International   [pdf]",
             "title": "2016"
         },
         {
+            "location": "/publications/#2014",
+            "text": "Pawan Bharadwaj , Tarje Nissen-Meyer, Gerard Schuster, and Martin Mai, Enhancing core-diffracted\narrivals by supervirtual interferometry,  Geophysical Journal International   [pdf]",
+            "title": "2014"
+        },
+        {
+            "location": "/publications/#2013",
+            "text": "Pawan Bharadwaj , Xin Wang, Gerard Schuster, and Kirk McIntosh, Increasing the number and\nsignal-to-noise ratio of OBS traces with supervirtual refraction interferometry and\nfree-surface multiples,  Geophysical Journal International   [pdf]",
+            "title": "2013"
+        },
+        {
+            "location": "/publications/#2012",
+            "text": "Pawan Bharadwaj , Gerard Schuster, Ian Mallinson, and Wei Dai, Theory of supervirtual refraction\ninterferometry,  Geophysical Journal International   [pdf]",
+            "title": "2012"
+        },
+        {
             "location": "/publications/#2011",
-            "text": "Enhanced Refractor Imaging by Supervirtual Interferometry",
+            "text": "Ian Mallinson,  Pawan Bharadwaj , Gerard Schuster, and Helmut Jakubowicz, Enhanced refractor imaging\nby supervirtual interferometry, The Leading Edge  [pdf]",
             "title": "2011"
         },
         {
             "location": "/publications/#conference-abstracts",
             "text": "",
             "title": "Conference Abstracts"
+        },
+        {
+            "location": "/publications/#2017_1",
+            "text": "Pawan Bharadwaj , Laurent Demanet, Aim\u00e9 Fournier,\nDeblending random seismic sources via independent component analysis, SEG Annual Meeting  [pdf]",
+            "title": "2017"
         },
         {
             "location": "/publications/#phd-thesis",
@@ -82,7 +107,7 @@
         },
         {
             "location": "/research/",
-            "text": "Blind Source Separation\n\n\nFull Wavefrom Inversion\n\n\nSuper-virtual Seismic Interferometry",
+            "text": "Blind Source Separation\n\n\nFull Waveform Inversion\n\n\nSuper-virtual Seismic Interferometry",
             "title": "Research"
         },
         {
@@ -91,9 +116,9 @@
             "title": "Blind Source Separation"
         },
         {
-            "location": "/research/#full-wavefrom-inversion",
+            "location": "/research/#full-waveform-inversion",
             "text": "",
-            "title": "Full Wavefrom Inversion"
+            "title": "Full Waveform Inversion"
         },
         {
             "location": "/research/#super-virtual-seismic-interferometry",
