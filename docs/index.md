@@ -1,7 +1,14 @@
 ![Pawan](img/pawbz2.jpg "Pawan") 
-# Welcome! Namaste!
+## Welcome! Namaste!
 I am a `geophysicist` by background, currently a postdoctoral associate in the 
-[Imaging and Computing Group](http://math.mit.edu/icg/) Massachusetts Institute of Technology.
+[Imaging and Computing Group](http://math.mit.edu/icg/), Massachusetts Institute of Technology (MIT).
+
+My research interests are in:
+
+* inverse problems
+* imaging
+* seismic interferometry
+* signal processing
 
 
 
