@@ -37,7 +37,7 @@ by supervirtual interferometry, `The Leading Edge` [\[pdf\]]()
 * *Pawan Bharadwaj*, Laurent Demanet, Aimé Fournier,
 Deblending random seismic sources via independent component analysis, 
 Society of Exploration Geophysicists,
-`SEG Annual Meeting` [\[pdf\]]()
+`SEG Annual Meeting` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/Pawan_ICA_SEG.pdf)
 
 ### 2016
 
