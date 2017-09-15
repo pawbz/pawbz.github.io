@@ -1,6 +1,9 @@
-I mainly write software in `FORTRAN` and `Julia`. Most of the packages are shared on my [GitHub](https://github.com/pawbz) page, 
-while I also include here some useful subroutines that I have worked on.
-
+I mainly write software in `FORTRAN` and `Julia`. 
+While programming in Julia, I find this [page](https://docs.julialang.org/en/latest/manual/performance-tips/) really useful. 
+I have shared most 
+of my contribution on [GitHub](https://github.com/pawbz).
+I plan to share a few other 
+useful subroutines here. 
 ## Seismic Inversion Toolbox in Julia
 
 * [Documentation](https://pawbz.github.io/JuMIT.jl/)
