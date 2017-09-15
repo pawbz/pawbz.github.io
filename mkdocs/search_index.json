@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome! Namaste!\n\n\nI am a \ngeophysicist\n by background, currently a postdoctoral associate in the \n\nImaging and Computing Group\n, Massachusetts Institute of Technology (MIT).\n\n\nMy research interests are in:\n\n\n\n\ninverse problems\n\n\nimaging\n\n\nseismic interferometry\n\n\nsignal processing\n\n\n\n\nOther Personal Pages\n\n\n\n\nGoogle Scholar Citations\n (for citation statistics)\n\n\nResearch Gate\n (for full text of publications)\n\n\nGitHub\n (software)\n\n\nORCID\n\n\nLinkedin\n\n\nEarth Resources Laboratory Homepage",
+            "text": "Welcome! Namaste!\n\n\nI am a \ngeophysicist\n, currently working as a \npostdoctoral associate in the \n\nImaging and Computing Group\n, Massachusetts Institute of Technology (MIT).\n\n\nMy research interests are in:\n\n\n\n\nwave-equation based imaging and inversion\n\n\nseismic interferometry and its applications in both exploration and global seismology\n\n\nsignal processing, blind deconvolution, source separation\n\n\nparallelization and developing efficient algorithms for \nhigh performance computing in geophysical applications\n\n\n\n\nOther Personal Pages\n\n\n\n\nGoogle Scholar Citations\n (for citation statistics)\n\n\nResearch Gate\n (for full text of publications)\n\n\nGitHub\n (software)\n\n\nORCID\n\n\nLinkedin\n\n\nEarth Resources Laboratory Homepage",
             "title": "Home"
         },
         {
             "location": "/#welcome-namaste",
-            "text": "I am a  geophysicist  by background, currently a postdoctoral associate in the  Imaging and Computing Group , Massachusetts Institute of Technology (MIT).  My research interests are in:   inverse problems  imaging  seismic interferometry  signal processing",
+            "text": "I am a  geophysicist , currently working as a \npostdoctoral associate in the  Imaging and Computing Group , Massachusetts Institute of Technology (MIT).  My research interests are in:   wave-equation based imaging and inversion  seismic interferometry and its applications in both exploration and global seismology  signal processing, blind deconvolution, source separation  parallelization and developing efficient algorithms for \nhigh performance computing in geophysical applications",
             "title": "Welcome! Namaste!"
         },
         {
@@ -17,13 +17,23 @@
         },
         {
             "location": "/aboutme/",
-            "text": "Education\n\n\n\n\n\n\n\n\nDegree\n\n\nUniversity\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nPhD, Applied Geophysics and Petrophysics\n\n\nDelft University of Technology (TU Delft), Delft, The Netherlands\n\n\n2016\n\n\n\n\n\n\nMSc Tech (Integrated), Applied Geophysics\n\n\nIndian Institute of Technology (Indian School of Mines), Dhanbad, India\n\n\n2012\n\n\n\n\n\n\n\n\nMailing Address\n\n\nDept. of Earth, Atmospheric and Planetary Sciences\n\nBuilding 54-319\n\n77 Massachusetts Ave., Cambridge, MA 02139\n\nPhone: +18573205756\n\nE-mail address: pawbz@mit.edu",
+            "text": "Education\n\n\n\n\n\n\n\n\nDegree\n\n\nUniversity\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nPhD in Geophysics\n\n\nDelft University of Technology (TU Delft), Delft, The Netherlands\n\n\n2016\n\n\n\n\n\n\nMSc Tech (Integrated), Applied Geophysics\n\n\nIndian Institute of Technology (Indian School of Mines), Dhanbad, India\n\n\n2012\n\n\n\n\n\n\n\n\nAcademic Visits\n\n\n\n\n\n\n\n\nTitle\n\n\nUniversity\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nGuest Researcher\n\n\nInstitute for Geophysics, University of Texas at Austin\n\n\nSeptember, 2011\n\n\n\n\n\n\nResearch Assistant\n\n\nKing Abdullah University of Science and Technology (KAUST)\n\n\n2010-2012 (multiple short-term visits)\n\n\n\n\n\n\n\n\nAwards and Grants\n\n\n\n\n\n\n\n\nGrant\n\n\nOrganisation\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nComputational Resource Grant\n\n\nNetherlands Organisation for Scientific Research (NWO)\n\n\n2014-2016\n\n\n\n\n\n\nInnovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship\n\n\nDepartment of Science and Technology, India\n\n\n2008-2012\n\n\n\n\n\n\nScholarship for Higher Education\n\n\nIndian School of Mines\n\n\n2008\n\n\n\n\n\n\n\n\nMailing Address\n\n\nDept. of Earth, Atmospheric and Planetary Sciences\n\nBuilding 54-319\n\n77 Massachusetts Ave., Cambridge, MA 02139\n\nPhone: +18573205756\n\nE-mail address: pawbz@mit.edu",
             "title": "About Me"
         },
         {
             "location": "/aboutme/#education",
-            "text": "Degree  University  Year      PhD, Applied Geophysics and Petrophysics  Delft University of Technology (TU Delft), Delft, The Netherlands  2016    MSc Tech (Integrated), Applied Geophysics  Indian Institute of Technology (Indian School of Mines), Dhanbad, India  2012",
+            "text": "Degree  University  Year      PhD in Geophysics  Delft University of Technology (TU Delft), Delft, The Netherlands  2016    MSc Tech (Integrated), Applied Geophysics  Indian Institute of Technology (Indian School of Mines), Dhanbad, India  2012",
             "title": "Education"
+        },
+        {
+            "location": "/aboutme/#academic-visits",
+            "text": "Title  University  Year      Guest Researcher  Institute for Geophysics, University of Texas at Austin  September, 2011    Research Assistant  King Abdullah University of Science and Technology (KAUST)  2010-2012 (multiple short-term visits)",
+            "title": "Academic Visits"
+        },
+        {
+            "location": "/aboutme/#awards-and-grants",
+            "text": "Grant  Organisation  Year      Computational Resource Grant  Netherlands Organisation for Scientific Research (NWO)  2014-2016    Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship  Department of Science and Technology, India  2008-2012    Scholarship for Higher Education  Indian School of Mines  2008",
+            "title": "Awards and Grants"
         },
         {
             "location": "/aboutme/#mailing-address",
@@ -162,7 +172,7 @@
         },
         {
             "location": "/software/",
-            "text": "I mainly write software in \nFORTRAN\n and \nJulia\n. Most of the packages are shared on my \nGitHub\n page, \nwhile I also include here some useful subroutines that I have worked on.\n\n\nSeismic Inversion Toolbox in Julia\n\n\n\n\nDocumentation\n\n\nA simple Jupyter \nnotebook\n that demonstrates \nfull waveform inversion of seismic data.\n\n\n\n\nProgramming Utils\n\n\n\n\nA Makefile to Automatically Compile f90 Source Files with Dependencies\n\n\n\n\nSignal Processing\n\n\n\n\nConstruct a Minimum Phase Butter-Worth Filter in Using Log Spectra",
+            "text": "I mainly write software in \nFORTRAN\n and \nJulia\n. \nWhile programming in Julia, I find this \npage\n really useful. \nI have shared most \nof my contribution on \nGitHub\n.\nI plan to share a few other \nuseful subroutines here. \n\n\nSeismic Inversion Toolbox in Julia\n\n\n\n\nDocumentation\n\n\nA simple Jupyter \nnotebook\n that demonstrates \nfull waveform inversion of seismic data.\n\n\n\n\nProgramming Utils\n\n\n\n\nA Makefile to Automatically Compile f90 Source Files with Dependencies\n\n\n\n\nSignal Processing\n\n\n\n\nConstruct a Minimum Phase Butter-Worth Filter in Using Log Spectra",
             "title": "Software"
         },
         {
