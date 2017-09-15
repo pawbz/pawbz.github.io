@@ -1,5 +1,5 @@
 ### Blind Source Separation and Deconvolution
-* Deblending Random Seismic Sources via Independent Component Analysis (2017) [\[slides\]]()
+* Deblending Random Seismic Sources via Independent Component Analysis (2017) [\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_Seismic_ICA_Tue_Talk.pdf)
 	* Central limit theorem
 	* Explanation of kurtosis
 	* Convolutional mixtures 
