@@ -2,7 +2,7 @@
 
 ### 2017
 * *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic
-full waveform inversion, ``Geophysical Journal International`` [\[pdf\]]()
+full waveform inversion, ``Geophysical Journal International`` (in review) [\[pdf\]]()
 
 * *Pawan Bharadwaj*, Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,
 A shear-wave seismic system using full waveform inversion to look ahead of a tunnel-
