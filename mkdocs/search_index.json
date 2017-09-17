@@ -172,7 +172,7 @@
         },
         {
             "location": "/software/",
-            "text": "I mainly write software in \nFORTRAN\n and \nJulia\n. \nWhile programming in Julia, I find this \npage\n really useful. \nI have shared most \nof my contribution on \nGitHub\n.\nI plan to share a few other \nuseful subroutines here. \n\n\nSeismic Inversion Toolbox in Julia\n\n\n\n\nDocumentation\n\n\nA simple Jupyter \nnotebook\n that demonstrates \nfull waveform inversion of seismic data.\n\n\n\n\nProgramming Utils\n\n\n\n\nA Makefile to Automatically Compile f90 Source Files with Dependencies\n\n\n\n\nSignal Processing\n\n\n\n\nConstruct a Minimum Phase Butter-Worth Filter in Using Log Spectra",
+            "text": "I mainly write software in \nFORTRAN\n and \nJulia\n. \nWhile programming in Julia, I find this \npage\n really useful. \nI have shared most \nof my contribution on \nGitHub\n.\nI plan to share a few other \nuseful subroutines here. \n\n\nSeismic Inversion Toolbox in Julia\n\n\n\n\nDocumentation\n\n\nA simple Jupyter \nnotebook\n that demonstrates \nfull waveform inversion of seismic data.\n\n\n\n\nProgramming Utils\n\n\n\n\nA Makefile to Automatically Compile f90 Source Files with Dependencies\n\n\nA \nguide\n to finalize your julia package.\n\n\n\n\nSignal Processing\n\n\n\n\nConstruct a Minimum Phase Butter-Worth Filter in Using Log Spectra",
             "title": "Software"
         },
         {
@@ -182,7 +182,7 @@
         },
         {
             "location": "/software/#programming-utils",
-            "text": "A Makefile to Automatically Compile f90 Source Files with Dependencies",
+            "text": "A Makefile to Automatically Compile f90 Source Files with Dependencies  A  guide  to finalize your julia package.",
             "title": "Programming Utils"
         },
         {
