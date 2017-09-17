@@ -18,6 +18,6 @@
 	* Cycle-skipping in FWI
 
 ### Seismic Interferometry
-* Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) [\[slides\]](fff)
+* Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) [\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_svi_cmb_compressed.pdf)
 	* Theory of supervirtual interferometry applied to diffractions
 
