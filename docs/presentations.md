@@ -1,5 +1,5 @@
 ### Blind Source Separation and Deconvolution
-* Deblending Random Seismic Sources via Independent Component Analysis (2017) [\[slides\]]()
+* Deblending Random Seismic Sources via Independent Component Analysis (2017) [\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_Seismic_ICA_Tue_Talk.pdf)
 	* Central limit theorem
 	* Explanation of kurtosis
 	* Convolutional mixtures 
@@ -18,6 +18,6 @@
 	* Cycle-skipping in FWI
 
 ### Seismic Interferometry
-* Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) [\[slides\]](fff)
+* Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) [\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_svi_cmb_compressed.pdf)
 	* Theory of supervirtual interferometry applied to diffractions
 

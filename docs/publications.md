@@ -6,30 +6,30 @@ full waveform inversion, ``Geophysical Journal International`` (in review) [\[pd
 
 * *Pawan Bharadwaj*, Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,
 A shear-wave seismic system using full waveform inversion to look ahead of a tunnel-
-boring machine, `Near Surface Geophysics` [\[pdf\]]()
+boring machine, `Near Surface Geophysics` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/NSG15_Bharadwaj.pdf)
 
 
 ### 2016
 * *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, Full waveform inversion with an auxiliary
-bump functional, `Geophysical Journal International` [\[pdf\]]()
+bump functional, `Geophysical Journal International` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/FWI_bump.pdf)
 
 ### 2014
 * *Pawan Bharadwaj*, Tarje Nissen-Meyer, Gerard Schuster, and Martin Mai, Enhancing core-diffracted
-arrivals by supervirtual interferometry, `Geophysical Journal International` [\[pdf\]]()
+arrivals by supervirtual interferometry, `Geophysical Journal International` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/GJI_CMB.pdf)
 
 ### 2013
 * *Pawan Bharadwaj*, Xin Wang, Gerard Schuster, and Kirk McIntosh, Increasing the number and
 signal-to-noise ratio of OBS traces with supervirtual refraction interferometry and
-free-surface multiples, `Geophysical Journal International` [\[pdf\]]()
+free-surface multiples, `Geophysical Journal International` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/svi_GJI2.pdf)
 
 ### 2012
 * *Pawan Bharadwaj*, Gerard Schuster, Ian Mallinson, and Wei Dai, Theory of supervirtual refraction
-interferometry, `Geophysical Journal International` [\[pdf\]]()
+interferometry, `Geophysical Journal International` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/svi_GJI1.pdf)
 
 
 ### 2011
 * Ian Mallinson, *Pawan Bharadwaj*, Gerard Schuster, and Helmut Jakubowicz, Enhanced refractor imaging
-by supervirtual interferometry, `The Leading Edge` [\[pdf\]]()
+by supervirtual interferometry, `The Leading Edge` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/svi_TLE.pdf)
 
 # Conference Abstracts
 
@@ -44,21 +44,21 @@ Society of Exploration Geophysicists,
 * *Pawan Bharadwaj*, Guy Drijkoningen, Wim Mulder, Thomas Tscharner, and Rob Jenneskens, A shear-wave 
 seismic system to look ahead of a tunnel boring machine, Proceedings of the
 Society for Mining, Metallurgy & Exploration,
-`World Tunneling Congress` [\[pdf\]]()
+`World Tunneling Congress` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/WTC2016_Pawan.pdf)
 
 
 ### 2015
 
 * *Pawan Bharadwaj*, Wim Mulder, Guy Drijkoningen, and Ralph Reijnen, Looking ahead of a tunnel
 boring machine with 2-D SH full waveform inversion, European Association of
-Geoscientists & Engineers Conference and Exhibition, `EAGE Annual Meeting` [\[pdf\]]()
+Geoscientists & Engineers Conference and Exhibition, `EAGE Annual Meeting` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/Pawan_looking_aheadEAGE.pdf)
 
 
 * *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, An auxiliary bump functional to overcome
 cycle skipping in waveform inversion, 
 European Association of Geoscientists
 & Engineers Conference and Exhibition-Workshops, 
-`EAGE Annual Meeting` [\[pdf\]]()
+`EAGE Annual Meeting` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/bump_functional_workshop.pdf)
 
 
 ### 2014 
@@ -67,7 +67,7 @@ European Association of Geoscientists
 inversion, 
 European Association of Geoscientists
 & Engineers Conference and Exhibition, 
-`EAGE Annual Meeting` [\[pdf\]]()
+`EAGE Annual Meeting` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/parameterization_EAGE.pdf)
 
 
 ### 2013
@@ -75,7 +75,7 @@ European Association of Geoscientists
 * *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, Multi-objective full waveform inversion
 in the absence of low frequencies, 
 Society of Exploration Geophysicists,
-`SEG Annual Meeting` [\[pdf\]]()
+`SEG Annual Meeting` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/Multi_objectiveFWI.pdf)
 
 
 ### 2012
@@ -83,7 +83,7 @@ Society of Exploration Geophysicists,
 * Gerard Schuster, *Pawan Bharadwaj*, Tarje Nissen-Meyer, and Martin Mai, Extracting CMB diffractions by
 super-virtual interferometry, 
 American Geophysical Union,
-`AGU Fall Meeting` [\[pdf\]]()
+`AGU Fall Meeting`
 
 
 ### 2011
@@ -91,25 +91,25 @@ American Geophysical Union,
 * *Pawan Bharadwaj*, Gerard  Schuster, and Ian Mallinson, Super-virtual refraction interferometry:
 theory, 
 Society of Exploration Geophysicists,
-`SEG Annual Meeting` [\[pdf\]]()
+`SEG Annual Meeting` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/SEG_SVITheory.pdf)
 
 
 * Gerard Schuster, *Pawan Bharadwaj*, and Kirk McIntosh, Refraction interferometry and free-surface
 multiples for large-offset OBS data,
 American Geophysical Union,
-`AGU Fall Meeting` [\[pdf\]]()
+`AGU Fall Meeting`
 
 
 ### 2010
 * Gerard Schuster and *Pawan Bharadwaj*, Extending the aperture and enhancing the S/N ratio of
 refraction imaging by super-virtual interferometry, 
 American Geophysical Union,
-`AGU Fall Meeting` [\[pdf\]]()
+`AGU Fall Meeting`
 
 
 
 # PhD Thesis
 
-Seismic Waveform Inversion: Bump Functional, Parameterization Analysis and Imaging Ahead of a Tunnel-Boring Machine [\[pdf\]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0ahUKEwjAwtWY6JbWAhWJ64MKHau0CKYQFgg0MAI&url=http%3A%2F%2Frepository.tudelft.nl%2Fislandora%2Fobject%2Fuuid%3A8d59fd51-cbac-408d-a3e0-6a15891c2695%2Fdatastream%2FOBJ%2Fdownload&usg=AFQjCNFDClvJbkmhyTkrGxJWiBNSOjooDA)
+Seismic Waveform Inversion: Bump Functional, Parameterization Analysis and Imaging Ahead of a Tunnel-Boring Machine [\[pdf\]](https://repository.tudelft.nl/islandora/object/uuid:8d59fd51-cbac-408d-a3e0-6a15891c2695/datastream/OBJ/download)
 
 
