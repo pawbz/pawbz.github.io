@@ -12,6 +12,7 @@ full waveform inversion of seismic data.
 
 ## Programming Utils 
 * A Makefile to Automatically Compile f90 Source Files with Dependencies
+* A [guide](http://www.stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/) to finalize your julia package.
 
 ## Signal Processing
 * Construct a Minimum Phase Butter-Worth Filter in Using Log Spectra
