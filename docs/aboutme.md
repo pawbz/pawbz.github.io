@@ -8,8 +8,8 @@ MSc Tech (Integrated), Applied Geophysics | Indian Institute of Technology (Indi
 ## Academic Visits
  Title  | University | Year
 ------------ | ------------- | ------------
-Guest Researcher| Institute for Geophysics, University of Texas at Austin | September, 2011
-Research Assistant | King Abdullah University of Science and Technology (KAUST) | 2010-2012 (multiple short-term visits)
+Guest Researcher| Institute for Geophysics, University of Texas at Austin, USA | September, 2011
+Research Assistant | King Abdullah University of Science and Technology (KAUST), Saudi Arabia | 2010-2012 (multiple short-term visits)
  
 
 
