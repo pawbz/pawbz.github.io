@@ -17,7 +17,7 @@
         },
         {
             "location": "/aboutme/",
-            "text": "Education\n\n\n\n\n\n\n\n\nDegree\n\n\nUniversity\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nPhD in Geophysics\n\n\nDelft University of Technology (TU Delft), Delft, The Netherlands\n\n\n2016\n\n\n\n\n\n\nMSc Tech (Integrated), Applied Geophysics\n\n\nIndian Institute of Technology (Indian School of Mines), Dhanbad, India\n\n\n2012\n\n\n\n\n\n\n\n\nAcademic Visits\n\n\n\n\n\n\n\n\nTitle\n\n\nUniversity\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nGuest Researcher\n\n\nInstitute for Geophysics, University of Texas at Austin\n\n\nSeptember, 2011\n\n\n\n\n\n\nResearch Assistant\n\n\nKing Abdullah University of Science and Technology (KAUST)\n\n\n2010-2012 (multiple short-term visits)\n\n\n\n\n\n\n\n\nAwards and Grants\n\n\n\n\n\n\n\n\nGrant\n\n\nOrganisation\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nComputational Resource Grant\n\n\nNetherlands Organisation for Scientific Research (NWO)\n\n\n2014-2016\n\n\n\n\n\n\nInnovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship\n\n\nDepartment of Science and Technology, India\n\n\n2008-2012\n\n\n\n\n\n\nScholarship for Higher Education\n\n\nIndian School of Mines\n\n\n2008\n\n\n\n\n\n\n\n\nMailing Address\n\n\nDept. of Earth, Atmospheric and Planetary Sciences\n\nBuilding 54-319\n\n77 Massachusetts Ave., Cambridge, MA 02139\n\nPhone: +18573205756\n\nE-mail address: pawbz@mit.edu",
+            "text": "Education\n\n\n\n\n\n\n\n\nDegree\n\n\nUniversity\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nPhD in Geophysics\n\n\nDelft University of Technology (TU Delft), Delft, The Netherlands\n\n\n2016\n\n\n\n\n\n\nMSc Tech (Integrated), Applied Geophysics\n\n\nIndian Institute of Technology (Indian School of Mines), Dhanbad, India\n\n\n2012\n\n\n\n\n\n\n\n\nAcademic Visits\n\n\n\n\n\n\n\n\nTitle\n\n\nUniversity\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nGuest Researcher\n\n\nInstitute for Geophysics, University of Texas at Austin, USA\n\n\nSeptember, 2011\n\n\n\n\n\n\nResearch Assistant\n\n\nKing Abdullah University of Science and Technology (KAUST), Saudi Arabia\n\n\n2010-2012 (multiple short-term visits)\n\n\n\n\n\n\n\n\nAwards and Grants\n\n\n\n\n\n\n\n\nGrant\n\n\nOrganisation\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nComputational Resource Grant\n\n\nNetherlands Organisation for Scientific Research (NWO)\n\n\n2014-2016\n\n\n\n\n\n\nInnovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship\n\n\nDepartment of Science and Technology, India\n\n\n2008-2012\n\n\n\n\n\n\nScholarship for Higher Education\n\n\nIndian School of Mines\n\n\n2008\n\n\n\n\n\n\n\n\nMailing Address\n\n\nDept. of Earth, Atmospheric and Planetary Sciences\n\nBuilding 54-319\n\n77 Massachusetts Ave., Cambridge, MA 02139\n\nPhone: +18573205756\n\nE-mail address: pawbz@mit.edu",
             "title": "About Me"
         },
         {
@@ -27,7 +27,7 @@
         },
         {
             "location": "/aboutme/#academic-visits",
-            "text": "Title  University  Year      Guest Researcher  Institute for Geophysics, University of Texas at Austin  September, 2011    Research Assistant  King Abdullah University of Science and Technology (KAUST)  2010-2012 (multiple short-term visits)",
+            "text": "Title  University  Year      Guest Researcher  Institute for Geophysics, University of Texas at Austin, USA  September, 2011    Research Assistant  King Abdullah University of Science and Technology (KAUST), Saudi Arabia  2010-2012 (multiple short-term visits)",
             "title": "Academic Visits"
         },
         {
@@ -131,44 +131,24 @@
             "title": "PhD Thesis"
         },
         {
-            "location": "/presentations/",
+            "location": "/research/",
             "text": "Blind Source Separation and Deconvolution\n\n\n\n\nDeblending Random Seismic Sources via Independent Component Analysis (2017) \n[slides]\n\n\nCentral limit theorem\n\n\nExplanation of kurtosis\n\n\nConvolutional mixtures \n\n\nFrequency-domain ICA applied to seismic data\n\n\n\n\n\n\n\n\nFull Waveform Inversion\n\n\n\n\nFull Waveform Inversion with an Auxiliary Bump Functional (2016) \n[slides]\n\n\nSimplication of seismic data for inversion\n\n\nEnvelope-based misfit\n\n\nOvercome cycle-skipping \n\n\nMulti-objective inversion strategies\n\n\n\n\n\n\nParametrization Analysis for Full Waveform Inversion (2014) \n[slides]\n\n\nAmbiguities in parameterization of multi-parameter quantitative seismic imaging \n\n\n\n\n\n\nMulti-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013) \n[slides]\n\n\nMaximizing correlation between observed and modelled seismic data\n\n\nCycle-skipping in FWI\n\n\n\n\n\n\n\n\nSeismic Interferometry\n\n\n\n\nEnhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) \n[slides]\n\n\nTheory of supervirtual interferometry applied to diffractions",
-            "title": "Presentations"
+            "title": "Research"
         },
         {
-            "location": "/presentations/#blind-source-separation-and-deconvolution",
+            "location": "/research/#blind-source-separation-and-deconvolution",
             "text": "Deblending Random Seismic Sources via Independent Component Analysis (2017)  [slides]  Central limit theorem  Explanation of kurtosis  Convolutional mixtures   Frequency-domain ICA applied to seismic data",
             "title": "Blind Source Separation and Deconvolution"
         },
         {
-            "location": "/presentations/#full-waveform-inversion",
+            "location": "/research/#full-waveform-inversion",
             "text": "Full Waveform Inversion with an Auxiliary Bump Functional (2016)  [slides]  Simplication of seismic data for inversion  Envelope-based misfit  Overcome cycle-skipping   Multi-objective inversion strategies    Parametrization Analysis for Full Waveform Inversion (2014)  [slides]  Ambiguities in parameterization of multi-parameter quantitative seismic imaging     Multi-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013)  [slides]  Maximizing correlation between observed and modelled seismic data  Cycle-skipping in FWI",
             "title": "Full Waveform Inversion"
         },
         {
-            "location": "/presentations/#seismic-interferometry",
+            "location": "/research/#seismic-interferometry",
             "text": "Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013)  [slides]  Theory of supervirtual interferometry applied to diffractions",
             "title": "Seismic Interferometry"
-        },
-        {
-            "location": "/research/",
-            "text": "Come back soon...\n\n\nBlind Source Separation\n\n\nFull Waveform Inversion\n\n\nSupervirtual Seismic Interferometry",
-            "title": "Research"
-        },
-        {
-            "location": "/research/#blind-source-separation",
-            "text": "",
-            "title": "Blind Source Separation"
-        },
-        {
-            "location": "/research/#full-waveform-inversion",
-            "text": "",
-            "title": "Full Waveform Inversion"
-        },
-        {
-            "location": "/research/#supervirtual-seismic-interferometry",
-            "text": "",
-            "title": "Supervirtual Seismic Interferometry"
         },
         {
             "location": "/software/",
