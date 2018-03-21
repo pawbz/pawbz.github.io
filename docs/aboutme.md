@@ -17,6 +17,7 @@ Research Assistant | King Abdullah University of Science and Technology (KAUST),
 
  Grant  | Organisation | Year
 ------------ | ------------- | ------------
+Best Paper Award | TU Delft Geosciences Research Meeting | 2018
 Computational Resource Grant | Netherlands Organisation for Scientific Research (NWO) | 2014-2016
 Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship | Department of Science and Technology, India | 2008-2012
 Scholarship for Higher Education |Indian School of Mines|2008 
