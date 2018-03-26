@@ -47,13 +47,83 @@
         },
         {
             "location": "/publications/#journal-articles",
-            "text": "2017    Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic\nfull waveform inversion,  Geophysical Journal International  (in review)  [pdf]    Pawan Bharadwaj , Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,\nA shear-wave seismic system using full waveform inversion to look ahead of a tunnel-\nboring machine,  Near Surface Geophysics   [pdf]    2016   Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, Full waveform inversion with an auxiliary\nbump functional,  Geophysical Journal International   [pdf]   2014   Pawan Bharadwaj , Tarje Nissen-Meyer, Gerard Schuster, and Martin Mai, Enhancing core-diffracted\narrivals by supervirtual interferometry,  Geophysical Journal International   [pdf]   2013   Pawan Bharadwaj , Xin Wang, Gerard Schuster, and Kirk McIntosh, Increasing the number and\nsignal-to-noise ratio of OBS traces with supervirtual refraction interferometry and\nfree-surface multiples,  Geophysical Journal International   [pdf]   2012   Pawan Bharadwaj , Gerard Schuster, Ian Mallinson, and Wei Dai, Theory of supervirtual refraction\ninterferometry,  Geophysical Journal International   [pdf]   2011   Ian Mallinson,  Pawan Bharadwaj , Gerard Schuster, and Helmut Jakubowicz, Enhanced refractor imaging\nby supervirtual interferometry,  The Leading Edge   [pdf]",
+            "text": "",
             "title": "Journal Articles"
         },
         {
+            "location": "/publications/#2017",
+            "text": "Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic\nfull waveform inversion,  Geophysical Journal International  (in review)  [pdf]    Pawan Bharadwaj , Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,\nA shear-wave seismic system using full waveform inversion to look ahead of a tunnel-\nboring machine,  Near Surface Geophysics   [pdf]",
+            "title": "2017"
+        },
+        {
+            "location": "/publications/#2016",
+            "text": "Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, Full waveform inversion with an auxiliary\nbump functional,  Geophysical Journal International   [pdf]",
+            "title": "2016"
+        },
+        {
+            "location": "/publications/#2014",
+            "text": "Pawan Bharadwaj , Tarje Nissen-Meyer, Gerard Schuster, and Martin Mai, Enhancing core-diffracted\narrivals by supervirtual interferometry,  Geophysical Journal International   [pdf]",
+            "title": "2014"
+        },
+        {
+            "location": "/publications/#2013",
+            "text": "Pawan Bharadwaj , Xin Wang, Gerard Schuster, and Kirk McIntosh, Increasing the number and\nsignal-to-noise ratio of OBS traces with supervirtual refraction interferometry and\nfree-surface multiples,  Geophysical Journal International   [pdf]",
+            "title": "2013"
+        },
+        {
+            "location": "/publications/#2012",
+            "text": "Pawan Bharadwaj , Gerard Schuster, Ian Mallinson, and Wei Dai, Theory of supervirtual refraction\ninterferometry,  Geophysical Journal International   [pdf]",
+            "title": "2012"
+        },
+        {
+            "location": "/publications/#2011",
+            "text": "Ian Mallinson,  Pawan Bharadwaj , Gerard Schuster, and Helmut Jakubowicz, Enhanced refractor imaging\nby supervirtual interferometry,  The Leading Edge   [pdf]",
+            "title": "2011"
+        },
+        {
             "location": "/publications/#conference-abstracts",
-            "text": "2017   Pawan Bharadwaj , Laurent Demanet, Aim\u00e9 Fournier,\nDeblending random seismic sources via independent component analysis, \nSociety of Exploration Geophysicists, SEG Annual Meeting   [pdf]   2016   Pawan Bharadwaj , Guy Drijkoningen, Wim Mulder, Thomas Tscharner, and Rob Jenneskens, A shear-wave \nseismic system to look ahead of a tunnel boring machine, Proceedings of the\nSociety for Mining, Metallurgy & Exploration, World Tunneling Congress   [pdf]   2015    Pawan Bharadwaj , Wim Mulder, Guy Drijkoningen, and Ralph Reijnen, Looking ahead of a tunnel\nboring machine with 2-D SH full waveform inversion, European Association of\nGeoscientists & Engineers Conference and Exhibition,  EAGE Annual Meeting   [pdf]    Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, An auxiliary bump functional to overcome\ncycle skipping in waveform inversion, \nEuropean Association of Geoscientists\n& Engineers Conference and Exhibition-Workshops,  EAGE Annual Meeting   [pdf]    2014   Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, Parametrization for 2-D SH full waveform\ninversion, \nEuropean Association of Geoscientists\n& Engineers Conference and Exhibition,  EAGE Annual Meeting   [pdf]   2013   Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, Multi-objective full waveform inversion\nin the absence of low frequencies, \nSociety of Exploration Geophysicists, SEG Annual Meeting   [pdf]   2012   Gerard Schuster,  Pawan Bharadwaj , Tarje Nissen-Meyer, and Martin Mai, Extracting CMB diffractions by\nsuper-virtual interferometry, \nAmerican Geophysical Union, AGU Fall Meeting   2011    Pawan Bharadwaj , Gerard  Schuster, and Ian Mallinson, Super-virtual refraction interferometry:\ntheory, \nSociety of Exploration Geophysicists, SEG Annual Meeting   [pdf]    Gerard Schuster,  Pawan Bharadwaj , and Kirk McIntosh, Refraction interferometry and free-surface\nmultiples for large-offset OBS data,\nAmerican Geophysical Union, AGU Fall Meeting    2010   Gerard Schuster and  Pawan Bharadwaj , Extending the aperture and enhancing the S/N ratio of\nrefraction imaging by super-virtual interferometry, \nAmerican Geophysical Union, AGU Fall Meeting",
+            "text": "",
             "title": "Conference Abstracts"
+        },
+        {
+            "location": "/publications/#2017_1",
+            "text": "Pawan Bharadwaj , Laurent Demanet, Aim\u00e9 Fournier,\nDeblending random seismic sources via independent component analysis, \nSociety of Exploration Geophysicists, SEG Annual Meeting   [pdf]",
+            "title": "2017"
+        },
+        {
+            "location": "/publications/#2016_1",
+            "text": "Pawan Bharadwaj , Guy Drijkoningen, Wim Mulder, Thomas Tscharner, and Rob Jenneskens, A shear-wave \nseismic system to look ahead of a tunnel boring machine, Proceedings of the\nSociety for Mining, Metallurgy & Exploration, World Tunneling Congress   [pdf]",
+            "title": "2016"
+        },
+        {
+            "location": "/publications/#2015",
+            "text": "Pawan Bharadwaj , Wim Mulder, Guy Drijkoningen, and Ralph Reijnen, Looking ahead of a tunnel\nboring machine with 2-D SH full waveform inversion, European Association of\nGeoscientists & Engineers Conference and Exhibition,  EAGE Annual Meeting   [pdf]    Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, An auxiliary bump functional to overcome\ncycle skipping in waveform inversion, \nEuropean Association of Geoscientists\n& Engineers Conference and Exhibition-Workshops,  EAGE Annual Meeting   [pdf]",
+            "title": "2015"
+        },
+        {
+            "location": "/publications/#2014_1",
+            "text": "Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, Parametrization for 2-D SH full waveform\ninversion, \nEuropean Association of Geoscientists\n& Engineers Conference and Exhibition,  EAGE Annual Meeting   [pdf]",
+            "title": "2014"
+        },
+        {
+            "location": "/publications/#2013_1",
+            "text": "Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, Multi-objective full waveform inversion\nin the absence of low frequencies, \nSociety of Exploration Geophysicists, SEG Annual Meeting   [pdf]",
+            "title": "2013"
+        },
+        {
+            "location": "/publications/#2012_1",
+            "text": "Gerard Schuster,  Pawan Bharadwaj , Tarje Nissen-Meyer, and Martin Mai, Extracting CMB diffractions by\nsuper-virtual interferometry, \nAmerican Geophysical Union, AGU Fall Meeting",
+            "title": "2012"
+        },
+        {
+            "location": "/publications/#2011_1",
+            "text": "Pawan Bharadwaj , Gerard  Schuster, and Ian Mallinson, Super-virtual refraction interferometry:\ntheory, \nSociety of Exploration Geophysicists, SEG Annual Meeting   [pdf]    Gerard Schuster,  Pawan Bharadwaj , and Kirk McIntosh, Refraction interferometry and free-surface\nmultiples for large-offset OBS data,\nAmerican Geophysical Union, AGU Fall Meeting",
+            "title": "2011"
+        },
+        {
+            "location": "/publications/#2010",
+            "text": "Gerard Schuster and  Pawan Bharadwaj , Extending the aperture and enhancing the S/N ratio of\nrefraction imaging by super-virtual interferometry, \nAmerican Geophysical Union, AGU Fall Meeting",
+            "title": "2010"
         },
         {
             "location": "/publications/#phd-thesis",
@@ -66,8 +136,23 @@
             "title": "Research"
         },
         {
+            "location": "/research/#blind-source-separation-and-deconvolution",
+            "text": "Deblending Random Seismic Sources via Independent Component Analysis (2017)  [slides]  Central limit theorem  Explanation of kurtosis  Convolutional mixtures   Frequency-domain ICA applied to seismic data",
+            "title": "Blind Source Separation and Deconvolution"
+        },
+        {
+            "location": "/research/#full-waveform-inversion",
+            "text": "Full Waveform Inversion with an Auxiliary Bump Functional (2016)  [slides]  Simplication of seismic data for inversion  Envelope-based misfit  Overcome cycle-skipping   Multi-objective inversion strategies    Parametrization Analysis for Full Waveform Inversion (2014)  [slides]  Ambiguities in parameterization of multi-parameter quantitative seismic imaging     Multi-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013)  [slides]  Maximizing correlation between observed and modelled seismic data  Cycle-skipping in FWI",
+            "title": "Full Waveform Inversion"
+        },
+        {
+            "location": "/research/#seismic-interferometry",
+            "text": "Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013)  [slides]  Theory of supervirtual interferometry applied to diffractions",
+            "title": "Seismic Interferometry"
+        },
+        {
             "location": "/software/",
-            "text": "I mainly write software in \nFORTRAN\n and \nJulia\n. \nWhile programming in Julia, I find this \npage\n really useful. \nI have shared most \nof my contribution on \nGitHub\n.\nI plan to share a few other \nuseful subroutines here. \n\n\nSeismic Inversion Toolbox in Julia\n\n\n\n\nDocumentation\n\n\nA simple Jupyter \nnotebook\n that demonstrates \nfull waveform inversion of seismic data.\n\n\n\n\nProgramming Utils\n\n\n\n\nA Makefile to Automatically Compile f90 Source Files with Dependencies\n\n\nA \nguide\n to finalize your julia package.\n\n\n\n\nSignal Processing\n\n\n\n\nConstruct a Minimum Phase Butter-Worth Filter in Using Log Spectra",
+            "text": "I mainly write software in \nFORTRAN\n and \nJulia\n. \nWhile programming in Julia, I find this \npage\n really useful. \nI have shared most \nof my contribution on \nGitHub\n.\nI plan to share a few other \nuseful subroutines here. \n\n\nSeismic Inversion Toolbox in Julia\n\n\n\n\nDocumentation\n\n\nA simple Jupyter \nnotebook\n that demonstrates \nfull waveform inversion of seismic data.\n\n\n\n\nProgramming Utils\n\n\n\n\nA Makefile to Automatically Compile f90 Source Files with Dependencies\n\n\nA \nguide\n to finalize your julia package.\n\n\n\n\nSignal Processing\n\n\n\n\nConstruct a Minimum Phase Butter-Worth Filter in Using Log Spectra\n\n\n\n\nJulia Tips\n\n\n\n\nuse copy! whenever possible\n\n\n\n\na\n=\nrandn\n(\n1000\n,\n1000\n)\n\n\nb\n=\nrandn\n(\n1000\n,\n1000\n)\n\n\n@time\n \na\n[\n:\n]\n \n=\n \nb\n[\n:\n]\n\n\n@time\n \na\n[\n:\n]\n \n.=\n \nb\n[\n:\n]\n\n\n@time\n \ncopy!\n(\na\n,\nb\n)",
             "title": "Software"
         },
         {
@@ -84,6 +169,11 @@
             "location": "/software/#signal-processing",
             "text": "Construct a Minimum Phase Butter-Worth Filter in Using Log Spectra",
             "title": "Signal Processing"
+        },
+        {
+            "location": "/software/#julia-tips",
+            "text": "use copy! whenever possible   a = randn ( 1000 , 1000 )  b = randn ( 1000 , 1000 )  @time   a [ : ]   =   b [ : ]  @time   a [ : ]   .=   b [ : ]  @time   copy! ( a , b )",
+            "title": "Julia Tips"
         }
     ]
 }
