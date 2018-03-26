@@ -1,4 +1,4 @@
-![Pawan](img/pawbz2.jpg "Pawan") 
+![Pawan](img/pawbz3.jpg "Pawan") 
 ## Welcome! Namaste!
 I am a `geophysicist`, currently working as a 
 postdoctoral associate in the 

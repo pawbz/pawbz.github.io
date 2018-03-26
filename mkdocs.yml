@@ -26,6 +26,5 @@ pages:
           - Home: index.md
           - About Me: aboutme.md
           - Publications: publications.md
-          - Presentations: presentations.md
           - Research: research.md
           - Software: software.md

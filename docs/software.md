@@ -18,3 +18,16 @@ full waveform inversion of seismic data.
 * Construct a Minimum Phase Butter-Worth Filter in Using Log Spectra
 
 
+## Julia Tips
+
+* use copy! whenever possible
+```julia
+a=randn(1000,1000)
+b=randn(1000,1000)
+@time a[:] = b[:]
+@time a[:] .= b[:]
+@time copy!(a,b)
+```
+
+
+
