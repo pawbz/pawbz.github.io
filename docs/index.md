@@ -1,8 +1,8 @@
 ![Pawan](img/pawbz3.jpg "Pawan") 
 ## Welcome! Namaste!
-I am a `geophysicist`, currently working as a 
+I am a geophysicist, currently working as a 
 postdoctoral associate in the 
-[Imaging and Computing Group](http://math.mit.edu/icg/), Massachusetts Institute of Technology (MIT).
+[Imaging and Computing Group](http://math.mit.edu/icg/) and [Earth Resources Laboratory](http://erlweb.mit.edu/), Massachusetts Institute of Technology (MIT).
 
 My research interests are in:
 
