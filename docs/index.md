@@ -1,4 +1,4 @@
-![Pawan](img/pawbz3.jpg "Pawan") 
+<img align="right" width="220" height="300" src="img/pawbz3.jpg">
 ## Welcome! Namaste!
 I am a geophysicist, currently working as a 
 postdoctoral associate in the 
