@@ -32,6 +32,12 @@ by supervirtual interferometry, `The Leading Edge` [\[pdf\]](https://github.com/
 
 # Conference Abstracts
 
+### 2018
+* *Pawan Bharadwaj*, Laurent Demanet, Aimé Fournier,
+Focused blind deconvolution of interferometric Green’s functions,
+Society of Exploration Geophysicists,
+`SEG Annual Meeting` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/Pawan_FIBD_SEG.pdf)
+
 ### 2017
 * *Pawan Bharadwaj*, Laurent Demanet, Aimé Fournier,
 Deblending random seismic sources via independent component analysis, 
