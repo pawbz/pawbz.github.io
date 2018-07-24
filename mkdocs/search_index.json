@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome! Namaste!\n\n\nI am a geophysicist, currently working as a \npostdoctoral associate in the \n\nImaging and Computing Group\n and \nEarth Resources Laboratory\n, Massachusetts Institute of Technology (MIT).\n\n\nMy research interests are in:\n\n\n\n\nwave-equation based imaging and inversion\n\n\nseismic interferometry and its applications in both exploration and global seismology\n\n\nsignal processing, blind deconvolution, source separation\n\n\nparallelization and developing efficient algorithms for \nhigh performance computing in geophysical applications\n\n\n\n\nOther Personal Pages\n\n\n\n\nGoogle Scholar Citations\n (for citation statistics)\n\n\nResearch Gate\n (for full text of publications)\n\n\nGitHub\n (software)\n\n\nORCID\n\n\nLinkedin\n\n\nEarth Resources Laboratory Homepage",
+            "text": "Welcome! Namaste!\n\n\nI am a researcher \nwith an expertise in inverse problems and \nsignal processing relevant to wave propagation and \nscattering. I have developed a passion to solve real-life challenges pertaining to seismic, radar and medical imaging. \nCurrently working as a \npostdoctoral associate in the \n\nImaging and Computing Group\n and \nEarth Resources Laboratory\n, Massachusetts Institute of Technology (MIT).\n\n\n\n\nResearch interests\n\n\n\n\nwave-equation based imaging and inversion\n\n\nseismic interferometry and its applications in both exploration and global seismology\n\n\nsignal processing, blind deconvolution, source separation\n\n\nparallelization and developing efficient algorithms for \nhigh performance computing in geophysical applications\n\n\n\n\n\n\nOther Personal Pages\n\n\n\n\nGoogle Scholar Citations\n (for citation statistics)\n\n\nResearch Gate\n (for full text of publications)\n\n\nGitHub\n (software)\n\n\nORCID\n\n\nLinkedin\n\n\nEarth Resources Laboratory Homepage",
             "title": "Home"
         },
         {
             "location": "/#welcome-namaste",
-            "text": "I am a geophysicist, currently working as a \npostdoctoral associate in the  Imaging and Computing Group  and  Earth Resources Laboratory , Massachusetts Institute of Technology (MIT).  My research interests are in:   wave-equation based imaging and inversion  seismic interferometry and its applications in both exploration and global seismology  signal processing, blind deconvolution, source separation  parallelization and developing efficient algorithms for \nhigh performance computing in geophysical applications",
+            "text": "I am a researcher \nwith an expertise in inverse problems and \nsignal processing relevant to wave propagation and \nscattering. I have developed a passion to solve real-life challenges pertaining to seismic, radar and medical imaging. \nCurrently working as a \npostdoctoral associate in the  Imaging and Computing Group  and  Earth Resources Laboratory , Massachusetts Institute of Technology (MIT).",
             "title": "Welcome! Namaste!"
+        },
+        {
+            "location": "/#research-interests",
+            "text": "wave-equation based imaging and inversion  seismic interferometry and its applications in both exploration and global seismology  signal processing, blind deconvolution, source separation  parallelization and developing efficient algorithms for \nhigh performance computing in geophysical applications",
+            "title": "Research interests"
         },
         {
             "location": "/#other-personal-pages",
