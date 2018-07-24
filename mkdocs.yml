@@ -12,6 +12,8 @@ extra_javascript:
               - assets/mathjaxhelper.js
 
 markdown_extensions:
+          - pymdownx.emoji:
+                  emoji_generator: !!python/name:pymdownx.emoji.to_svg
           - codehilite
           - extra
           - tables
