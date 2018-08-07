@@ -1,8 +1,13 @@
-# Journal Articles
+## Peer-reviewed Journal Articles
+
+### 2018 
+* *Pawan Bharadwaj*, Laurent Demanet, Aimé Fournier,
+Focused blind deconvolution, submitted to IEEE
+[\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/Bharadwaj_FBD_arXiv1.pdf)
+
+
 
 ### 2017
-* *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic full-waveform inversion of sub-wavelength anomalies, `arXiv preprint` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/Param_arXiv.pdf)
-
 * *Pawan Bharadwaj*, Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,
 A shear-wave seismic system using full waveform inversion to look ahead of a tunnel-
 boring machine, `Near Surface Geophysics` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/NSG15_Bharadwaj.pdf)
@@ -30,7 +35,7 @@ interferometry, `Geophysical Journal International` [\[pdf\]](https://github.com
 * Ian Mallinson, *Pawan Bharadwaj*, Gerard Schuster, and Helmut Jakubowicz, Enhanced refractor imaging
 by supervirtual interferometry, `The Leading Edge` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/svi_TLE.pdf)
 
-# Conference Abstracts
+## Peer-reviewed Conference Articles
 
 ### 2018
 * *Pawan Bharadwaj*, Laurent Demanet, Aimé Fournier,
@@ -83,13 +88,6 @@ Society of Exploration Geophysicists,
 `SEG Annual Meeting` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/Multi_objectiveFWI.pdf)
 
 
-### 2012
-
-* Gerard Schuster, *Pawan Bharadwaj*, Tarje Nissen-Meyer, and Martin Mai, Extracting CMB diffractions by
-super-virtual interferometry, 
-American Geophysical Union,
-`AGU Fall Meeting`
-
 
 ### 2011
 
@@ -98,11 +96,36 @@ theory,
 Society of Exploration Geophysicists,
 `SEG Annual Meeting` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/SEG_SVITheory.pdf)
 
+## arXiv.org 
+
+###  2017
+* *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic full-waveform inversion of sub-wavelength anomalies [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/Param_arXiv.pdf)
+
+
+## Abstracts
+
+### 2018
+* Pawan Bharadwaj, Yusuke Mukuhira, Laurent Demanet, Michael Fehler, Aimé Fournier, 
+Focused blind deconvolution of earthquake signals,
+American Geophysical Union,
+`AGU Fall Meeting`
+
+
+
+### 2012
+
+* Gerard Schuster, *Pawan Bharadwaj*, Tarje Nissen-Meyer, and Martin Mai, Extracting CMB diffractions by
+super-virtual interferometry, 
+American Geophysical Union,
+`AGU Fall Meeting`
+
+### 2011
 
 * Gerard Schuster, *Pawan Bharadwaj*, and Kirk McIntosh, Refraction interferometry and free-surface
 multiples for large-offset OBS data,
 American Geophysical Union,
 `AGU Fall Meeting`
+
 
 
 ### 2010
@@ -113,7 +136,8 @@ American Geophysical Union,
 
 
 
-# PhD Thesis
+
+## PhD Thesis
 
 Seismic Waveform Inversion: Bump Functional, Parameterization Analysis and Imaging Ahead of a Tunnel-Boring Machine [\[pdf\]](https://repository.tudelft.nl/islandora/object/uuid:8d59fd51-cbac-408d-a3e0-6a15891c2695/datastream/OBJ/download)
 
