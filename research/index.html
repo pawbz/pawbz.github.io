@@ -118,58 +118,56 @@
             <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#focused-blind-deconvolution">Focused Blind Deconvolution</a></li>
+        <li class="main active"><a href="#research-experience">Research Experience</a></li>
         
-    
-        <li class="main "><a href="#blind-source-separation-deblending">Blind Source Separation/ Deblending</a></li>
+            <li><a href="#focused-blind-deconvolution-fbd">Focused Blind Deconvolution (FBD)</a></li>
         
-    
-        <li class="main "><a href="#full-waveform-inversion">Full Waveform Inversion</a></li>
+            <li><a href="#blind-source-separation-deblending">Blind Source Separation/ Deblending</a></li>
         
-    
-        <li class="main "><a href="#seismic-interferometry">Seismic Interferometry</a></li>
+            <li><a href="#full-waveform-inversion-fwi">Full Waveform Inversion (FWI)</a></li>
+        
+            <li><a href="#seismic-interferometry">Seismic Interferometry</a></li>
         
     
     </ul>
 </div></div>
             <div class="col-md-9" role="main">
 
-<h3 id="focused-blind-deconvolution">Focused Blind Deconvolution</h3>
+<h2 id="research-experience">Research Experience</h2>
+<h3 id="focused-blind-deconvolution-fbd">Focused Blind Deconvolution (FBD)</h3>
+<ul>
+<li>Developed this blind deconvolution method that 
+extracts sparse and front-loaded impulse responses from the channel outputs, i.e., 
+their convolutions with a single arbitrary source. <a href="https://arxiv.org/abs/1808.00166">[paper]</a></li>
+<li>This method resolves the indeterminacy inherent to multichannel blind deconvolution and 
+I have demonstrated its applications in both exploration and global seismology.</li>
+<li>In the seismic context, the extracted impulse responses correspond to the 
+Green's function of the subsurface and can be directly input to the imaging algorithms.</li>
+</ul>
 <h3 id="blind-source-separation-deblending">Blind Source Separation/ Deblending</h3>
 <ul>
-<li>Deblending Random Seismic Sources via Independent Component Analysis (2017) <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_Seismic_ICA_Tue_Talk.pdf">[slides]</a><ul>
-<li>Central limit theorem</li>
-<li>Explanation of kurtosis</li>
-<li>Convolutional mixtures </li>
-<li>Frequency-domain ICA applied to seismic data</li>
+<li>Demonstrated the application of 
+frequency-domain independent component analysis
+to deblend random seismic sources. <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_Seismic_ICA_Tue_Talk.pdf">[slides]</a> <a href="https://library.seg.org/doi/abs/10.1190/segam2017-17677817.1">[paper]</a></li>
+<li>ICA uses higher-order statistics to measure the Gaussianity of signals and working with convolutive mixtures 
+(as in seismic exploration) is a challenging problem.</li>
 </ul>
-</li>
-</ul>
-<h3 id="full-waveform-inversion">Full Waveform Inversion</h3>
+<h3 id="full-waveform-inversion-fwi">Full Waveform Inversion (FWI)</h3>
 <ul>
-<li>Full Waveform Inversion with an Auxiliary Bump Functional (2016) <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_BumpFunctional_Slides.pdf">[slides]</a><ul>
-<li>Simplication of seismic data for inversion</li>
-<li>Envelope-based misfit</li>
-<li>Overcome cycle-skipping </li>
-<li>Multi-objective inversion strategies</li>
-</ul>
-</li>
-<li>Parametrization Analysis for Full Waveform Inversion (2014) <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_EAGE14slides.pdf">[slides]</a><ul>
-<li>Ambiguities in parameterization of multi-parameter quantitative seismic imaging </li>
-</ul>
-</li>
-<li>Multi-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013) <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_SEG13slides.pdf">[slides]</a><ul>
-<li>Maximizing correlation between observed and modelled seismic data</li>
-<li>Cycle-skipping in FWI</li>
-</ul>
-</li>
+<li>I have formulated an auxiliary bump functional for seismic inversion. <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_BumpFunctional_Slides.pdf">[slides]</a> <a href="https://academic.oup.com/gji/article/206/2/1076/2605991">[paper]</a></li>
+<li>In simple words: "When the seismic waveforms are too complicated to be analyzed during inversion, a simplification of them into envelope-like bumpy waveforms can be useful."</li>
+<li>The bump functional can be used to overcome cycle-skipping in FWI if used in a multi-objective inversion strategy.</li>
+<li>Identified various ambiguities while parameterizing the 
+        multi-parameter inverse problem for quantitative seismic imaging.
+<a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_EAGE14slides.pdf">[slides]</a> 
+<a href="https://arxiv.org/abs/1804.01184">[paper]</a></li>
+<li>Proposed seismic inversion by maximizing the correlation between the observed and modelled seismic data. <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_SEG13slides.pdf">[slides]</a></li>
 </ul>
 <h3 id="seismic-interferometry">Seismic Interferometry</h3>
 <ul>
-<li>Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_svi_cmb_compressed.pdf">[slides]</a><ul>
-<li>Theory of supervirtual interferometry applied to diffractions</li>
-</ul>
-</li>
+<li>Developed the theory of supervirtual refraction interferometry. <a href="https://academic.oup.com/gji/article/188/1/263/633573">[paper]</a></li>
+<li>Supervirtual interferometry enhances the signal-to-noise ratio of the far-offset refracted seismic energy. It can be used to detect the presence of diving waves in the first arrivals.</li>
+<li>Enhanced core-diffracted arrivals in the earthquake records using the theory of supervirtual interferometry. <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_svi_cmb_compressed.pdf">[slides]</a></li>
 </ul></div>
         </div>
 

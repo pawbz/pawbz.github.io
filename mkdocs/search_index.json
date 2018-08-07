@@ -2,28 +2,33 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome! Namaste!\n\n\nI am a researcher \nwith an expertise in inverse problems and \nsignal processing relevant to wave propagation and \nscattering. I have developed a passion to solve real-life challenges pertaining to seismic, radar and medical imaging. \nCurrently working as a \npostdoctoral associate in the \n\nImaging and Computing Group\n and \nEarth Resources Laboratory\n, Massachusetts Institute of Technology (MIT).\n\n\n\n\nResearch interests\n\n\n\n\nwave-equation based imaging and inversion\n\n\nseismic interferometry and its applications in both exploration and global seismology\n\n\nsignal processing, blind deconvolution, source separation\n\n\nparallelization and developing efficient algorithms for \nhigh performance computing in geophysical applications\n\n\n\n\n\n\nOther Personal Pages\n\n\n\n\nGoogle Scholar Citations\n (for citation statistics)\n\n\nResearch Gate\n (for full text of publications)\n\n\nGitHub\n (software)\n\n\nORCID\n\n\nLinkedin\n\n\nEarth Resources Laboratory Homepage",
+            "text": "Personal Summary\n\n\nI am a researcher \nwith an expertise in inverse problems and \nsignal processing relevant to wave propagation and \nscattering. I have developed a passion to solve real-life challenges pertaining to seismic, radar and medical imaging. \nCurrently working as a \npostdoctoral associate in the \n\nImaging and Computing Group\n and \nEarth Resources Laboratory\n, Massachusetts Institute of Technology (MIT).\n\n\n\n\n| \nGoogle Scholar Citations\n (for citation statistics) \n| \nResearch Gate\n (for full text of publications) \n| \nGitHub\n (software)\n| \nORCID\n\n| \nLinkedin\n\n| \nEarth Resources Laboratory Homepage\n\n\n\n\nCurrent Research Interests\n\n\n\n\nwave-equation based imaging and inversion\n\n\nsignal processing, blind deconvolution and source separation\n\n\nseismic interferometry and its applications in both exploration and global seismology\n\n\nparallelization and developing efficient algorithms for high performance computing in geophysical applications\n\n\n\n\nContact\n\n\nBuilding 54-319\nDept. of Earth, Atmospheric and Planetary Sciences\n77 Massachusetts Ave., Cambridge, MA 02139\nE-mail address: pawbz@mit.edu",
             "title": "Home"
         },
         {
-            "location": "/#welcome-namaste",
-            "text": "I am a researcher \nwith an expertise in inverse problems and \nsignal processing relevant to wave propagation and \nscattering. I have developed a passion to solve real-life challenges pertaining to seismic, radar and medical imaging. \nCurrently working as a \npostdoctoral associate in the  Imaging and Computing Group  and  Earth Resources Laboratory , Massachusetts Institute of Technology (MIT).",
-            "title": "Welcome! Namaste!"
+            "location": "/#personal-summary",
+            "text": "I am a researcher \nwith an expertise in inverse problems and \nsignal processing relevant to wave propagation and \nscattering. I have developed a passion to solve real-life challenges pertaining to seismic, radar and medical imaging. \nCurrently working as a \npostdoctoral associate in the  Imaging and Computing Group  and  Earth Resources Laboratory , Massachusetts Institute of Technology (MIT).   |  Google Scholar Citations  (for citation statistics) \n|  Research Gate  (for full text of publications) \n|  GitHub  (software)\n|  ORCID \n|  Linkedin \n|  Earth Resources Laboratory Homepage",
+            "title": "Personal Summary"
         },
         {
-            "location": "/#research-interests",
-            "text": "wave-equation based imaging and inversion  seismic interferometry and its applications in both exploration and global seismology  signal processing, blind deconvolution, source separation  parallelization and developing efficient algorithms for \nhigh performance computing in geophysical applications",
-            "title": "Research interests"
+            "location": "/#current-research-interests",
+            "text": "wave-equation based imaging and inversion  signal processing, blind deconvolution and source separation  seismic interferometry and its applications in both exploration and global seismology  parallelization and developing efficient algorithms for high performance computing in geophysical applications",
+            "title": "Current Research Interests"
         },
         {
-            "location": "/#other-personal-pages",
-            "text": "Google Scholar Citations  (for citation statistics)  Research Gate  (for full text of publications)  GitHub  (software)  ORCID  Linkedin  Earth Resources Laboratory Homepage",
-            "title": "Other Personal Pages"
+            "location": "/#contact",
+            "text": "Building 54-319\nDept. of Earth, Atmospheric and Planetary Sciences\n77 Massachusetts Ave., Cambridge, MA 02139\nE-mail address: pawbz@mit.edu",
+            "title": "Contact"
         },
         {
             "location": "/aboutme/",
-            "text": "Education\n\n\n\n\n\n\n\n\nDegree\n\n\nUniversity\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nPhD in Geophysics\n\n\nDelft University of Technology (TU Delft), Delft, The Netherlands\n\n\n2016\n\n\n\n\n\n\nMSc Tech (Integrated), Applied Geophysics\n\n\nIndian Institute of Technology (Indian School of Mines), Dhanbad, India\n\n\n2012\n\n\n\n\n\n\n\n\nAcademic Visits\n\n\n\n\n\n\n\n\nTitle\n\n\nUniversity\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nGuest Researcher\n\n\nInstitute for Geophysics, University of Texas at Austin, USA\n\n\nSeptember, 2011\n\n\n\n\n\n\nResearch Assistant\n\n\nKing Abdullah University of Science and Technology (KAUST), Saudi Arabia\n\n\n2010-2012 (multiple short-term visits)\n\n\n\n\n\n\n\n\nAwards and Grants\n\n\n\n\n\n\n\n\nGrant\n\n\nOrganisation\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nBest Paper Award\n\n\nTU Delft Geosciences Research Meeting\n\n\n2018\n\n\n\n\n\n\nComputational Resource Grant\n\n\nNetherlands Organisation for Scientific Research (NWO)\n\n\n2014-2016\n\n\n\n\n\n\nInnovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship\n\n\nDepartment of Science and Technology, India\n\n\n2008-2012\n\n\n\n\n\n\nScholarship for Higher Education\n\n\nIndian School of Mines\n\n\n2008\n\n\n\n\n\n\n\n\nMailing Address\n\n\nDept. of Earth, Atmospheric and Planetary Sciences\n\nBuilding 54-319\n\n77 Massachusetts Ave., Cambridge, MA 02139\n\nPhone: +18573205756\n\nE-mail address: pawbz@mit.edu",
+            "text": "Work\n\n\n\n\n\n\n\n\nTitle\n\n\nInstitution\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nPostdoctoral Associate\n\n\nMassachusetts Institute of Technology (MIT), Cambridge, USA\n\n\n12/2016\u2014present\n\n\n\n\n\n\nPhD Researcher\n\n\nDelft University of Technology (TU Delft), Delft, The Netherlands\n\n\n09/2012\u201411/2016\n\n\n\n\n\n\nResearch Assistant\n\n\nKing Abdullah University of Science and Technology (KAUST), Saudi Arabia\n\n\n05/2010\u201412/2012\n\n\n\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\n\nDegree\n\n\nUniversity\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nPhD in Geophysics\n\n\nDelft University of Technology (TU Delft), Delft, The Netherlands\n\n\n2016\n\n\n\n\n\n\nMSc Tech (Integrated), Applied Geophysics\n\n\nIndian Institute of Technology (Indian School of Mines), Dhanbad, India\n\n\n2012\n\n\n\n\n\n\n\n\nAwards and Grants\n\n\n\n\n\n\n\n\nGrant\n\n\nOrganisation\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nBest Paper Award\n\n\nTU Delft Geosciences Research Meeting\n\n\n2018\n\n\n\n\n\n\nComputational Resource Grant\n\n\nNetherlands Organisation for Scientific Research (NWO)\n\n\n2014\u20142016\n\n\n\n\n\n\nInnovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship\n\n\nDepartment of Science and Technology, India\n\n\n2008\u20142012\n\n\n\n\n\n\nScholarship for Higher Education\n\n\nIndian School of Mines\n\n\n2008\n\n\n\n\n\n\n\n\nAcademic Visits\n\n\n\n\n\n\n\n\nTitle\n\n\nInstitution\n\n\nYear\n\n\n\n\n\n\n\n\n\n\nGuest Researcher\n\n\nInstitute for Geophysics, University of Texas at Austin, USA\n\n\n09/2011",
             "title": "About Me"
+        },
+        {
+            "location": "/aboutme/#work",
+            "text": "Title  Institution  Year      Postdoctoral Associate  Massachusetts Institute of Technology (MIT), Cambridge, USA  12/2016\u2014present    PhD Researcher  Delft University of Technology (TU Delft), Delft, The Netherlands  09/2012\u201411/2016    Research Assistant  King Abdullah University of Science and Technology (KAUST), Saudi Arabia  05/2010\u201412/2012",
+            "title": "Work"
         },
         {
             "location": "/aboutme/#education",
@@ -31,33 +36,33 @@
             "title": "Education"
         },
         {
-            "location": "/aboutme/#academic-visits",
-            "text": "Title  University  Year      Guest Researcher  Institute for Geophysics, University of Texas at Austin, USA  September, 2011    Research Assistant  King Abdullah University of Science and Technology (KAUST), Saudi Arabia  2010-2012 (multiple short-term visits)",
-            "title": "Academic Visits"
-        },
-        {
             "location": "/aboutme/#awards-and-grants",
-            "text": "Grant  Organisation  Year      Best Paper Award  TU Delft Geosciences Research Meeting  2018    Computational Resource Grant  Netherlands Organisation for Scientific Research (NWO)  2014-2016    Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship  Department of Science and Technology, India  2008-2012    Scholarship for Higher Education  Indian School of Mines  2008",
+            "text": "Grant  Organisation  Year      Best Paper Award  TU Delft Geosciences Research Meeting  2018    Computational Resource Grant  Netherlands Organisation for Scientific Research (NWO)  2014\u20142016    Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship  Department of Science and Technology, India  2008\u20142012    Scholarship for Higher Education  Indian School of Mines  2008",
             "title": "Awards and Grants"
         },
         {
-            "location": "/aboutme/#mailing-address",
-            "text": "Dept. of Earth, Atmospheric and Planetary Sciences \nBuilding 54-319 \n77 Massachusetts Ave., Cambridge, MA 02139 \nPhone: +18573205756 \nE-mail address: pawbz@mit.edu",
-            "title": "Mailing Address"
+            "location": "/aboutme/#academic-visits",
+            "text": "Title  Institution  Year      Guest Researcher  Institute for Geophysics, University of Texas at Austin, USA  09/2011",
+            "title": "Academic Visits"
         },
         {
             "location": "/publications/",
-            "text": "Journal Articles\n\n\n2017\n\n\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic full-waveform inversion of sub-wavelength anomalies, \narXiv preprint\n \n[pdf]\n\n\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,\nA shear-wave seismic system using full waveform inversion to look ahead of a tunnel-\nboring machine, \nNear Surface Geophysics\n \n[pdf]\n\n\n\n\n\n\n2016\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, Full waveform inversion with an auxiliary\nbump functional, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2014\n\n\n\n\nPawan Bharadwaj\n, Tarje Nissen-Meyer, Gerard Schuster, and Martin Mai, Enhancing core-diffracted\narrivals by supervirtual interferometry, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2013\n\n\n\n\nPawan Bharadwaj\n, Xin Wang, Gerard Schuster, and Kirk McIntosh, Increasing the number and\nsignal-to-noise ratio of OBS traces with supervirtual refraction interferometry and\nfree-surface multiples, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2012\n\n\n\n\nPawan Bharadwaj\n, Gerard Schuster, Ian Mallinson, and Wei Dai, Theory of supervirtual refraction\ninterferometry, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2011\n\n\n\n\nIan Mallinson, \nPawan Bharadwaj\n, Gerard Schuster, and Helmut Jakubowicz, Enhanced refractor imaging\nby supervirtual interferometry, \nThe Leading Edge\n \n[pdf]\n\n\n\n\nConference Abstracts\n\n\n2018\n\n\n\n\nPawan Bharadwaj\n, Laurent Demanet, Aim\u00e9 Fournier,\nFocused blind deconvolution of interferometric Green\u2019s functions,\nSociety of Exploration Geophysicists,\n\nSEG Annual Meeting\n \n[pdf]\n\n\n\n\n2017\n\n\n\n\nPawan Bharadwaj\n, Laurent Demanet, Aim\u00e9 Fournier,\nDeblending random seismic sources via independent component analysis, \nSociety of Exploration Geophysicists,\n\nSEG Annual Meeting\n \n[pdf]\n\n\n\n\n2016\n\n\n\n\nPawan Bharadwaj\n, Guy Drijkoningen, Wim Mulder, Thomas Tscharner, and Rob Jenneskens, A shear-wave \nseismic system to look ahead of a tunnel boring machine, Proceedings of the\nSociety for Mining, Metallurgy & Exploration,\n\nWorld Tunneling Congress\n \n[pdf]\n\n\n\n\n2015\n\n\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, Guy Drijkoningen, and Ralph Reijnen, Looking ahead of a tunnel\nboring machine with 2-D SH full waveform inversion, European Association of\nGeoscientists & Engineers Conference and Exhibition, \nEAGE Annual Meeting\n \n[pdf]\n\n\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, An auxiliary bump functional to overcome\ncycle skipping in waveform inversion, \nEuropean Association of Geoscientists\n& Engineers Conference and Exhibition-Workshops, \n\nEAGE Annual Meeting\n \n[pdf]\n\n\n\n\n\n\n2014\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, Parametrization for 2-D SH full waveform\ninversion, \nEuropean Association of Geoscientists\n& Engineers Conference and Exhibition, \n\nEAGE Annual Meeting\n \n[pdf]\n\n\n\n\n2013\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, Multi-objective full waveform inversion\nin the absence of low frequencies, \nSociety of Exploration Geophysicists,\n\nSEG Annual Meeting\n \n[pdf]\n\n\n\n\n2012\n\n\n\n\nGerard Schuster, \nPawan Bharadwaj\n, Tarje Nissen-Meyer, and Martin Mai, Extracting CMB diffractions by\nsuper-virtual interferometry, \nAmerican Geophysical Union,\n\nAGU Fall Meeting\n\n\n\n\n2011\n\n\n\n\n\n\nPawan Bharadwaj\n, Gerard  Schuster, and Ian Mallinson, Super-virtual refraction interferometry:\ntheory, \nSociety of Exploration Geophysicists,\n\nSEG Annual Meeting\n \n[pdf]\n\n\n\n\n\n\nGerard Schuster, \nPawan Bharadwaj\n, and Kirk McIntosh, Refraction interferometry and free-surface\nmultiples for large-offset OBS data,\nAmerican Geophysical Union,\n\nAGU Fall Meeting\n\n\n\n\n\n\n2010\n\n\n\n\nGerard Schuster and \nPawan Bharadwaj\n, Extending the aperture and enhancing the S/N ratio of\nrefraction imaging by super-virtual interferometry, \nAmerican Geophysical Union,\n\nAGU Fall Meeting\n\n\n\n\nPhD Thesis\n\n\nSeismic Waveform Inversion: Bump Functional, Parameterization Analysis and Imaging Ahead of a Tunnel-Boring Machine \n[pdf]",
+            "text": "Peer-reviewed Journal Articles\n\n\n2018\n\n\n\n\nPawan Bharadwaj\n, Laurent Demanet, Aim\u00e9 Fournier,\nFocused blind deconvolution, submitted to IEEE\n\n[pdf]\n\n\n\n\n2017\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,\nA shear-wave seismic system using full waveform inversion to look ahead of a tunnel-\nboring machine, \nNear Surface Geophysics\n \n[pdf]\n\n\n\n\n2016\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, Full waveform inversion with an auxiliary\nbump functional, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2014\n\n\n\n\nPawan Bharadwaj\n, Tarje Nissen-Meyer, Gerard Schuster, and Martin Mai, Enhancing core-diffracted\narrivals by supervirtual interferometry, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2013\n\n\n\n\nPawan Bharadwaj\n, Xin Wang, Gerard Schuster, and Kirk McIntosh, Increasing the number and\nsignal-to-noise ratio of OBS traces with supervirtual refraction interferometry and\nfree-surface multiples, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2012\n\n\n\n\nPawan Bharadwaj\n, Gerard Schuster, Ian Mallinson, and Wei Dai, Theory of supervirtual refraction\ninterferometry, \nGeophysical Journal International\n \n[pdf]\n\n\n\n\n2011\n\n\n\n\nIan Mallinson, \nPawan Bharadwaj\n, Gerard Schuster, and Helmut Jakubowicz, Enhanced refractor imaging\nby supervirtual interferometry, \nThe Leading Edge\n \n[pdf]\n\n\n\n\nPeer-reviewed Conference Articles\n\n\n2018\n\n\n\n\nPawan Bharadwaj\n, Laurent Demanet, Aim\u00e9 Fournier,\nFocused blind deconvolution of interferometric Green\u2019s functions,\nSociety of Exploration Geophysicists,\n\nSEG Annual Meeting\n \n[pdf]\n\n\n\n\n2017\n\n\n\n\nPawan Bharadwaj\n, Laurent Demanet, Aim\u00e9 Fournier,\nDeblending random seismic sources via independent component analysis, \nSociety of Exploration Geophysicists,\n\nSEG Annual Meeting\n \n[pdf]\n\n\n\n\n2016\n\n\n\n\nPawan Bharadwaj\n, Guy Drijkoningen, Wim Mulder, Thomas Tscharner, and Rob Jenneskens, A shear-wave \nseismic system to look ahead of a tunnel boring machine, Proceedings of the\nSociety for Mining, Metallurgy & Exploration,\n\nWorld Tunneling Congress\n \n[pdf]\n\n\n\n\n2015\n\n\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, Guy Drijkoningen, and Ralph Reijnen, Looking ahead of a tunnel\nboring machine with 2-D SH full waveform inversion, European Association of\nGeoscientists & Engineers Conference and Exhibition, \nEAGE Annual Meeting\n \n[pdf]\n\n\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, An auxiliary bump functional to overcome\ncycle skipping in waveform inversion, \nEuropean Association of Geoscientists\n& Engineers Conference and Exhibition-Workshops, \n\nEAGE Annual Meeting\n \n[pdf]\n\n\n\n\n\n\n2014\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, Parametrization for 2-D SH full waveform\ninversion, \nEuropean Association of Geoscientists\n& Engineers Conference and Exhibition, \n\nEAGE Annual Meeting\n \n[pdf]\n\n\n\n\n2013\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, Multi-objective full waveform inversion\nin the absence of low frequencies, \nSociety of Exploration Geophysicists,\n\nSEG Annual Meeting\n \n[pdf]\n\n\n\n\n2011\n\n\n\n\nPawan Bharadwaj\n, Gerard  Schuster, and Ian Mallinson, Super-virtual refraction interferometry:\ntheory, \nSociety of Exploration Geophysicists,\n\nSEG Annual Meeting\n \n[pdf]\n\n\n\n\narXiv.org\n\n\n2017\n\n\n\n\nPawan Bharadwaj\n, Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic full-waveform inversion of sub-wavelength anomalies \n[pdf]\n\n\n\n\nAbstracts\n\n\n2018\n\n\n\n\nPawan Bharadwaj, Yusuke Mukuhira, Laurent Demanet, Michael Fehler, Aim\u00e9 Fournier, \nFocused blind deconvolution of earthquake signals,\nAmerican Geophysical Union,\n\nAGU Fall Meeting\n\n\n\n\n2012\n\n\n\n\nGerard Schuster, \nPawan Bharadwaj\n, Tarje Nissen-Meyer, and Martin Mai, Extracting CMB diffractions by\nsuper-virtual interferometry, \nAmerican Geophysical Union,\n\nAGU Fall Meeting\n\n\n\n\n2011\n\n\n\n\nGerard Schuster, \nPawan Bharadwaj\n, and Kirk McIntosh, Refraction interferometry and free-surface\nmultiples for large-offset OBS data,\nAmerican Geophysical Union,\n\nAGU Fall Meeting\n\n\n\n\n2010\n\n\n\n\nGerard Schuster and \nPawan Bharadwaj\n, Extending the aperture and enhancing the S/N ratio of\nrefraction imaging by super-virtual interferometry, \nAmerican Geophysical Union,\n\nAGU Fall Meeting\n\n\n\n\nPhD Thesis\n\n\nSeismic Waveform Inversion: Bump Functional, Parameterization Analysis and Imaging Ahead of a Tunnel-Boring Machine \n[pdf]",
             "title": "Publications"
         },
         {
-            "location": "/publications/#journal-articles",
+            "location": "/publications/#peer-reviewed-journal-articles",
             "text": "",
-            "title": "Journal Articles"
+            "title": "Peer-reviewed Journal Articles"
+        },
+        {
+            "location": "/publications/#2018",
+            "text": "Pawan Bharadwaj , Laurent Demanet, Aim\u00e9 Fournier,\nFocused blind deconvolution, submitted to IEEE [pdf]",
+            "title": "2018"
         },
         {
             "location": "/publications/#2017",
-            "text": "Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic full-waveform inversion of sub-wavelength anomalies,  arXiv preprint   [pdf]    Pawan Bharadwaj , Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,\nA shear-wave seismic system using full waveform inversion to look ahead of a tunnel-\nboring machine,  Near Surface Geophysics   [pdf]",
+            "text": "Pawan Bharadwaj , Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,\nA shear-wave seismic system using full waveform inversion to look ahead of a tunnel-\nboring machine,  Near Surface Geophysics   [pdf]",
             "title": "2017"
         },
         {
@@ -86,12 +91,12 @@
             "title": "2011"
         },
         {
-            "location": "/publications/#conference-abstracts",
+            "location": "/publications/#peer-reviewed-conference-articles",
             "text": "",
-            "title": "Conference Abstracts"
+            "title": "Peer-reviewed Conference Articles"
         },
         {
-            "location": "/publications/#2018",
+            "location": "/publications/#2018_1",
             "text": "Pawan Bharadwaj , Laurent Demanet, Aim\u00e9 Fournier,\nFocused blind deconvolution of interferometric Green\u2019s functions,\nSociety of Exploration Geophysicists, SEG Annual Meeting   [pdf]",
             "title": "2018"
         },
@@ -121,13 +126,38 @@
             "title": "2013"
         },
         {
+            "location": "/publications/#2011_1",
+            "text": "Pawan Bharadwaj , Gerard  Schuster, and Ian Mallinson, Super-virtual refraction interferometry:\ntheory, \nSociety of Exploration Geophysicists, SEG Annual Meeting   [pdf]",
+            "title": "2011"
+        },
+        {
+            "location": "/publications/#arxivorg",
+            "text": "",
+            "title": "arXiv.org"
+        },
+        {
+            "location": "/publications/#2017_2",
+            "text": "Pawan Bharadwaj , Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic full-waveform inversion of sub-wavelength anomalies  [pdf]",
+            "title": "2017"
+        },
+        {
+            "location": "/publications/#abstracts",
+            "text": "",
+            "title": "Abstracts"
+        },
+        {
+            "location": "/publications/#2018_2",
+            "text": "Pawan Bharadwaj, Yusuke Mukuhira, Laurent Demanet, Michael Fehler, Aim\u00e9 Fournier, \nFocused blind deconvolution of earthquake signals,\nAmerican Geophysical Union, AGU Fall Meeting",
+            "title": "2018"
+        },
+        {
             "location": "/publications/#2012_1",
             "text": "Gerard Schuster,  Pawan Bharadwaj , Tarje Nissen-Meyer, and Martin Mai, Extracting CMB diffractions by\nsuper-virtual interferometry, \nAmerican Geophysical Union, AGU Fall Meeting",
             "title": "2012"
         },
         {
-            "location": "/publications/#2011_1",
-            "text": "Pawan Bharadwaj , Gerard  Schuster, and Ian Mallinson, Super-virtual refraction interferometry:\ntheory, \nSociety of Exploration Geophysicists, SEG Annual Meeting   [pdf]    Gerard Schuster,  Pawan Bharadwaj , and Kirk McIntosh, Refraction interferometry and free-surface\nmultiples for large-offset OBS data,\nAmerican Geophysical Union, AGU Fall Meeting",
+            "location": "/publications/#2011_2",
+            "text": "Gerard Schuster,  Pawan Bharadwaj , and Kirk McIntosh, Refraction interferometry and free-surface\nmultiples for large-offset OBS data,\nAmerican Geophysical Union, AGU Fall Meeting",
             "title": "2011"
         },
         {
@@ -142,27 +172,32 @@
         },
         {
             "location": "/research/",
-            "text": "Focused Blind Deconvolution\n\n\nBlind Source Separation/ Deblending\n\n\n\n\nDeblending Random Seismic Sources via Independent Component Analysis (2017) \n[slides]\n\n\nCentral limit theorem\n\n\nExplanation of kurtosis\n\n\nConvolutional mixtures \n\n\nFrequency-domain ICA applied to seismic data\n\n\n\n\n\n\n\n\nFull Waveform Inversion\n\n\n\n\nFull Waveform Inversion with an Auxiliary Bump Functional (2016) \n[slides]\n\n\nSimplication of seismic data for inversion\n\n\nEnvelope-based misfit\n\n\nOvercome cycle-skipping \n\n\nMulti-objective inversion strategies\n\n\n\n\n\n\nParametrization Analysis for Full Waveform Inversion (2014) \n[slides]\n\n\nAmbiguities in parameterization of multi-parameter quantitative seismic imaging \n\n\n\n\n\n\nMulti-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013) \n[slides]\n\n\nMaximizing correlation between observed and modelled seismic data\n\n\nCycle-skipping in FWI\n\n\n\n\n\n\n\n\nSeismic Interferometry\n\n\n\n\nEnhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013) \n[slides]\n\n\nTheory of supervirtual interferometry applied to diffractions",
+            "text": "Research Experience\n\n\nFocused Blind Deconvolution (FBD)\n\n\n\n\nDeveloped this blind deconvolution method that \nextracts sparse and front-loaded impulse responses from the channel outputs, i.e., \ntheir convolutions with a single arbitrary source. \n[paper]\n\n\nThis method resolves the indeterminacy inherent to multichannel blind deconvolution and \nI have demonstrated its applications in both exploration and global seismology.\n\n\nIn the seismic context, the extracted impulse responses correspond to the \nGreen's function of the subsurface and can be directly input to the imaging algorithms.\n\n\n\n\nBlind Source Separation/ Deblending\n\n\n\n\nDemonstrated the application of \nfrequency-domain independent component analysis\nto deblend random seismic sources. \n[slides]\n \n[paper]\n\n\nICA uses higher-order statistics to measure the Gaussianity of signals and working with convolutive mixtures \n(as in seismic exploration) is a challenging problem.\n\n\n\n\nFull Waveform Inversion (FWI)\n\n\n\n\nI have formulated an auxiliary bump functional for seismic inversion. \n[slides]\n \n[paper]\n\n\nIn simple words: \"When the seismic waveforms are too complicated to be analyzed during inversion, a simplification of them into envelope-like bumpy waveforms can be useful.\"\n\n\nThe bump functional can be used to overcome cycle-skipping in FWI if used in a multi-objective inversion strategy.\n\n\nIdentified various ambiguities while parameterizing the \n        multi-parameter inverse problem for quantitative seismic imaging.\n\n[slides]\n \n\n[paper]\n\n\nProposed seismic inversion by maximizing the correlation between the observed and modelled seismic data. \n[slides]\n\n\n\n\nSeismic Interferometry\n\n\n\n\nDeveloped the theory of supervirtual refraction interferometry. \n[paper]\n\n\nSupervirtual interferometry enhances the signal-to-noise ratio of the far-offset refracted seismic energy. It can be used to detect the presence of diving waves in the first arrivals.\n\n\nEnhanced core-diffracted arrivals in the earthquake records using the theory of supervirtual interferometry. \n[slides]",
             "title": "Research"
         },
         {
-            "location": "/research/#focused-blind-deconvolution",
+            "location": "/research/#research-experience",
             "text": "",
-            "title": "Focused Blind Deconvolution"
+            "title": "Research Experience"
+        },
+        {
+            "location": "/research/#focused-blind-deconvolution-fbd",
+            "text": "Developed this blind deconvolution method that \nextracts sparse and front-loaded impulse responses from the channel outputs, i.e., \ntheir convolutions with a single arbitrary source.  [paper]  This method resolves the indeterminacy inherent to multichannel blind deconvolution and \nI have demonstrated its applications in both exploration and global seismology.  In the seismic context, the extracted impulse responses correspond to the \nGreen's function of the subsurface and can be directly input to the imaging algorithms.",
+            "title": "Focused Blind Deconvolution (FBD)"
         },
         {
             "location": "/research/#blind-source-separation-deblending",
-            "text": "Deblending Random Seismic Sources via Independent Component Analysis (2017)  [slides]  Central limit theorem  Explanation of kurtosis  Convolutional mixtures   Frequency-domain ICA applied to seismic data",
+            "text": "Demonstrated the application of \nfrequency-domain independent component analysis\nto deblend random seismic sources.  [slides]   [paper]  ICA uses higher-order statistics to measure the Gaussianity of signals and working with convolutive mixtures \n(as in seismic exploration) is a challenging problem.",
             "title": "Blind Source Separation/ Deblending"
         },
         {
-            "location": "/research/#full-waveform-inversion",
-            "text": "Full Waveform Inversion with an Auxiliary Bump Functional (2016)  [slides]  Simplication of seismic data for inversion  Envelope-based misfit  Overcome cycle-skipping   Multi-objective inversion strategies    Parametrization Analysis for Full Waveform Inversion (2014)  [slides]  Ambiguities in parameterization of multi-parameter quantitative seismic imaging     Multi-Objective Full Waveform Inversion in the Absence of Low Frequencies (2013)  [slides]  Maximizing correlation between observed and modelled seismic data  Cycle-skipping in FWI",
-            "title": "Full Waveform Inversion"
+            "location": "/research/#full-waveform-inversion-fwi",
+            "text": "I have formulated an auxiliary bump functional for seismic inversion.  [slides]   [paper]  In simple words: \"When the seismic waveforms are too complicated to be analyzed during inversion, a simplification of them into envelope-like bumpy waveforms can be useful.\"  The bump functional can be used to overcome cycle-skipping in FWI if used in a multi-objective inversion strategy.  Identified various ambiguities while parameterizing the \n        multi-parameter inverse problem for quantitative seismic imaging. [slides]   [paper]  Proposed seismic inversion by maximizing the correlation between the observed and modelled seismic data.  [slides]",
+            "title": "Full Waveform Inversion (FWI)"
         },
         {
             "location": "/research/#seismic-interferometry",
-            "text": "Enhancing Core-Diffracted Arrivals by Supervirtual Interferometry (2013)  [slides]  Theory of supervirtual interferometry applied to diffractions",
+            "text": "Developed the theory of supervirtual refraction interferometry.  [paper]  Supervirtual interferometry enhances the signal-to-noise ratio of the far-offset refracted seismic energy. It can be used to detect the presence of diving waves in the first arrivals.  Enhanced core-diffracted arrivals in the earthquake records using the theory of supervirtual interferometry.  [slides]",
             "title": "Seismic Interferometry"
         },
         {
