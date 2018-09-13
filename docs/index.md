@@ -36,7 +36,7 @@ postdoctoral associate in the
 Building 54-319
 Dept. of Earth, Atmospheric and Planetary Sciences
 77 Massachusetts Ave., Cambridge, MA 02139
-E-mail address: pawbz @ mit.edu
+E-mail address: pawbz[at]mit[dot]edu
 ```
 
 
