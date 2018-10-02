@@ -9,7 +9,7 @@
         
         <link rel="shortcut icon" href="../img/favicon.ico">
 
-	<title>Software - Pawan Bharadwaj</title>
+	<title>Open Source - Pawan Bharadwaj</title>
 
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
@@ -76,7 +76,7 @@
             
             
                 <li class="active">
-                    <a href="./">Software</a>
+                    <a href="./">Open Source</a>
                 </li>
             
             
@@ -118,53 +118,19 @@
             <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#seismic-inversion-toolbox-in-julia">Seismic Inversion Toolbox in Julia</a></li>
-        
-    
-        <li class="main "><a href="#programming-utils">Programming Utils</a></li>
-        
-    
-        <li class="main "><a href="#signal-processing">Signal Processing</a></li>
-        
-    
-        <li class="main "><a href="#julia-tips">Julia Tips</a></li>
+        <li class="main active"><a href="#julia-software-on-github">Julia Software on GitHub</a></li>
         
     
     </ul>
 </div></div>
             <div class="col-md-9" role="main">
 
-<p>I mainly write software in <code>FORTRAN</code> and <code>Julia</code>. 
-While programming in Julia, I find this <a href="https://docs.julialang.org/en/latest/manual/performance-tips/">page</a> really useful. 
-I have shared most 
-of my contribution on <a href="https://github.com/pawbz">GitHub</a>.
-I plan to share a few other 
-useful subroutines here. </p>
-<h2 id="seismic-inversion-toolbox-in-julia">Seismic Inversion Toolbox in Julia</h2>
+<h2 id="julia-software-on-github">Julia Software on <a href="https://github.com/pawbz">GitHub</a></h2>
 <ul>
-<li><a href="https://pawbz.github.io/JuMIT.jl/">Documentation</a></li>
-<li>A simple Jupyter <a href="https://github.com/pawbz/JuMITtutorials/blob/master/Inversion/Pizza.ipynb">notebook</a> that demonstrates 
-full waveform inversion of seismic data.</li>
-</ul>
-<h2 id="programming-utils">Programming Utils</h2>
-<ul>
-<li>A Makefile to Automatically Compile f90 Source Files with Dependencies</li>
-<li>A <a href="http://www.stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/">guide</a> to finalize your julia package.</li>
-</ul>
-<h2 id="signal-processing">Signal Processing</h2>
-<ul>
-<li>Construct a Minimum Phase Butter-Worth Filter in Using Log Spectra</li>
-</ul>
-<h2 id="julia-tips">Julia Tips</h2>
-<ul>
-<li>use copy! whenever possible</li>
-</ul>
-<div class="codehilite"><pre><span></span><span class="n">a</span><span class="o">=</span><span class="n">randn</span><span class="p">(</span><span class="mi">1000</span><span class="p">,</span><span class="mi">1000</span><span class="p">)</span>
-<span class="n">b</span><span class="o">=</span><span class="n">randn</span><span class="p">(</span><span class="mi">1000</span><span class="p">,</span><span class="mi">1000</span><span class="p">)</span>
-<span class="nd">@time</span> <span class="n">a</span><span class="p">[</span><span class="o">:</span><span class="p">]</span> <span class="o">=</span> <span class="n">b</span><span class="p">[</span><span class="o">:</span><span class="p">]</span>
-<span class="nd">@time</span> <span class="n">a</span><span class="p">[</span><span class="o">:</span><span class="p">]</span> <span class="o">.=</span> <span class="n">b</span><span class="p">[</span><span class="o">:</span><span class="p">]</span>
-<span class="nd">@time</span> <span class="n">copy!</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
-</pre></div></div>
+<li>A toolbox for modelling and inversion of multi-component seismic data <a href="https://pawbz.github.io/JuMIT.jl/">[source]</a> 
+<a href="https://github.com/pawbz/JuMITtutorials/blob/master/Inversion/Pizza.ipynb">[notebook]</a></li>
+<li>Focused blind deconvolution of seismic data (toolbox coming soon)</li>
+</ul></div>
         </div>
 
         <footer class="col-md-12">
