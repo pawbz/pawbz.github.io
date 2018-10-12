@@ -1,33 +1,8 @@
-I mainly write software in `FORTRAN` and `Julia`. 
-While programming in Julia, I find this [page](https://docs.julialang.org/en/latest/manual/performance-tips/) really useful. 
-I have shared most 
-of my contribution on [GitHub](https://github.com/pawbz).
-I plan to share a few other 
-useful subroutines here. 
-## Seismic Inversion Toolbox in Julia
+## Julia Software on [GitHub](https://github.com/pawbz)
+* A toolbox for modelling and inversion of multi-component seismic data [[source]](https://pawbz.github.io/JuMIT.jl/) 
+[[notebook]](https://github.com/pawbz/JuMITtutorials/blob/master/Inversion/Pizza.ipynb)
+* Focused blind deconvolution of seismic data (coming soon...)
 
-* [Documentation](https://pawbz.github.io/JuMIT.jl/)
-* A simple Jupyter [notebook](https://github.com/pawbz/JuMITtutorials/blob/master/Inversion/Pizza.ipynb) that demonstrates 
-full waveform inversion of seismic data.
-
-## Programming Utils 
-* A Makefile to Automatically Compile f90 Source Files with Dependencies
-* A [guide](http://www.stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/) to finalize your julia package.
-
-## Signal Processing
-* Construct a Minimum Phase Butter-Worth Filter in Using Log Spectra
-
-
-## Julia Tips
-
-* use copy! whenever possible
-```julia
-a=randn(1000,1000)
-b=randn(1000,1000)
-@time a[:] = b[:]
-@time a[:] .= b[:]
-@time copy!(a,b)
-```
 
 
 

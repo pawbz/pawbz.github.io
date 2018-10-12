@@ -2,15 +2,15 @@
 
 ### 2018 
 * *Pawan Bharadwaj*, Laurent Demanet, Aimé Fournier,
-Focused blind deconvolution, submitted to IEEE
-[\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/Bharadwaj_FBD_arXiv1.pdf)
+Focused blind deconvolution, `IEEE Transactions on Signal Processing` (in review)
+[\[preprint\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/Bharadwaj_FBD_arXiv1.pdf)
 
 
 
 ### 2017
 * *Pawan Bharadwaj*, Wim Mulder, Guy Drijkoningen, Jan Thorbecke, Boris Neducza, and Rob Jenneskens,
-A shear-wave seismic system using full waveform inversion to look ahead of a tunnel-
-boring machine, `Near Surface Geophysics` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/NSG15_Bharadwaj.pdf)
+A shear-wave seismic system using full waveform inversion to look ahead of a 
+tunnel-boring machine, `Near Surface Geophysics` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/NSG15_Bharadwaj.pdf)
 
 
 ### 2016
