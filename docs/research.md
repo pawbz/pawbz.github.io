@@ -3,6 +3,7 @@
 * FBD is a deconvolution method that 
 extracts sparse and front-loaded impulse responses from the channel outputs, i.e., 
 their convolutions with a single arbitrary source. [\[paper\]](https://arxiv.org/abs/1808.00166)
+[\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_FBD_slides_SEGAM.pdf) 
 * This method resolves the indeterminacy inherent to multichannel 
 blind deconvolution and this project demonstrates 
 its applications in both exploration and global seismology.
@@ -16,11 +17,18 @@ but also helps us understand the source characteristics.
 *Infographic of FBD. It is a data-driven Green's function retrieval algorithm 
 for multi-channel seismic data of a noisy source.*
 
+<img align="center" width="750" height="350" src="../img/fbd/FBD_movie2.png">
+
+*Marmousi experiment, where FBD outperforms the conventional noise processing (using cross-correlation; data panel 4).
+The FBD Green's function (data panel 3) contains scatterred arrivals due to the reflectors in the medium.*
+
 
 ### Blind Source Separation/ Deblending
 * This project demonstrates the application of 
 frequency-domain independent component analysis
-to deblend random seismic sources. [\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_Seismic_ICA_Tue_Talk.pdf) [\[paper\]](https://library.seg.org/doi/abs/10.1190/segam2017-17677817.1)
+to deblend random seismic sources. 
+[\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_Seismic_ICA_Tue_Talk.pdf) 
+[\[paper\]](https://library.seg.org/doi/abs/10.1190/segam2017-17677817.1)
 * ICA uses higher-order statistics to measure the _Gaussianity_ of 
 signals and working with convolutive mixtures 
 (as in seismic exploration) is a challenging problem.
