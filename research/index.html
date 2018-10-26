@@ -140,9 +140,9 @@
 </div></div>
             <div class="col-md-9" role="main">
 
-<h3 id="focused-blind-deconvolution-fbd">Focused Blind Deconvolution (FBD)</h3>
+<h2 id="focused-blind-deconvolution-fbd">Focused Blind Deconvolution (FBD)</h2>
 <ul>
-<li>FBD is a deconvolution method that 
+<li>FBD is a deconvolution algorithm that 
 extracts sparse and front-loaded impulse responses from the channel outputs, i.e., 
 their convolutions with a single arbitrary source. <a href="https://arxiv.org/abs/1808.00166">[paper]</a>
 <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_FBD_slides_SEGAM.pdf">[slides]</a> </li>
@@ -155,12 +155,18 @@ subsurface Green's function, which can be directly input to imaging,
 but also helps us understand the source characteristics.</li>
 </ul>
 <p><img align="center" width="750" height="300" src="../img/fbd/FBD_movie1.png"></p>
-<p><em>Infographic of FBD. It is a data-driven Green's function retrieval algorithm 
+<p><em>Infographic of focused blind deconvolution, which is a data-driven 
+Green's function retrieval 
+algorithm 
 for multi-channel seismic data of a noisy source.</em></p>
 <p><img align="center" width="750" height="350" src="../img/fbd/FBD_movie2.png"></p>
-<p><em>Marmousi experiment, where FBD outperforms the conventional noise processing (using cross-correlation; data panel 4).
-The FBD Green's function (data panel 3) contains scatterred arrivals due to the reflectors in the medium.</em></p>
-<h3 id="blind-source-separation-deblending">Blind Source Separation/ Deblending</h3>
+<p><em>Marmousi experiment, where FBD (data panel 3) outperforms the conventional 
+Green's function retrieval from noise (data panel 1)
+through cross-correlation (data panel 4).
+When compared to the true Green's function (data panel 2),
+note that FBD not only recovers the direct arrival but also the
+scaterred arrivals due to the reflectors in the medium.</em></p>
+<h2 id="blind-source-separation-deblending">Blind Source Separation/ Deblending</h2>
 <ul>
 <li>This project demonstrates the application of 
 frequency-domain independent component analysis
@@ -176,7 +182,7 @@ signals and working with convolutive mixtures
 sources (red s1 and blue s2). ICA decomposes the wavefield into isolated records 
 involving one source at a time. The deblended records at the first receiver 
 are shown.</em></p>
-<h3 id="cycle-skipping-in-full-waveform-inversion-fwi">Cycle Skipping in Full Waveform Inversion (FWI)</h3>
+<h2 id="cycle-skipping-in-full-waveform-inversion-fwi">Cycle Skipping in Full Waveform Inversion (FWI)</h2>
 <p>"When the seismic waveforms are too complicated to be analyzed during inversion, a simplification of them into envelope-like bumpy waveforms can be useful."</p>
 <ul>
 <li>A bump functional computes the data misfit in the inversion
@@ -193,12 +199,26 @@ Multi-objective FWI with the auxiliary bump functional.</em></p>
 <ul>
 <li>Seismic inversion by maximizing the correlation between the observed and modelled seismic data. <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_SEG13slides.pdf">[slides]</a></li>
 </ul>
-<h3 id="multi-parameter-seismic-inversion">Multi-parameter Seismic Inversion</h3>
+<h2 id="multi-parameter-seismic-inversion">Multi-parameter Seismic Inversion</h2>
 <p>An analysis of the multi-parameter inverse problem in quantitative seismic imaging.
 <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_EAGE14slides.pdf">[slides]</a> 
 <a href="https://arxiv.org/abs/1804.01184">[paper]</a></p>
-<h3 id="near-surface-shear-wave-imaging">Near-surface Shear-wave Imaging</h3>
-<h3 id="seismic-interferometry">Seismic Interferometry</h3>
+<h2 id="near-surface-shear-wave-imaging">Near-surface Shear-wave Imaging</h2>
+<p>The Earth’s properties, composition and structure ahead of a tunnel boring machine (TBM) should be mapped for hazard assessment during excavation. For mapping, a seismic system is deployed on the machine’s cutter head, with a few sources and sufficiently many sensors.</p>
+<ul>
+<li>This project studies the fiesibilty of using 2-D SH full waveform inversion to this near-surface imaging problem, where the 
+images need to be available in near real time and without human interaction.</li>
+<li>The focus was on a system for soft soils, where shear waves are better and easier 
+to interpret than compressional waves.</li>
+<li>The study uses data acquired in a 
+number of field settings by a shear-wave vibrator source that mimic realistic TBM configurations.</li>
+</ul>
+<p><img align="center" width="400" height="200" src="../img/fwi_nsg/mod_transect1.png"></p>
+<p><em>Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete 
+tube is marked in red.
+Shear-wave velocity (left) and impedance (right) estimates of 2-D SH 
+full waveform inversion depict the inclusion.</em></p>
+<h2 id="seismic-interferometry">Seismic Interferometry</h2>
 <ul>
 <li>Developed the theory of supervirtual refraction interferometry. <a href="https://academic.oup.com/gji/article/188/1/263/633573">[paper]</a></li>
 <li>Supervirtual interferometry enhances the signal-to-noise ratio of the far-offset refracted seismic energy. It can be used to detect the presence of diving waves in the first arrivals.</li>
