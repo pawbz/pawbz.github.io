@@ -6,7 +6,7 @@
 \usepackage{fontspec}
 
 % DOCUMENT LAYOUT
-\usepackage[margin=0.8in]{geometry}
+\usepackage[margin=0.9in]{geometry}
 \setlength\parindent{0in}
 
 % fix for pandoc 1.14
@@ -18,10 +18,13 @@
 \usepackage{longtable, booktabs }
 \setlength\LTleft{0pt}
 \setlength\LTright{0pt}
-\usepackage[colorlinks = true,linkcolor = cyan,
-            urlcolor  = cyan,
-            citecolor = cyan,
-            anchorcolor = cyan]{hyperref}
+\usepackage{xcolor}
+\definecolor{airforceblue}{rgb}{0.36, 0.54, 0.66}
+\definecolor{darkred}{rgb}{0.7, 0.0, 0.0}
+\usepackage[colorlinks = true,linkcolor = airforceblue,
+            urlcolor  = airforceblue,
+            citecolor = airforceblue,
+            anchorcolor = airforceblue]{hyperref}
 \usepackage{enumitem}
 \setenumerate{nolistsep}
 \setitemize{nolistsep}
@@ -37,20 +40,40 @@
 % HEADINGS and TITLES
 \usepackage{sectsty}
 \usepackage[normalem]{ulem}
-\sectionfont{\sffamily\mdseries\large\underline} % Underlines headings
+\subsectionfont{\color{darkred}\sffamily\mdseries\large\underline} % Underlines headings
 \setcounter{secnumdepth}{-1} % Removes the numbers before sections
-\subsectionfont{\rmfamily\mdseries\scshape\normalsize}
-\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize}
+\subsubsectionfont{\rmfamily\mdseries\scshape\normalsize}
+%\subsubsubsectionfont{\rmfamily\bfseries\upshape\normalsize}
+\let\svsection\paragraph
+\usepackage{titlesec}
+
+\titleformat{\paragraph}[leftmargin]
+{\normalfont
+\sffamily\bfseries\filleft}
+{}{0pt}{}
+\titlespacing{\paragraph}
+{4pc}{1.5ex plus .1ex minus .2ex}{0.5pc}
+
 
 \usepackage{titling}
 \setlength{\droptitle}{-90pt} % The negative number moves the title closer to the top of the page
-\title{Dr. Pawan Bharadwaj} % name $if(title)$$title$$endif$
+\title{{\color{darkred}{Dr. Pawan Bharadwaj}} \\ \small{
+Postdoctoral Associate \\
+Department of Mathematics \& Earth Resources Laboratory \\
+Massachusetts Institute of Technology (MIT) \\
+54-224, 77 Massachusetts Ave., Cambridge, MA 02139 \\ 
+pawbz@mit.edu
+	}} % name $if(title)$$title$$endif$
 \date{\today} % Leave blank to remove the date
 \author{Curriculum Vitae}
 
 % BEGIN DOCUMENT
 \begin{document}
 \maketitle
+A researcher 
+with an expertise in inverse problems and 
+signal processing relevant to wave propagation and 
+scattering --- passionate to solve real-life challenges pertaining to seismic, radar and medical imaging. 
 $body$
 
 
