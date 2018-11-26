@@ -143,17 +143,18 @@
 <p>﻿</p>
 <h3 id="focused-blind-deconvolution-fbd">Focused Blind Deconvolution (FBD)</h3>
 <ul>
+<li>This research 
+introduces an idea (focusing) that is important to 
+resolve the indeterminacy inherent to multichannel blind deconvolution.
+<a href="https://arxiv.org/abs/1808.00166">[paper]</a>
+<a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_FBD_slides_SEGAM.pdf">[slides]</a> </li>
 <li>FBD is a deconvolution algorithm that 
 extracts sparse and front-loaded impulse responses from the channel outputs, i.e., 
-their convolutions with a single arbitrary source. <a href="https://arxiv.org/abs/1808.00166">[paper]</a>
-<a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_FBD_slides_SEGAM.pdf">[slides]</a> </li>
-<li>This method resolves the indeterminacy inherent to multichannel 
-blind deconvolution and this project demonstrates 
-its applications in both exploration and global seismology.</li>
-<li>In the seismic context, FBD not only 
-outputs the 
-subsurface Green's function, which can be directly input to imaging, 
-but also helps us understand the source characteristics.</li>
+their convolutions with a single arbitrary source. </li>
+<li>This project also employs FBD to solve essential problems in both exploration and earthquake seismology.
+In this context, FBD not only 
+outputs the subsurface Green's function, which can be directly input to imaging, 
+but also helps us understand the noisy source characteristics.</li>
 </ul>
 <figure>
 <img align="center" width="750" height="300" src="../img/fbd/FBD_movie1.png">
@@ -196,13 +197,12 @@ are shown.</i>
 <h3 id="cycle-skipping-in-full-waveform-inversion-fwi">Cycle Skipping in Full Waveform Inversion (FWI)</h3>
 <p>"When the seismic waveforms are too complicated to be analyzed during inversion, a simplification of them into envelope-like bumpy waveforms can be useful."</p>
 <ul>
-<li>A bump functional computes the data misfit in the inversion
-after simplification. 
+<li>This research formulates a bump functional that computes the data misfit in seismic inversion
+after a simplification. 
 <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_BumpFunctional_Slides.pdf">[slides]</a> <a href="https://academic.oup.com/gji/article/206/2/1076/2605991">[paper]</a></li>
-<li>It can be used as an auxiliary 
-functional in FWI 
-to overcome the well-known cycle-skipping problem. </li>
-<li>Seismic inversion by maximizing the correlation between the observed and modelled seismic data. <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_SEG13slides.pdf">[slides]</a></li>
+<li>A multi-objective FWI strategy, where the bump functional is 
+used as an auxiliary functional to overcome the well-known cycle-skipping problem, is proposed.</li>
+<li>Advantages of seismic inversion that maximizes the correlation between the observed and modelled seismic data. <a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_SEG13slides.pdf">[slides]</a></li>
 </ul>
 <figure>
 <img align="center" width="700" height="120" src="../img/bump/marm_bump.svg.png">
@@ -225,7 +225,7 @@ Multi-objective FWI with the auxiliary bump functional.</i>
 images need to be available in near real time and without human interaction.</li>
 <li>The focus was on a system for soft soils, where shear waves are better and easier 
 to interpret than compressional waves.</li>
-<li>The study uses data acquired in a 
+<li>This study uses data acquired in a 
 number of field settings by a shear-wave vibrator source that mimic realistic TBM configurations.</li>
 </ul>
 <figure>
@@ -251,7 +251,7 @@ recorded at receivers.
 </li>
 <li>
 <p>This method can not only enhance the SNR of the far-offset refracted seismic energy but also can detect the presence of diving waves in the first arrivals.
-<a href="">[paper]</a></p>
+<a href="https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/svi_GJI2.pdf">[paper]</a></p>
 </li>
 <li>
 <p>This research also demonstrates the application of this methodology to enhance the core-diffracted arrivals in the earthquake records. 
