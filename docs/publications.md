@@ -30,6 +30,7 @@ free-surface multiples, `Geophysical Journal International` [\[pdf\]](https://gi
 *Pawan Bharadwaj*, Gerard Schuster, Ian Mallinson, and Wei Dai, Theory of supervirtual refraction
 interferometry, `Geophysical Journal International` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/svi_GJI1.pdf)
 
+####
 Vinay Kumar Srivastava, Devendra Nath Giri, and *Pawan Bharadwaj*, Study and mapping of ground water
 prospect using remote sensing, GIS and geoelectrical resistivity techniques–a case study of Dhanbad district,
 Jharkhand, India, `Journal of Indian Geophysical Union`
@@ -67,7 +68,7 @@ Society for Mining, Metallurgy & Exploration,
 boring machine with 2-D SH full waveform inversion, European Association of
 Geoscientists & Engineers Conference and Exhibition, `EAGE Annual Meeting` [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/Pawan_looking_aheadEAGE.pdf)
 
-
+####
 *Pawan Bharadwaj*, Wim Mulder, and Guy Drijkoningen, An auxiliary bump functional to overcome
 cycle skipping in waveform inversion, 
 European Association of Geoscientists

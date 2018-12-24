@@ -30,7 +30,7 @@ E-mail address: pawbz[at]mit[dot]edu
 
 -------
 | [Google Scholar Citations](https://scholar.google.co.in/citations?user=EMbC7l8AAAAJ&hl=en) (for citation statistics)  | [Research Gate](https://www.researchgate.net/profile/Pawan_Bharadwaj) (for full text of publications) 
-| [GitHub](https://github.com/pawbz) (software) | [Linkedin](https://www.linkedin.com/in/pawan-bharadwaj-70ab9943/) | [ORCID](http://orcid.org/0000-0003-4081-8969) 
+| [GitHub](https://github.com/pawbz) (software) | [Linkedin](https://www.linkedin.com/in/pawan-bharadwaj-70ab9943/) | [ORCID](http://orcid.org/0000-0003-4081-8969) | [Homepage](http://pawbz.github.io)
 -------
 
 
@@ -38,4 +38,9 @@ E-mail address: pawbz[at]mit[dot]edu
 <div>
 | [Earth Resources Laboratory Homepage](https://erlweb.mit.edu/users/pawbzmitedu)
 | [Imaging and Computing Group](http://math.mit.edu/icg/)
+</div>
+
+#
+<div style="width: 20%; height: 20%; align: right;">
+<script width="10" type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=4Pcom0bxQR6vqcgDHmqmpfeoNbUP_QMUE8XRFB26tVc&cl=ffffff&w=a"></script>
 </div>

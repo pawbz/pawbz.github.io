@@ -21,10 +21,16 @@ Scholarship for Higher Education                                          | Indi
 
 
 
+
 ## Academic Visits
- Title             | Institution                                                               |    Year
-------------       | -------------                                                             | ----------------
-Guest Researcher   | Institute for Geophysics, University of Texas at Austin, USA              | 09/2011
+Title              | Institution                                                                 |    Year
+------------       | -------------                                                               | ----------------
+Presentation       | Caltech Seismological Laboratory, California Inst. of Technology            | 10/2018
+Presentation       | Earth Resources Laboratory, Massachusetts Institute of Technology           | 07/2016
+Presentation       | Dept. of Earth Sciences in Utrecht University, NL                           | 05/2016
+Presentation       | Inst. of Geophy. and Planetary Phy. in Univ. of California, Santa Cruz, USA | 04/2016
+Guest Researcher   | Institute for Geophysics, University of Texas at Austin, USA                | 09/2011
+
 
 
 ## Research Work

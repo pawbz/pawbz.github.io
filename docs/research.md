@@ -1,17 +1,18 @@
 ﻿
 ### Focused Blind Deconvolution (FBD) 
 
+* This research 
+introduces an idea (focusing) that is important to 
+resolve the indeterminacy inherent to multichannel blind deconvolution.
+[\[paper\]](https://arxiv.org/abs/1808.00166)
+[\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_FBD_slides_SEGAM.pdf) 
 * FBD is a deconvolution algorithm that 
 extracts sparse and front-loaded impulse responses from the channel outputs, i.e., 
-their convolutions with a single arbitrary source. [\[paper\]](https://arxiv.org/abs/1808.00166)
-[\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_FBD_slides_SEGAM.pdf) 
-* This method resolves the indeterminacy inherent to multichannel 
-blind deconvolution and this project demonstrates 
-its applications in both exploration and global seismology.
-* In the seismic context, FBD not only 
-outputs the 
-subsurface Green's function, which can be directly input to imaging, 
-but also helps us understand the source characteristics.
+their convolutions with a single arbitrary source. 
+* This project also employs FBD to solve essential problems in both exploration and earthquake seismology.
+In this context, FBD not only 
+outputs the subsurface Green's function, which can be directly input to imaging, 
+but also helps us understand the noisy source characteristics.
 
 <figure>
 <img align="center" width="750" height="300" src="../img/fbd/FBD_movie1.png">
@@ -53,13 +54,12 @@ are shown.</i>
 ### Cycle Skipping in Full Waveform Inversion (FWI)
 "When the seismic waveforms are too complicated to be analyzed during inversion, a simplification of them into envelope-like bumpy waveforms can be useful."
 
-* A bump functional computes the data misfit in the inversion
-after simplification. 
+* This research formulates a bump functional that computes the data misfit in seismic inversion
+after a simplification. 
 [\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_BumpFunctional_Slides.pdf) [\[paper\]](https://academic.oup.com/gji/article/206/2/1076/2605991)
-* It can be used as an auxiliary 
-functional in FWI 
-to overcome the well-known cycle-skipping problem. 
-* Seismic inversion by maximizing the correlation between the observed and modelled seismic data. [\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_SEG13slides.pdf)
+* A multi-objective FWI strategy, where the bump functional is 
+used as an auxiliary functional to overcome the well-known cycle-skipping problem, is proposed.
+* Advantages of seismic inversion that maximizes the correlation between the observed and modelled seismic data. [\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_SEG13slides.pdf)
 
 <figure>
 <img align="center" width="700" height="120" src="../img/bump/marm_bump.svg.png">
@@ -88,7 +88,7 @@ The Earth’s properties, composition and structure ahead of a tunnel boring mac
 images need to be available in near real time and without human interaction.
 * The focus was on a system for soft soils, where shear waves are better and easier 
 to interpret than compressional waves.
-* The study uses data acquired in a 
+* This study uses data acquired in a 
 number of field settings by a shear-wave vibrator source that mimic realistic TBM configurations.
 
 <figure>
@@ -111,7 +111,7 @@ recorded at receivers.
 [\[paper\]](https://academic.oup.com/gji/article/188/1/263/633573)
 
 * This method can not only enhance the SNR of the far-offset refracted seismic energy but also can detect the presence of diving waves in the first arrivals.
-[\[paper\]]()
+[\[paper\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/svi_GJI2.pdf)
 
 * This research also demonstrates the application of this methodology to enhance the core-diffracted arrivals in the earthquake records. 
 [\[slides\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_svi_cmb_compressed.pdf)
