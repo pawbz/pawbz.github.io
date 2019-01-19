@@ -129,6 +129,13 @@ Focused blind deconvolution of earthquake signals,
 American Geophysical Union,
 `AGU Fall Meeting`
 
+####
+*Pawan Bharadwaj*, Laurent Demanet, Aimé Fournier,
+Sparsity in multichannel blind deconvolution via focusing constraints,
+`SIAM Conference on Mathematical & Computational Issues in the Geosciences`
+
+
+
 
 
 #### 2012

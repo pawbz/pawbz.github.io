@@ -25,6 +25,7 @@ Scholarship for Higher Education                                          | Indi
 ## Academic Visits
 Title              | Institution                                                                 |    Year
 ------------       | -------------                                                               | ----------------
+Seminar	           | Center for Earth Sciences, Indian Institute of Science (IISc)               | 01/2019		
 Presentation       | Caltech Seismological Laboratory, California Inst. of Technology            | 10/2018
 Presentation       | Earth Resources Laboratory, Massachusetts Institute of Technology           | 07/2016
 Presentation       | Dept. of Earth Sciences in Utrecht University, NL                           | 05/2016
