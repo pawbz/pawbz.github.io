@@ -2,7 +2,7 @@
 
 #### 2018 
 *Pawan Bharadwaj*, Laurent Demanet, Aimé Fournier,
-Focused blind deconvolution, `IEEE Transactions on Signal Processing` (in review)
+Focused blind deconvolution, `IEEE Transactions on Signal Processing` (accepted)
 [\[preprint\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/Bharadwaj_FBD_arXiv1.pdf)
 
 
