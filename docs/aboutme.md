@@ -1,45 +1,65 @@
  
 ## Education
  
-Degree                                    | University                                                              |  Year
-------------                              | -------------                                                           | -----
-PhD in Geophysics                         | Delft University of Technology (TU Delft), Delft, The Netherlands       |  2016
-MSc Tech (Integrated), Applied Geophysics | Indian Institute of Technology (Indian School of Mines), Dhanbad, India |  2012
+Year| Degree                                    | University                                                              
+----| ------------                              | -------------                                                           
+2016| PhD in Geophysics                         | Delft University of Technology (TU Delft), Delft, The Netherlands       
+2012| MSc Tech (Integrated), Applied Geophysics | Indian Institute of Technology (Indian School of Mines), Dhanbad, India 
 
 
 
 
 ## Awards and Grants
 
- Grant                                                                    | Organization                                               |   Year
-------------                                                              | -------------                                              | ------------
-Best Paper Award                                                          | TU Delft Geosciences Research Meeting                      |   2018
-Computational Resource Grant                                              | Netherlands Organization for Scientific Research (NWO)     |   2014—2016
-Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship | Department of Science and Technology, India                |   2008—2012
-Scholarship for Higher Education                                          | Indian School of Mines                                     |   2008 
+ Year       |  Grant                                                                    | Organization                                              
+ ------     | ------------                                                              | -------------                                            
+ 2018       | Best Paper Award                                                          | TU Delft Geosciences Research Meeting                     
+ 2014—2016  | Computational Resource Grant                                              | Netherlands Organization for Scientific Research (NWO)  
+ 2008—2012  | Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship | Department of Science and Technology, India            
+ 2008       | Scholarship for Higher Education                                          | Indian School of Mines                                    
 
 
 
-
-
-## Academic Visits
-Title              | Institution                                                                 |    Year
-------------       | -------------                                                               | ----------------
-Seminar	           | Center for Earth Sciences, Indian Institute of Science (IISc)               | 01/2019		
-Presentation       | Caltech Seismological Laboratory, California Inst. of Technology            | 10/2018
-Presentation       | Earth Resources Laboratory, Massachusetts Institute of Technology           | 07/2016
-Presentation       | Dept. of Earth Sciences in Utrecht University, NL                           | 05/2016
-Presentation       | Inst. of Geophy. and Planetary Phy. in Univ. of California, Santa Cruz, USA | 04/2016
-Guest Researcher   | Institute for Geophysics, University of Texas at Austin, USA                | 09/2011
+## Teaching Experience and Certification
+   Year         |  Title             | Institution                                                               
+--------------  | ------------       | -------------                                                             
+Spring 2019     | Kaufman Teaching Certificate Program (KTCP) | Massachusetts Institute of Technology            
+Fall 2013/2014  | Computational Geophysics Lab Instructor | Delft University of Technology                       
 
 
 
-## Research Work
- Title             | Institution                                                               |    Year
-------------       | -------------                                                             | ----------------
-Postdoctoral Associate | Massachusetts Institute of Technology (MIT), Cambridge, USA           | 12/2016—present
-PhD Researcher | Delft University of Technology (TU Delft), Delft, The Netherlands             | 09/2012—11/2016
-Research Assistant | King Abdullah University of Science and Technology (KAUST), Saudi Arabia  | 05/2010—12/2012
+## Invited Talks
+   Year| Institution                                                               
+-------| --------------------------------------------------------------------                                                            
+04/2019| Schlumberger-Doll Research Center, Cambridge, USA		           
+01/2019| Center for Earth Sciences, Indian Institute of Science (IISc)                    	
+10/2018| Caltech Seismological Laboratory, California Institute of Technology          
+07/2016| Earth Resources Laboratory, Massachusetts Institute of Technology         
+05/2016| Department of Earth Sciences in Utrecht University, NL                         
+04/2016| Institute of Geophysics and Planetary Physics in University of California, Santa Cruz, USA 
+
+## Short-term Academic Visits
+   Year         | Title              | Institution                                                              
+-------------   | ------------       | -------------                                                            
+09/2011         | Guest Researcher   | Institute for Geophysics, University of Texas at Austin, USA             
+
+## Service
+ Title             | Institution                                                            
+------------       | -------------                                                         
+Reviewer           | Geophysical Journal International, Geophysics, IEEE Transactions on Geoscience and Remote Sensing
+Professional Associations | American Geophysical Union (AGU), Society of Exploration Geophysicists (SEG), European Association of Geoscientists and Engineers (EAGE), Society for Industrial and Applied Mathematics (SIAM)
+
+
+
+## Research
+   Year        |  Title             | Institution                                                               
+---------------| ------------       | -------------                                                             
+12/2016—present| Postdoctoral Associate | Massachusetts Institute of Technology (MIT), Cambridge, USA           
+09/2012—11/2016| PhD Researcher | Delft University of Technology (TU Delft), Delft, The Netherlands             
+05/2010—12/2012| Research Assistant | King Abdullah University of Science and Technology (KAUST), Saudi Arabia  
+
+
+
 
 
 <div>
