@@ -57,6 +57,9 @@ Scholarship for Higher Education, Indian School of Mines.
 
 ## Invited Talks
 
+#### 06/2019
+Woods Hole Oceanographic Institution, MA, USA.	           
+
 #### 04/2019
 Schlumberger-Doll Research Center, Cambridge, USA.	           
 
