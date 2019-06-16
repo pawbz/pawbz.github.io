@@ -1,0 +1,148 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Developer CV
+% LaTeX Template
+% Version 1.0 (28/1/19)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Authors:
+% Jan Vorisek (jan@vorisek.me)
+% Based on a template by Jan Küster (info@jankuester.com)
+% Modified for LaTeX Templates by Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[9pt]{developercv} % Default font size, values from 8-12pt are recommended
+
+\usepackage{booktabs}
+\usepackage{makecell}
+\setlength\LTleft{0pt}
+\setlength\LTright{0pt}
+\def\tightlist{}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+%\usepackage{titlesec}
+%
+%\titleformat{\paragraph}[leftmargin]
+%{\normalfont
+%\sffamily\bfseries\filleft}
+%{}{0pt}{}
+%\titlespacing{\paragraph}
+%{4pc}{1.5ex plus .1ex minus .2ex}{0.5pc}
+
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.45\textwidth} % 45% of the page width for name
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% If your name is very short, use just one of the lines below
+	% If your name is very long, reduce the font size or make the minipage wider and reduce the others proportionately
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Pawan}}}}} % First name
+	
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Bharadwaj}}}}} % Last name
+	
+	\vspace{6pt}
+	
+	{\huge Postdoctoral Associate (Applied Mathematics \& Geophysics)} % Career or current job title
+\end{minipage}
+\begin{minipage}[t]{0.275\textwidth} % 27.5% of the page width for the first row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% The first parameter is the FontAwesome icon name, the second is the box size and the third is the text
+	% Other icons can be found by referring to fontawesome.pdf (supplied with the template) and using the word after \fa in the command for the icon you want
+	\icon{MapMarker}{12}{Cambridge, MA, USA}\\
+	\icon{Phone}{12}{+1 8573205756}\\
+	\icon{At}{12}{\href{mailto:pawbz@mit.edu}{pawbz@mit.edu}}\\	
+\end{minipage}
+\begin{minipage}[t]{0.275\textwidth} % 27.5% of the page width for the second row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% The first parameter is the FontAwesome icon name, the second is the box size and the third is the text
+	% Other icons can be found by referring to fontawesome.pdf (supplied with the template) and using the word after \fa in the command for the icon you want
+	\icon{Globe}{12}{\href{https://pawbz.github.io}{pawbz.github.io}}\\
+	\icon{Github}{12}{\href{https://github.com/pawbz}{github.com/pawbz}}\\
+	\icon{Google}{12}{\href{https://scholar.google.co.in/citations?user=EMbC7l8AAAAJ&hl=en}{Google Scholar}}\\
+\end{minipage}
+
+\vspace{0.5cm}
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION, SKILLS AND TECHNOLOGIES
+%----------------------------------------------------------------------------------------
+
+\cvsect{Who Am I?}
+
+\begin{minipage}[t]{0.4\textwidth} % 40% of the page width for the introduction text
+	\vspace{\baselineskip} % Required for vertically aligning minipages
+A researcher 
+with an expertise in inverse problems and 
+signal processing relevant to wave propagation and 
+scattering --- passionate to solve real-life challenges pertaining to seismic, radar and medical imaging. 
+
+Recently working on projects that bridge 
+	the ideas of machine learning to the physics of wave propagation.
+\end{minipage}
+\hfill % Whitespace between
+\begin{minipage}[t]{0.5\textwidth} % 50% of the page for the skills bar chart
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	\begin{barchart}{5.5}
+		\baritem{Seismology}{50}
+		\baritem{Signal Processing}{45}
+		\baritem{PDE-constrained Optimization}{40}
+		\baritem{Imaging/ Inverse Problems}{40}
+		\baritem{Machine Learning}{35}
+%		\baritem{Noise Tomography}{30}
+		\baritem{Seismic Interferometry}{45}
+		\baritem{Near-surface Geophysics}{40}
+	\end{barchart}
+\end{minipage}
+
+\begin{center}
+	\bubbles{5/Julia, 4/HPC, 3/bash, 4/git, 3/Python, 4/FORTRAN}
+\end{center}
+
+$body$
+
+\begin{minipage}[t]{0.2\textwidth}
+	
+
+	\cvsect{Languages}
+	\vspace{\baselineskip} % Required for vertically aligning minipages
+	
+	\textbf{English} --- proficient\\
+	\textbf{Telugu} --- native\\
+	\textbf{Hindi} --- proficient
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.8\textwidth}
+	
+	\cvsect{References}
+%	\vspace{\baselineskip} % Required for vertically aligning minipages
+	
+	\begin{itemize}
+			\setlength\itemsep{0.5pt}
+		\item Wim Mulder,  Professor of Geophysical Imaging Methods, Delft University of Technology.
+		\item Gerard Schuster,  Professor of Geophysics, King Abdullah University of Science and Tech.
+		\item Laurent Demanet, Professor of Mathematics, Massachusetts Institute of Technology.
+ 
+	\end{itemize}
+\end{minipage}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

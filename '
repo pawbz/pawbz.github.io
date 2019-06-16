@@ -1,0 +1,86 @@
+ 
+-----------------------------------------------------------------------
+Year   Column 1                                            Column 2
+----   --------------------------------------------------  ------------
+I      the contents of this cell to fit into one line      Word1 Word2
+----   --------------------------------------------------  ------------
+
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+
+* aew
+  ** efwef
+* wfewe
+  ** qeffwef
+
+## Education
+ 
+|`Year` |                                    Degree    University|
+|:------|------------------------------------------------------:|
+|`2016` | PhD in Geophysics                          Delft University of Technology (TU Delft), Delft, The Netherlands       |
+|`2012` | MSc Tech (Integrated), Applied Geophysics  Indian Institute of Technology (Indian School of Mines), Dhanbad, India |
+
+
+
+
+## Awards and Grants
+
+ Year       |  Grant                                                                    | Organization                                              
+ :------    | :----------:                                                              | ------------:                                            
+ 2018       | Best Paper Award                                                          | TU Delft Geosciences Research Meeting                     
+ 2014—2016  | Computational Resource Grant                                              | Netherlands Organization for Scientific Research (NWO)  
+ 2008—2012  | Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship | Department of Science and Technology, India            
+ 2008       | Scholarship for Higher Education                                          | Indian School of Mines                                    
+
+
+
+## Teaching Experience and Certification
+   `Year`       |                                              Institution                                      
+:-------------  |---------------------------------------------------------:  
+`Spring 2019`   | Kaufman Teaching Certificate Program (KTCP)  Massachusetts Institute of Technology            
+`Fall 2013/2014`|  Computational Geophysics Lab Instructor     Delft University of Technology                       
+
+
+
+## Invited Talks
+Year   |                                                          Institution                              
+:------| --------------------------------------------------------------------:                                                            
+04/2019| Schlumberger-Doll Research Center, Cambridge, USA		           
+01/2019| Center for Earth Sciences, Indian Institute of Science (IISc)                    	
+10/2018| Caltech Seismological Laboratory, California Institute of Technology          
+07/2016| Earth Resources Laboratory, Massachusetts Institute of Technology         
+05/2016| Department of Earth Sciences in Utrecht University, NL                         
+04/2016| Institute of Geophysics and Planetary Physics in University of California, Santa Cruz, USA 
+
+## Short-term Academic Visits
+   Year         | Title              | Institution                                                              
+-------------   | ------------       | -------------                                                            
+09/2011         | Guest Researcher   | Institute for Geophysics, University of Texas at Austin, USA             
+
+## Service
+ Title             | Institution                                                            
+------------       | -------------                                                         
+Reviewer           | Geophysical Journal International, Geophysics, IEEE Transactions on Geoscience and Remote Sensing
+Professional Associations | American Geophysical Union (AGU), Society of Exploration Geophysicists (SEG), European Association of Geoscientists and Engineers (EAGE), Society for Industrial and Applied Mathematics (SIAM)
+
+
+
+## Research
+   Year        |  Title             | Institution                                                               
+---------------| ------------       | -------------                                                             
+12/2016—present| Postdoctoral Associate | Massachusetts Institute of Technology (MIT), Cambridge, USA           
+09/2012—11/2016| PhD Researcher | Delft University of Technology (TU Delft), Delft, The Netherlands             
+05/2010—12/2012| Research Assistant | King Abdullah University of Science and Technology (KAUST), Saudi Arabia  
+
+
+
+
+
+<div>
+<a href="https://github.com/pawbz/pawbz.github.io/blob/src/docs/cv_pawan.pdf">Download  CV</a>
+</div>
