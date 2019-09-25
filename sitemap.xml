@@ -4,39 +4,93 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2019-06-16</lastmod>
+     <lastmod>2019-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
+    <url>
+     <loc>/employment/</loc>
+     <lastmod>2019-09-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/education/</loc>
+     <lastmod>2019-09-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     <url>
      <loc>/aboutme/</loc>
-     <lastmod>2019-06-16</lastmod>
+     <lastmod>2019-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     
 
     
+        
     <url>
-     <loc>/publications/</loc>
-     <lastmod>2019-06-16</lastmod>
+     <loc>/publications_journal/</loc>
+     <lastmod>2019-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/publications_conference/</loc>
+     <lastmod>2019-09-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/publications_misc/</loc>
+     <lastmod>2019-09-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
+        
     <url>
-     <loc>/research/</loc>
-     <lastmod>2019-06-16</lastmod>
+     <loc>/fbd_eq/</loc>
+     <lastmod>2019-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/fbd/</loc>
+     <lastmod>2019-09-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/bss/</loc>
+     <lastmod>2019-09-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/fwi/</loc>
+     <lastmod>2019-09-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/interferometry/</loc>
+     <lastmod>2019-09-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
     <url>
      <loc>/software/</loc>
-     <lastmod>2019-06-16</lastmod>
+     <lastmod>2019-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
