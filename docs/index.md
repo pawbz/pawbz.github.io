@@ -41,7 +41,3 @@ E-mail address: pawbz[at]mit[dot]edu
 | [Imaging and Computing Group](http://math.mit.edu/icg/)
 </div>
 
-#
-<div style="width: 20%; height: 20%; align: right;">
-<script width="10" type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=4Pcom0bxQR6vqcgDHmqmpfeoNbUP_QMUE8XRFB26tVc&cl=ffffff&w=a"></script>
-</div>

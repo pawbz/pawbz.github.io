@@ -3,7 +3,7 @@
 #### 2019
 [9] ***Pawan Bharadwaj***, Chunfang Meng, Michael Fehler, Laurent Demanet and Aimé Fournier,
 Redshift of earthquakes via focused blind deconvolution of teleseisms 
-(submitted to JGR Solid Earth).
+(submitted to GRL).
 
 #### 2018 
 [8] ***Pawan Bharadwaj***, Laurent Demanet, Aimé Fournier,
@@ -44,6 +44,8 @@ Jharkhand, India, `Journal of Indian Geophysical Union`.
 #### 2011
 [1] Ian Mallinson, ***Pawan Bharadwaj***, Gerard Schuster, and Helmut Jakubowicz, Enhanced refractor imaging
 by supervirtual interferometry, `The Leading Edge`. [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/svi_TLE.pdf)
+
+
 
 ## Peer-reviewed Conference Articles & Presentations 
 #### 2019
@@ -104,72 +106,11 @@ Society of Exploration Geophysicists,
 
 
 
-
 #### 2011
 
 [1] ***Pawan Bharadwaj***, Gerard  Schuster, and Ian Mallinson, Super-virtual refraction interferometry:
 theory, 
 Society of Exploration Geophysicists,
 `SEG Annual Meeting`. [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/abstracts/SEG_SVITheory.pdf)
-
-## Patents
-
-#### 2018
-***Pawan Bharadwaj***, Laurent Demanet, Aimé Fournier,
-Focused blind deconvolution of interferometric Green’s functions,
-US Provisional Patent Application, 62669082.
-
-#### 2017
-***Pawan Bharadwaj***, Laurent Demanet, Aimé Fournier,
-Deblending random seismic sources via independent component analysis, 
-US Provisional Patent Application, 62481767.
-
-
-## arXiv.org 
-
-####  2017
- ***Pawan Bharadwaj***, Wim Mulder, and Guy Drijkoningen, A parameterization analysis for acoustic full-waveform inversion of sub-wavelength anomalies. [\[pdf\]](https://github.com/pawbz/pawbz.github.io/blob/src/pdf/papers/Param_arXiv.pdf)
-
-
-## Conference Presentations
-
-#### 2018
-[5] ***Pawan Bharadwaj***, Yusuke Mukuhira, Laurent Demanet, Michael Fehler, Aimé Fournier, 
-Focused blind deconvolution of earthquake signals,
-American Geophysical Union,
-`AGU Fall Meeting`.
-
-####
-[4] ***Pawan Bharadwaj***, Laurent Demanet, Aimé Fournier,
-Sparsity in multichannel blind deconvolution via focusing constraints,
-`SIAM Conference on Mathematical & Computational Issues in the Geosciences`.
-
-
-
-
-
-#### 2012
-
-[3] Gerard Schuster, ***Pawan Bharadwaj***, Tarje Nissen-Meyer, and Martin Mai, Extracting CMB diffractions by
-super-virtual interferometry, 
-American Geophysical Union,
-`AGU Fall Meeting`.
-
-#### 2011
-
-[2] Gerard Schuster, ***Pawan Bharadwaj***, and Kirk McIntosh, Refraction interferometry and free-surface
-multiples for large-offset OBS data,
-American Geophysical Union,
-`AGU Fall Meeting`.
-
-
-
-#### 2010
-[1] Gerard Schuster and ***Pawan Bharadwaj***, Extending the aperture and enhancing the S/N ratio of
-refraction imaging by super-virtual interferometry, 
-American Geophysical Union,
-`AGU Fall Meeting`.
-
-
 
 

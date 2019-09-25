@@ -2,6 +2,7 @@ site_name:        Pawan Bharadwaj
 repo_url:         https://github.com/pawbz/pawbz.github.io
 site_description: Pawan Bharadwaj 
 site_author:      pawbz
+google_analytics: ['UA-145843526-1', 'pawbz.github.io']
 
 theme: yeti
 extra_css:
@@ -26,7 +27,18 @@ extra_css:
 
 pages:
           - Home: index.md
-          - About Me: aboutme.md
-          - Publications: publications.md
-          - Research: research.md
+          - About Me:
+                - Research Positions: employment.md
+                - Education: education.md  
+                - Others: aboutme.md
+          - Publications:
+                - Peer Reviewed: publications_journal.md 
+                - Abstracts: publications_conference.md 
+                - Others: publications_misc.md
+          - Research: 
+                - Blind Rupture Characterization: fbd_eq.md
+                - Focused Blind Deconvolution: fbd.md
+                - Blind Source Separation: bss.md
+                - Full Waveform Inversion: fwi.md
+                - Interferometry: interferometry.md
           - Open Source: software.md
