@@ -3,7 +3,7 @@
 #### 2019
 [9] ***Pawan Bharadwaj***, Chunfang Meng, Michael Fehler, Laurent Demanet and Aimé Fournier,
 Redshift of earthquakes via focused blind deconvolution of teleseisms 
-(submitted to GRL).
+(in review).
 
 #### 2018 
 [8] ***Pawan Bharadwaj***, Laurent Demanet, Aimé Fournier,
