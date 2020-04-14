@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blind Source Separation | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/tags/blind-source-separation/</link>
+      <atom:link href="https://pawbz.github.io/tags/blind-source-separation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blind Source Separation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Blind Source Separation</title>
+      <link>https://pawbz.github.io/tags/blind-source-separation/</link>
+    </image>
+    
+    <item>
+      <title>Blind Source Separation</title>
+      <link>https://pawbz.github.io/project/bss_ica/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/project/bss_ica/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-receivers-r1-and-r2-record-the-blended-wavefield-due-to-simultaneous-random-sources-red-s1-and-blue-s2-ica-decomposes-the-wavefield-into-isolated-records-involving-one-source-at-a-time-the-deblended-records-at-the-first-receiver-are-shown&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/bss_ica/featured_hu4ac435bdd266c4524d9cce8ae3ac7de4_220143_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The receivers (r1 and r2) record the blended wavefield due to simultaneous random sources (red s1 and blue s2). ICA decomposes the wavefield into isolated records involving one source at a time. The deblended records at the first receiver are shown.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/bss_ica/featured_hu4ac435bdd266c4524d9cce8ae3ac7de4_220143_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1681&#34; height=&#34;517&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    The receivers (r1 and r2) record the blended wavefield due to simultaneous random sources (red s1 and blue s2). ICA decomposes the wavefield into isolated records involving one source at a time. The deblended records at the first receiver are shown.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This project demonstrates the application of frequency-domain independent component analysis to deblend random seismic sources.&lt;/li&gt;
+&lt;li&gt;ICA uses higher-order statistics to measure the Gaussianity of signals and working with convolutive mixtures (as in seismic exploration) is a challenging problem.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

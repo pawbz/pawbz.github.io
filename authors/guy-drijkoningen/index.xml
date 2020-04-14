@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guy Drijkoningen | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/authors/guy-drijkoningen/</link>
+      <atom:link href="https://pawbz.github.io/authors/guy-drijkoningen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guy Drijkoningen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Guy Drijkoningen</title>
+      <link>https://pawbz.github.io/authors/guy-drijkoningen/</link>
+    </image>
+    
+    <item>
+      <title>A parameterization analysis for acoustic full-waveform inversion of sub-wavelength anomalies</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2018-parameterization/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2018-parameterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A shear-wave seismic system using full-waveform inversion to look ahead of a tunnel-boring machine</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2017-shear/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2017-shear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Shear-Wave Seismic System to Look Ahead of a Tunnel Boring Machine</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2016-shear/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2016-shear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full waveform inversion with an auxiliary bump functional</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2016-full/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2016-full/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Auxiliary Bump Functional to Overcome Cycle Skipping in Waveform Inversion</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2015-auxiliary/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2015-auxiliary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking ahead of a tunnel boring machine with 2-D SH full waveform inversion</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2015-looking/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2015-looking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametrization for 2-D SH full waveform inversion</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2014-parametrization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2014-parametrization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective full waveform inversion in the absence of low frequencies</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2013-multi/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2013-multi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

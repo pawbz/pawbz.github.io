@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bump Functional | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/tags/bump-functional/</link>
+      <atom:link href="https://pawbz.github.io/tags/bump-functional/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bump Functional</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bump Functional</title>
+      <link>https://pawbz.github.io/tags/bump-functional/</link>
+    </image>
+    
+    <item>
+      <title>Multi-objective Full Waveform Inversion</title>
+      <link>https://pawbz.github.io/project/fwi_bump/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/project/fwi_bump/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-subsurface-p-wave-velocity-models-a-true-b-fwi-result-using-the-least-squares-objective--convergence-to-local-minima-c-multi-objective-fwi-with-the-auxiliary-bump-functional&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fwi_bump/marm_bump.svg_hu59b4e8f825750a3a4a7dd7aabe7a79bd_49107_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Subsurface P-wave velocity models. a) True. b) FWI result using the least-squares objective — convergence to local minima. c) Multi-objective FWI with the auxiliary bump functional.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/fwi_bump/marm_bump.svg_hu59b4e8f825750a3a4a7dd7aabe7a79bd_49107_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;864&#34; height=&#34;147&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Subsurface P-wave velocity models. a) True. b) FWI result using the least-squares objective — convergence to local minima. c) Multi-objective FWI with the auxiliary bump functional.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;cycle-skipping-in-full-waveform-inversion-fwi&#34;&gt;Cycle Skipping in Full Waveform Inversion (FWI)&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;When the seismic waveforms are too complicated to be analyzed during inversion, a simplification of them into envelope-like bumpy waveforms can be useful.&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This research formulates a bump functional that computes the data misfit in seismic inversion
+after a simplification.&lt;/li&gt;
+&lt;li&gt;A multi-objective FWI strategy, where the bump functional is
+used as an auxiliary functional to overcome the well-known cycle-skipping problem, is proposed.&lt;/li&gt;
+&lt;li&gt;Advantages of seismic inversion that maximizes the correlation between the observed and modelled seismic data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;multi-parameter-seismic-inversion&#34;&gt;Multi-parameter Seismic Inversion&lt;/h3&gt;
+&lt;p&gt;An analysis of the multi-parameter inverse problem in quantitative seismic imaging.
+
+&lt;a href=&#34;https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_EAGE14slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[slides]&lt;/a&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/1804.01184&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[paper]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

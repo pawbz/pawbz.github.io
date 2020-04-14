@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K McIntosh | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/authors/k-mcintosh/</link>
+      <atom:link href="https://pawbz.github.io/authors/k-mcintosh/index.xml" rel="self" type="application/rss+xml" />
+    <description>K McIntosh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>K McIntosh</title>
+      <link>https://pawbz.github.io/authors/k-mcintosh/</link>
+    </image>
+    
+    <item>
+      <title>Refraction Interferometry and Free-surface Multiples for Large-offset OBS Data</title>
+      <link>https://pawbz.github.io/publication/schuster-2011-refraction/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/schuster-2011-refraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

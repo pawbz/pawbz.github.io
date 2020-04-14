@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive Computation | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/tags/interactive-computation/</link>
+      <atom:link href="https://pawbz.github.io/tags/interactive-computation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interactive Computation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Interactive Computation</title>
+      <link>https://pawbz.github.io/tags/interactive-computation/</link>
+    </image>
+    
+    <item>
+      <title>Teaching Philosophy</title>
+      <link>https://pawbz.github.io/post/teaching/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/post/teaching/</guid>
+      <description>&lt;h2 id=&#34;computing-has-quickly-evolved-to-become-the-third-pillar-of-science&#34;&gt;Computing has quickly evolved to become the &lt;em&gt;third pillar&lt;/em&gt; of science.&lt;/h2&gt;
+&lt;h2 id=&#34;high-level-intended-learning-outcomes-ilo-during-course-design&#34;&gt;High-level intended learning outcomes (ILO) during course design.&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;blooms.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;impart-functional-knowledge-of-various-geophysical-inversion-algorithms&#34;&gt;Impart functional knowledge of various geophysical inversion algorithms.&lt;/h2&gt;
+&lt;h2 id=&#34;active-learning-through-interactive-computing-via-post-lecture-jupyter-notebooks&#34;&gt;Active learning through interactive computing via post-lecture Jupyter Notebooks.&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;notebook.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;class-projects-have-a-focus-on-solving-problems-in-the-energy-industry&#34;&gt;Class projects have a focus on solving problems in the energy industry.&lt;/h2&gt;
+&lt;h2 id=&#34;organize-workshops-during-the-semester-to-solve-several-computational-assignments-related-to-earth-sciences&#34;&gt;Organize workshops during the semester to solve several computational assignments related to Earth sciences.&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerard T Schuster | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/authors/gerard-t-schuster/</link>
+      <atom:link href="https://pawbz.github.io/authors/gerard-t-schuster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gerard T Schuster</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Gerard T Schuster</title>
+      <link>https://pawbz.github.io/authors/gerard-t-schuster/</link>
+    </image>
+    
+    <item>
+      <title>Super-virtual refraction interferometry: Theory</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2011-super/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2011-super/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Thorbecke | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/authors/jan-thorbecke/</link>
+      <atom:link href="https://pawbz.github.io/authors/jan-thorbecke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Thorbecke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jan Thorbecke</title>
+      <link>https://pawbz.github.io/authors/jan-thorbecke/</link>
+    </image>
+    
+    <item>
+      <title>A shear-wave seismic system using full-waveform inversion to look ahead of a tunnel-boring machine</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2017-shear/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2017-shear/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

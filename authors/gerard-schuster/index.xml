@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerard Schuster | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/authors/gerard-schuster/</link>
+      <atom:link href="https://pawbz.github.io/authors/gerard-schuster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gerard Schuster</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Gerard Schuster</title>
+      <link>https://pawbz.github.io/authors/gerard-schuster/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing core-diffracted arrivals by supervirtual interferometry</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2013-enhancing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2013-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing the number and signal-to-noise ratio of OBS traces with supervirtual refraction interferometry and free-surface multiples</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2013-increasing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2013-increasing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting CMB diffractions by Super-virtual Interferometry</title>
+      <link>https://pawbz.github.io/publication/schuster-2012-extracting/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/schuster-2012-extracting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory of supervirtual refraction interferometry</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2012-theory/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2012-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced refractor imaging by supervirtual interferometry</title>
+      <link>https://pawbz.github.io/publication/mallinson-2011-enhanced/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/mallinson-2011-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refraction Interferometry and Free-surface Multiples for Large-offset OBS Data</title>
+      <link>https://pawbz.github.io/publication/schuster-2011-refraction/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/schuster-2011-refraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending the aperture and increasing the signal-to-noise ratio of refraction surveys with super-virtual interferometry</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2010-extending/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2010-extending/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
