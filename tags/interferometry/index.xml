@@ -104,50 +104,5 @@ is depicted in figure above.&lt;/p&gt;
 </description>
     </item>
     
-    <item>
-      <title>SymAE</title>
-      <link>https://pawbz.github.io/project/symae/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/project/symae/</guid>
-      <description>
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-timelapse-passive-seismic-monitoring-experiment-an-illustration-that-symae-allows-for-vector-algebra-in-the-latent-space-to-manipulate-the-source-and-path-effects-in-the-recorded-data&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/symae/symae_hu3437505782b67371a6553ebe271bbc74_637734_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Timelapse passive seismic monitoring experiment. An illustration that SymAE allows for vector algebra in the latent space to manipulate the source and path effects in the recorded data.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://pawbz.github.io/project/symae/symae_hu3437505782b67371a6553ebe271bbc74_637734_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1636&#34; height=&#34;1252&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    Timelapse passive seismic monitoring experiment. An illustration that SymAE allows for vector algebra in the latent space to manipulate the source and path effects in the recorded data.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
   </channel>
 </rss>

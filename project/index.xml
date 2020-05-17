@@ -13,55 +13,6 @@
     </image>
     
     <item>
-      <title>Blind Source Separation</title>
-      <link>https://pawbz.github.io/project/bss_ica/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/project/bss_ica/</guid>
-      <description>
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-the-receivers-r1-and-r2-record-the-blended-wavefield-due-to-simultaneous-random-sources-red-s1-and-blue-s2-ica-decomposes-the-wavefield-into-isolated-records-involving-one-source-at-a-time-the-deblended-records-at-the-first-receiver-are-shown&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/bss_ica/featured_hu4ac435bdd266c4524d9cce8ae3ac7de4_220143_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The receivers (r1 and r2) record the blended wavefield due to simultaneous random sources (red s1 and blue s2). ICA decomposes the wavefield into isolated records involving one source at a time. The deblended records at the first receiver are shown.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://pawbz.github.io/project/bss_ica/featured_hu4ac435bdd266c4524d9cce8ae3ac7de4_220143_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1681&#34; height=&#34;517&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    The receivers (r1 and r2) record the blended wavefield due to simultaneous random sources (red s1 and blue s2). ICA decomposes the wavefield into isolated records involving one source at a time. The deblended records at the first receiver are shown.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;ul&gt;
-&lt;li&gt;This project demonstrates the application of frequency-domain independent component analysis to deblend random seismic sources.&lt;/li&gt;
-&lt;li&gt;ICA uses higher-order statistics to measure the Gaussianity of signals and working with convolutive mixtures (as in seismic exploration) is a challenging problem.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Focused Blind Deconvolution</title>
       <link>https://pawbz.github.io/project/fbd/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -156,65 +107,6 @@ but also helps us understand the noisy source characteristics.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Full waveform inversion to look ahead of a tunnel-boring machine</title>
-      <link>https://pawbz.github.io/project/fwi_tbm/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/project/fwi_tbm/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;movie_snaps.gif&#34; alt=&#34;SH-Wave Modeling Karst&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The Earth’s properties, composition and structure ahead of a tunnel boring machine (TBM) should be mapped for hazard assessment during excavation. For mapping, a seismic system is deployed on the machine’s cutter head, with a few sources and sufficiently many sensors.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This project studies the feasibility of using 2-D SH full waveform inversion to this near-surface imaging problem, where the
-images need to be available in near real time and without human interaction.&lt;/li&gt;
-&lt;li&gt;The focus was on a system for soft soils, where shear waves are better and easier
-to interpret than compressional waves.&lt;/li&gt;
-&lt;li&gt;This study uses data acquired in a
-number of field settings by a shear-wave vibrator source that mimic realistic TBM configurations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;movie_inversion.gif&#34; alt=&#34;Look Ahead of a TBM&#34;&gt;&lt;/p&gt;
-&lt;!--
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-imaging-a-near-surface-inclusion-in-the-netherlands-the-actual-location-of-a-buried-concrete-tube-is-marked-in-red-shear-wave-velocity-left-and-impedance-right-estimates-of-2-d-sh-full-waveform-inversion-depict-the-inclusion&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fwi_tbm/mod_transect1_hu030b428d808a226bc1f058e43d9a918d_102353_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://pawbz.github.io/project/fwi_tbm/mod_transect1_hu030b428d808a226bc1f058e43d9a918d_102353_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1010&#34; height=&#34;481&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
- 
-
---&gt;
-</description>
-    </item>
-    
-    <item>
       <title>GeoPhyInv</title>
       <link>https://pawbz.github.io/project/geophyinv/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -224,66 +116,6 @@ number of field settings by a shear-wave vibrator source that mimic realistic TB
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multi-objective Full Waveform Inversion</title>
-      <link>https://pawbz.github.io/project/fwi_bump/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/project/fwi_bump/</guid>
-      <description>
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-subsurface-p-wave-velocity-models-a-true-b-fwi-result-using-the-least-squares-objective--convergence-to-local-minima-c-multi-objective-fwi-with-the-auxiliary-bump-functional&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fwi_bump/marm_bump.svg_hu59b4e8f825750a3a4a7dd7aabe7a79bd_49107_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Subsurface P-wave velocity models. a) True. b) FWI result using the least-squares objective — convergence to local minima. c) Multi-objective FWI with the auxiliary bump functional.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://pawbz.github.io/project/fwi_bump/marm_bump.svg_hu59b4e8f825750a3a4a7dd7aabe7a79bd_49107_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;864&#34; height=&#34;147&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    Subsurface P-wave velocity models. a) True. b) FWI result using the least-squares objective — convergence to local minima. c) Multi-objective FWI with the auxiliary bump functional.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h3 id=&#34;cycle-skipping-in-full-waveform-inversion-fwi&#34;&gt;Cycle Skipping in Full Waveform Inversion (FWI)&lt;/h3&gt;
-&lt;p&gt;&amp;ldquo;When the seismic waveforms are too complicated to be analyzed during inversion, a simplification of them into envelope-like bumpy waveforms can be useful.&amp;rdquo;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This research formulates a bump functional that computes the data misfit in seismic inversion
-after a simplification.&lt;/li&gt;
-&lt;li&gt;A multi-objective FWI strategy, where the bump functional is
-used as an auxiliary functional to overcome the well-known cycle-skipping problem, is proposed.&lt;/li&gt;
-&lt;li&gt;Advantages of seismic inversion that maximizes the correlation between the observed and modelled seismic data.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;multi-parameter-seismic-inversion&#34;&gt;Multi-parameter Seismic Inversion&lt;/h3&gt;
-&lt;p&gt;An analysis of the multi-parameter inverse problem in quantitative seismic imaging.
-
-&lt;a href=&#34;https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_EAGE14slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[slides]&lt;/a&gt;
-
-&lt;a href=&#34;https://arxiv.org/abs/1804.01184&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[paper]&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -497,51 +329,6 @@ This signal model for CMB diffractions, along
 with an intuitive sketch of SVI,
 is depicted in figure above.&lt;/p&gt;
  &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SymAE</title>
-      <link>https://pawbz.github.io/project/symae/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/project/symae/</guid>
-      <description>
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-timelapse-passive-seismic-monitoring-experiment-an-illustration-that-symae-allows-for-vector-algebra-in-the-latent-space-to-manipulate-the-source-and-path-effects-in-the-recorded-data&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/symae/symae_hu3437505782b67371a6553ebe271bbc74_637734_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Timelapse passive seismic monitoring experiment. An illustration that SymAE allows for vector algebra in the latent space to manipulate the source and path effects in the recorded data.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://pawbz.github.io/project/symae/symae_hu3437505782b67371a6553ebe271bbc74_637734_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1636&#34; height=&#34;1252&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    Timelapse passive seismic monitoring experiment. An illustration that SymAE allows for vector algebra in the latent space to manipulate the source and path effects in the recorded data.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
 </description>
     </item>
     
