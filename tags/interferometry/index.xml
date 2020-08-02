@@ -5,7 +5,7 @@
     <link>https://pawbz.github.io/tags/interferometry/</link>
       <atom:link href="https://pawbz.github.io/tags/interferometry/index.xml" rel="self" type="application/rss+xml" />
     <description>Interferometry</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Thu, 27 Nov 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
       <title>Interferometry</title>
@@ -15,10 +15,15 @@
     <item>
       <title>Super-virtual Interferometry</title>
       <link>https://pawbz.github.io/project/svi/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
       <guid>https://pawbz.github.io/project/svi/</guid>
       <description>
 
+
+
+
+
+  
 
 
 
@@ -38,7 +43,7 @@
 &lt;figure id=&#34;figure--intermediate-steps-of-denoising-via-super-virtual-interferometry-svi-for-core-mantle-boundary-diffractions-every-iteration-of-svi-consists-of-a---c-a-cross-correlation-and-summation-of-the-data-to-generate-records-with-virtual-arrivals-followed-by--d---f-a-convolution-of-the-records-with-the-virtual-arrivals-to-create-records-with-super-virtual-arrivals&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/svi/svi_cmb_illustration_hu73fd53e154706a25f130485540b51dcc_801258_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Intermediate steps of denoising via super-virtual interferometry (SVI) for core-mantle boundary diffractions. Every iteration of SVI consists of a)&amp;mdash;c) a cross-correlation and summation of the data to generate records with virtual arrivals, followed by  d)&amp;mdash;f) a convolution of the records with the virtual arrivals to create records with super-virtual arrivals.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/svi/svi_cmb_illustration_hu73fd53e154706a25f130485540b51dcc_801258_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Intermediate steps of denoising via super-virtual interferometry (SVI) for core-mantle boundary diffractions. Every iteration of SVI consists of a)&amp;amp;mdash;c) a cross-correlation and summation of the data to generate records with virtual arrivals, followed by  d)&amp;amp;mdash;f) a convolution of the records with the virtual arrivals to create records with super-virtual arrivals.&#34;&gt;
 
 
   &lt;img data-src=&#34;https://pawbz.github.io/project/svi/svi_cmb_illustration_hu73fd53e154706a25f130485540b51dcc_801258_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2590&#34; height=&#34;974&#34;&gt;
@@ -69,7 +74,8 @@ the recording of the refracted signals radiated from deep geological boundaries,
 MOHO.
 However, as the energy propagates over large distances, the signal strength decays 
 resulting in poor signal-to-noise ratio.
-Consequently, an accurate tomography and imaging of the crustal structure required _denoising_ of the refracted energy.
+Consequently, an accurate tomography and imaging of the crustal structure required denoising
+ of the refracted energy.
 &lt;p&gt;Signal processing methods based on seismic interferometry principally extract energy, which is
 &lt;em&gt;coherent&lt;/em&gt;
 across the source and/or receiver dimensions of the measurements.

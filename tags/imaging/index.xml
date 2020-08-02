@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>imaging | Pawan Bharadwaj</title>
+    <title>Imaging | Pawan Bharadwaj</title>
     <link>https://pawbz.github.io/tags/imaging/</link>
       <atom:link href="https://pawbz.github.io/tags/imaging/index.xml" rel="self" type="application/rss+xml" />
-    <description>imaging</description>
+    <description>Imaging</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
-      <title>imaging</title>
+      <title>Imaging</title>
       <link>https://pawbz.github.io/tags/imaging/</link>
     </image>
     
@@ -22,6 +22,97 @@
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Full Waveform Inversion</title>
+      <link>https://pawbz.github.io/project/fwi_tbm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/project/fwi_tbm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;movie_snaps.gif&#34; alt=&#34;SH-Wave Modeling Karst&#34;&gt;
+summary: A seismic system structure ahead of a tunnel boring machine (TBM).
+title:  Full waveform inversion to look ahead of a tunnel-boring machine&lt;/p&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+I worked on signal models for seismic imaging that incorporate all the physical principles of wave-propagation. 
+The algorithms related to these models constitute
+full waveform inversion (FWI), which is a popular imaging tool in both exploration and global
+seismology. FWI is a non-linear gradient-based optimization procedure that estimates the Earth’s
+properties by least-squares fitting of the seismic measurements. The advantage of FWI is
+that it could potentially result in an accurate and reliable characterization of complex geological
+structures with high resolution. However, as these algorithms aim to explain all details in the
+measured seismograms, they are not simple — advanced mathematical techniques
+and high performance algorithms are required to process large volumes of seismic data that are
+subject to full-waveform models. In other words, gradient-based optimizations are prone to local-
+minima convergence, resulting in an imperfect data fitting. Over the last couple of decades several
+researches have aimed to develop efficient FWI algorithms with the help of simpler or skeletonized
+signal models.
+&lt;p&gt;I have developed an auxiliary signal model that assists FWI to produce accurate reconstruction
+of the subsurface properties. The formulation of this model effectively involves simplification of
+the measurements by replacing the seismic arrivals by bumps. My numerical experiments have
+demonstrated that, during the gradient-based optimization, whenever the seismic waveforms are
+too complicated to be compared in the conventional least-squares sense, an objective function
+based on the simplified data i.e., the bump functional can be useful. In other words, the role
+of the bump functional is to guide the optimization towards the global minimum by
+pulling the trapped solution out of the local minima associated with the least-squares functional
+whenever necessary. The subsequent FWI algorithms that utilize the bump functional lead to an efficient
+multi-objective full waveform inversion.&lt;/p&gt;
+ &lt;/div&gt;
+&lt;p&gt;The Earth’s properties, composition and structure ahead of a tunnel boring machine (TBM) should be mapped for hazard assessment during excavation. For mapping, a seismic system is deployed on the machine’s cutter head, with a few sources and sufficiently many sensors.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This project studies the feasibility of using 2-D SH full waveform inversion to this near-surface imaging problem, where the
+images need to be available in near real time and without human interaction.&lt;/li&gt;
+&lt;li&gt;The focus was on a system for soft soils, where shear waves are better and easier
+to interpret than compressional waves.&lt;/li&gt;
+&lt;li&gt;This study uses data acquired in a
+number of field settings by a shear-wave vibrator source that mimic realistic TBM configurations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;movie_inversion.gif&#34; alt=&#34;Look Ahead of a TBM&#34;&gt;&lt;/p&gt;
+&lt;!--
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-imaging-a-near-surface-inclusion-in-the-netherlands-the-actual-location-of-a-buried-concrete-tube-is-marked-in-red-shear-wave-velocity-left-and-impedance-right-estimates-of-2-d-sh-full-waveform-inversion-depict-the-inclusion&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fwi_tbm/mod_transect1_hu030b428d808a226bc1f058e43d9a918d_102353_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/fwi_tbm/mod_transect1_hu030b428d808a226bc1f058e43d9a918d_102353_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1010&#34; height=&#34;481&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+
+--&gt;
 </description>
     </item>
     

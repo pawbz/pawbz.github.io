@@ -5,12 +5,20 @@
     <link>https://pawbz.github.io/authors/pawan-bharadwaj/</link>
       <atom:link href="https://pawbz.github.io/authors/pawan-bharadwaj/index.xml" rel="self" type="application/rss+xml" />
     <description>Pawan Bharadwaj</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
       <title>Pawan Bharadwaj</title>
       <link>https://pawbz.github.io/authors/pawan-bharadwaj/</link>
     </image>
+    
+    <item>
+      <title>SymAE: redatuming timelapse data to create virtual baseline sources in the monitoring medium</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2020-agusymae/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2020-agusymae/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SymAE: an autoencoder with embedded physical symmetries for passive time-lapse monitoring</title>

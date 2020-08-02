@@ -4,47 +4,87 @@
   
   <url>
     <loc>https://pawbz.github.io/publication_types/1/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pawbz.github.io/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pawbz.github.io/authors/laurent-demanet/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pawbz.github.io/authors/matt-li/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pawbz.github.io/authors/pawan-bharadwaj/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pawbz.github.io/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pawbz.github.io/publication_types/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pawbz.github.io/publication/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/publication/bharadwaj-2020-agusymae/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pawbz.github.io/publication/bharadwaj-2020-symae/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/tags/blind-deconvolution/</loc>
+    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/tags/earthquake-spectrum/</loc>
+    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/project/</loc>
+    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/project/redshift/</loc>
+    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/tags/rupture-characterization/</loc>
+    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/tags/seismology/</loc>
+    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/tags/</loc>
+    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -173,22 +213,17 @@
   </url>
   
   <url>
-    <loc>https://pawbz.github.io/tags/blind-deconvolution/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pawbz.github.io/tags/earthquake-spectrum/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pawbz.github.io/project/fbd/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pawbz.github.io/tags/focusing-constraints/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/tags/full-waveform-inversion/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,11 +238,6 @@
   </url>
   
   <url>
-    <loc>https://pawbz.github.io/tags/head-waves/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pawbz.github.io/tags/imaging/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -218,7 +248,7 @@
   </url>
   
   <url>
-    <loc>https://pawbz.github.io/tags/interferometry/</loc>
+    <loc>https://pawbz.github.io/project/fwi_tbm/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,32 +258,12 @@
   </url>
   
   <url>
-    <loc>https://pawbz.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pawbz.github.io/project/redshift/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pawbz.github.io/tags/refraction-imaging/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pawbz.github.io/post/statement/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pawbz.github.io/tags/rupture-characterization/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pawbz.github.io/tags/seismology/</loc>
+    <loc>https://pawbz.github.io/tags/shear-waves/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -263,17 +273,12 @@
   </url>
   
   <url>
-    <loc>https://pawbz.github.io/project/svi/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pawbz.github.io/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pawbz.github.io/post/teaching/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/tags/velocity-model-building/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -305,6 +310,26 @@
   <url>
     <loc>https://pawbz.github.io/authors/r-reijnen/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/tags/head-waves/</loc>
+    <lastmod>2014-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/tags/interferometry/</loc>
+    <lastmod>2014-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/tags/refraction-imaging/</loc>
+    <lastmod>2014-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawbz.github.io/project/svi/</loc>
+    <lastmod>2014-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>

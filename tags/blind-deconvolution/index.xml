@@ -5,7 +5,7 @@
     <link>https://pawbz.github.io/tags/blind-deconvolution/</link>
       <atom:link href="https://pawbz.github.io/tags/blind-deconvolution/index.xml" rel="self" type="application/rss+xml" />
     <description>Blind Deconvolution</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
       <title>Blind Deconvolution</title>
@@ -13,109 +13,20 @@
     </image>
     
     <item>
-      <title>Focused Blind Deconvolution</title>
-      <link>https://pawbz.github.io/project/fbd/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/project/fbd/</guid>
-      <description>
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-marmousi-experiment-where-fbd-data-panel-3-outperforms-the-conventional-greens-function-retrieval-from-noise-data-panel-1-through-cross-correlation-data-panel-4-when-compared-to-the-true-greens-function-data-panel-2-note-that-fbd-not-only-recovers-the-direct-arrival-but-also-the-scattered-arrivals-due-to-the-reflectors-in-the-medium&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fbd/FBD_movie2_hub8cfcd6974b93ce722526307cd4a9f55_992000_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Marmousi experiment, where FBD (data panel 3) outperforms the conventional Green&amp;rsquo;s function retrieval from noise (data panel 1) through cross-correlation (data panel 4). When compared to the true Green&amp;rsquo;s function (data panel 2), note that FBD not only recovers the direct arrival but also the scattered arrivals due to the reflectors in the medium.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://pawbz.github.io/project/fbd/FBD_movie2_hub8cfcd6974b93ce722526307cd4a9f55_992000_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1545&#34; height=&#34;752&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    Marmousi experiment, where FBD (data panel 3) outperforms the conventional Green&amp;rsquo;s function retrieval from noise (data panel 1) through cross-correlation (data panel 4). When compared to the true Green&amp;rsquo;s function (data panel 2), note that FBD not only recovers the direct arrival but also the scattered arrivals due to the reflectors in the medium.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;ul&gt;
-&lt;li&gt;This research
-introduces an idea (focusing) that is important to
-resolve the indeterminacy inherent to multichannel blind deconvolution.&lt;/li&gt;
-&lt;li&gt;FBD is a deconvolution algorithm that
-extracts sparse and front-loaded impulse responses from the channel outputs, i.e.,
-their convolutions with a single arbitrary source.&lt;/li&gt;
-&lt;li&gt;This project also employs FBD to solve essential problems in both exploration and earthquake seismology.
-In this context, FBD not only
-outputs the subsurface Green&amp;rsquo;s function, which can be directly input to imaging,
-but also helps us understand the noisy source characteristics.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-info-graphic-of-focused-blind-deconvolution-which-is-a-data-driven-greens-function-retrieval-algorithm-for-multi-channel-seismic-data-of-a-noisy-source&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fbd/FBD_movie1_hu4769845e09e8354db21013232c72c8aa_190136_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Info-graphic of focused blind deconvolution, which is a data-driven Green&amp;rsquo;s function retrieval algorithm for multi-channel seismic data of a noisy source.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://pawbz.github.io/project/fbd/FBD_movie1_hu4769845e09e8354db21013232c72c8aa_190136_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1859&#34; height=&#34;790&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    Info-graphic of focused blind deconvolution, which is a data-driven Green&amp;rsquo;s function retrieval algorithm for multi-channel seismic data of a noisy source.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
       <title>Redshift of Earthquakes</title>
       <link>https://pawbz.github.io/project/redshift/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://pawbz.github.io/project/redshift/</guid>
       <description>
 
 
 
 
+
+  
+
+
+
   
   
 
@@ -129,20 +40,20 @@ but also helps us understand the noisy source characteristics.&lt;/li&gt;
 
 
 
-&lt;figure id=&#34;figure-schematic-of-waves-emitted-due-to-a-rupture-propagating-from-west-azimuth-theta270circ-to-east-90circ-a-blue-waves-emitted-towards-the-east-are-shortened-while-the-red-waves-traveling-towards-the-west-are-lengthened-these-waves-undergo-complex-scattering-squares-before-they-reach-the-receivers-triangles-resulting-in-a-challenging-source-spectrum-estimation-problem-b-fbd-factorizes-the-measurements-effectively-removes-the-complex-scattering-or-path-effects-and-directly-estimates-the-source-spectra-red-blue-graphs-at-the-receivers-the-variability-of-the-normalized-source-spectrum-with-theta-can-be-used-to-infer-the-kinematic-rupture-parameters&#34;&gt;
+&lt;figure id=&#34;figure-schematic-of-waves-emitted-due-to-a-rupture-propagating-from-west-azimuth-theta270circ-to-east-90circ-a-blue-waves-emitted-towards-the-east-are-shortened-while-the-red-waves-traveling-towards-the-west-are-lengthened-these-waves-undergo-complex-scattering-squares-before-they-reach-the-receivers-triangles-resulting-in-a-challenging-source-spectrum-estimation-problem-b-i-have-developed-a-signal-model-to-factorize-the-measurements-effectively-removes-the-complex-scattering-or-path-effects-and-directly-estimates-the-source-spectra-red-blue-graphs-at-the-receivers-the-variability-of-the-normalized-source-spectrum-with-theta-can-be-used-to-infer-the-kinematic-rupture-parameters&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/redshift/redshift_fig_hu4cc568d5d8fa211bbae1220101fda090_117495_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Schematic of waves emitted due to a rupture propagating from west (azimuth $\theta=270^{\circ}$) to east (90$^{\circ}$). a) Blue waves emitted towards the east are shortened, while the red waves traveling towards the west are lengthened. These waves undergo complex scattering (squares) before they reach the receivers (triangles), resulting in a challenging source-spectrum estimation problem. b) FBD factorizes the measurements, effectively removes the complex scattering or path effects and directly estimates the source spectra (red-blue graphs) at the receivers. The variability of the normalized source spectrum with $\theta$ can be used to infer the kinematic rupture parameters.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/redshift/redshift_fig_hu4cc568d5d8fa211bbae1220101fda090_142933_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Schematic of waves emitted due to a rupture propagating from west (azimuth $\theta=270^{\circ}$) to east (90$^{\circ}$). a) Blue waves emitted towards the east are shortened, while the red waves traveling towards the west are lengthened. These waves undergo complex scattering (squares) before they reach the receivers (triangles), resulting in a challenging source-spectrum estimation problem. b) I have developed a signal model to factorize the measurements, effectively removes the complex scattering or path effects and directly estimates the source spectra (red-blue graphs) at the receivers. The variability of the normalized source spectrum with $\theta$ can be used to infer the kinematic rupture parameters.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://pawbz.github.io/project/redshift/redshift_fig_hu4cc568d5d8fa211bbae1220101fda090_117495_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1963&#34; height=&#34;901&#34;&gt;
+  &lt;img data-src=&#34;https://pawbz.github.io/project/redshift/redshift_fig_hu4cc568d5d8fa211bbae1220101fda090_142933_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1963&#34; height=&#34;901&#34;&gt;
 &lt;/a&gt;
 
 
   
   
   &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    Schematic of waves emitted due to a rupture propagating from west (azimuth $\theta=270^{\circ}$) to east (90$^{\circ}$). a) Blue waves emitted towards the east are shortened, while the red waves traveling towards the west are lengthened. These waves undergo complex scattering (squares) before they reach the receivers (triangles), resulting in a challenging source-spectrum estimation problem. b) FBD factorizes the measurements, effectively removes the complex scattering or path effects and directly estimates the source spectra (red-blue graphs) at the receivers. The variability of the normalized source spectrum with $\theta$ can be used to infer the kinematic rupture parameters.
+    Schematic of waves emitted due to a rupture propagating from west (azimuth $\theta=270^{\circ}$) to east (90$^{\circ}$). a) Blue waves emitted towards the east are shortened, while the red waves traveling towards the west are lengthened. These waves undergo complex scattering (squares) before they reach the receivers (triangles), resulting in a challenging source-spectrum estimation problem. b) I have developed a signal model to factorize the measurements, effectively removes the complex scattering or path effects and directly estimates the source spectra (red-blue graphs) at the receivers. The variability of the normalized source spectrum with $\theta$ can be used to infer the kinematic rupture parameters.
   &lt;/figcaption&gt;
 
 
@@ -192,6 +103,11 @@ this method will provide more accurate and reliable source information to seismo
 
 
 
+
+  
+
+
+
   
   
 
@@ -208,10 +124,10 @@ this method will provide more accurate and reliable source information to seismo
 &lt;figure id=&#34;figure-fbd-factorizes-the-recorded-spectra-d-due-to-the-nicobar-earthquake-into-the-source-hats-and-the-path-hatg-at-multiple-azimuths-note-that-the-source-spectrum-exhibits-frequency-scaling-with-higher-corner-frequency-in-the-direction-of-the-rupture-propagation-indicated-by-an-arrow-and-vice-versa&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/redshift/nicobar1_spec_compare_hu98b3d0f894c95e692aa6baa3510c5850_215175_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;FBD factorizes the recorded spectra $|D|$, due to the Nicobar earthquake, into the source $|\hat{S}|$ and the path $|\hat{G}|$ at multiple azimuths. Note that the source spectrum exhibits frequency scaling, with higher corner frequency in the direction of the rupture propagation (indicated by an arrow) and vice versa.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/redshift/nicobar1_spec_compare_hu98b3d0f894c95e692aa6baa3510c5850_230938_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;FBD factorizes the recorded spectra $|D|$, due to the Nicobar earthquake, into the source $|\hat{S}|$ and the path $|\hat{G}|$ at multiple azimuths. Note that the source spectrum exhibits frequency scaling, with higher corner frequency in the direction of the rupture propagation (indicated by an arrow) and vice versa.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://pawbz.github.io/project/redshift/nicobar1_spec_compare_hu98b3d0f894c95e692aa6baa3510c5850_215175_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1351&#34; height=&#34;1157&#34;&gt;
+  &lt;img data-src=&#34;https://pawbz.github.io/project/redshift/nicobar1_spec_compare_hu98b3d0f894c95e692aa6baa3510c5850_230938_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1351&#34; height=&#34;1157&#34;&gt;
 &lt;/a&gt;
 
 
@@ -219,6 +135,110 @@ this method will provide more accurate and reliable source information to seismo
   
   &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
     FBD factorizes the recorded spectra $|D|$, due to the Nicobar earthquake, into the source $|\hat{S}|$ and the path $|\hat{G}|$ at multiple azimuths. Note that the source spectrum exhibits frequency scaling, with higher corner frequency in the direction of the rupture propagation (indicated by an arrow) and vice versa.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Focused Blind Deconvolution</title>
+      <link>https://pawbz.github.io/project/fbd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/project/fbd/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-marmousi-experiment-where-fbd-data-panel-3-outperforms-the-conventional-greens-function-retrieval-from-noise-data-panel-1-through-cross-correlation-data-panel-4-when-compared-to-the-true-greens-function-data-panel-2-note-that-fbd-not-only-recovers-the-direct-arrival-but-also-the-scattered-arrivals-due-to-the-reflectors-in-the-medium&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fbd/FBD_movie2_hub8cfcd6974b93ce722526307cd4a9f55_992000_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Marmousi experiment, where FBD (data panel 3) outperforms the conventional Green&amp;amp;rsquo;s function retrieval from noise (data panel 1) through cross-correlation (data panel 4). When compared to the true Green&amp;amp;rsquo;s function (data panel 2), note that FBD not only recovers the direct arrival but also the scattered arrivals due to the reflectors in the medium.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/fbd/FBD_movie2_hub8cfcd6974b93ce722526307cd4a9f55_992000_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1545&#34; height=&#34;752&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Marmousi experiment, where FBD (data panel 3) outperforms the conventional Green&amp;rsquo;s function retrieval from noise (data panel 1) through cross-correlation (data panel 4). When compared to the true Green&amp;rsquo;s function (data panel 2), note that FBD not only recovers the direct arrival but also the scattered arrivals due to the reflectors in the medium.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This research
+introduces an idea (focusing) that is important to
+resolve the indeterminacy inherent to multichannel blind deconvolution.&lt;/li&gt;
+&lt;li&gt;FBD is a deconvolution algorithm that
+extracts sparse and front-loaded impulse responses from the channel outputs, i.e.,
+their convolutions with a single arbitrary source.&lt;/li&gt;
+&lt;li&gt;This project also employs FBD to solve essential problems in both exploration and earthquake seismology.
+In this context, FBD not only
+outputs the subsurface Green&amp;rsquo;s function, which can be directly input to imaging,
+but also helps us understand the noisy source characteristics.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-info-graphic-of-focused-blind-deconvolution-which-is-a-data-driven-greens-function-retrieval-algorithm-for-multi-channel-seismic-data-of-a-noisy-source&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fbd/FBD_movie1_hu4769845e09e8354db21013232c72c8aa_190136_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Info-graphic of focused blind deconvolution, which is a data-driven Green&amp;amp;rsquo;s function retrieval algorithm for multi-channel seismic data of a noisy source.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/fbd/FBD_movie1_hu4769845e09e8354db21013232c72c8aa_190136_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1859&#34; height=&#34;790&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Info-graphic of focused blind deconvolution, which is a data-driven Green&amp;rsquo;s function retrieval algorithm for multi-channel seismic data of a noisy source.
   &lt;/figcaption&gt;
 
 

@@ -5,7 +5,7 @@
     <link>https://pawbz.github.io/</link>
       <atom:link href="https://pawbz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pawan Bharadwaj</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
       <title>Pawan Bharadwaj</title>
@@ -13,11 +13,150 @@
     </image>
     
     <item>
+      <title>SymAE: redatuming timelapse data to create virtual baseline sources in the monitoring medium</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2020-agusymae/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2020-agusymae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SymAE: an autoencoder with embedded physical symmetries for passive time-lapse monitoring</title>
       <link>https://pawbz.github.io/publication/bharadwaj-2020-symae/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://pawbz.github.io/publication/bharadwaj-2020-symae/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Redshift of Earthquakes</title>
+      <link>https://pawbz.github.io/project/redshift/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/project/redshift/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-of-waves-emitted-due-to-a-rupture-propagating-from-west-azimuth-theta270circ-to-east-90circ-a-blue-waves-emitted-towards-the-east-are-shortened-while-the-red-waves-traveling-towards-the-west-are-lengthened-these-waves-undergo-complex-scattering-squares-before-they-reach-the-receivers-triangles-resulting-in-a-challenging-source-spectrum-estimation-problem-b-i-have-developed-a-signal-model-to-factorize-the-measurements-effectively-removes-the-complex-scattering-or-path-effects-and-directly-estimates-the-source-spectra-red-blue-graphs-at-the-receivers-the-variability-of-the-normalized-source-spectrum-with-theta-can-be-used-to-infer-the-kinematic-rupture-parameters&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/redshift/redshift_fig_hu4cc568d5d8fa211bbae1220101fda090_142933_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Schematic of waves emitted due to a rupture propagating from west (azimuth $\theta=270^{\circ}$) to east (90$^{\circ}$). a) Blue waves emitted towards the east are shortened, while the red waves traveling towards the west are lengthened. These waves undergo complex scattering (squares) before they reach the receivers (triangles), resulting in a challenging source-spectrum estimation problem. b) I have developed a signal model to factorize the measurements, effectively removes the complex scattering or path effects and directly estimates the source spectra (red-blue graphs) at the receivers. The variability of the normalized source spectrum with $\theta$ can be used to infer the kinematic rupture parameters.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/redshift/redshift_fig_hu4cc568d5d8fa211bbae1220101fda090_142933_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1963&#34; height=&#34;901&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Schematic of waves emitted due to a rupture propagating from west (azimuth $\theta=270^{\circ}$) to east (90$^{\circ}$). a) Blue waves emitted towards the east are shortened, while the red waves traveling towards the west are lengthened. These waves undergo complex scattering (squares) before they reach the receivers (triangles), resulting in a challenging source-spectrum estimation problem. b) I have developed a signal model to factorize the measurements, effectively removes the complex scattering or path effects and directly estimates the source spectra (red-blue graphs) at the receivers. The variability of the normalized source spectrum with $\theta$ can be used to infer the kinematic rupture parameters.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;div style=&#34;text-align: justify&#34;&gt;
+The hazard assessment of earthquakes is closely related to the propagation of their associated ruptures. This research 
+responds to numerous fundamental challenges involved in directly measuring source signals
+that originate from a propagating rupture.
+It is desirable to directly measure the source pulses 
+at the seismometers and subsequently infer 
+quantities that are related to the rupture propagation.
+However, 
+the signals measured in place of those pulses are affected by the subsurface properties through which they propagate
+before reaching these stations.
+Thus, instead of measuring the earthquake source signal directly, 
+each seismic station records 
+two types of information that are convoluted into a single signal: 
+information about the earthquake (source pulse) and information about the 
+unknown 
+subsurface features through which
+it passed (path effects).
+The path effects may distort the earthquake source signal, for example,
+due to:
+&lt;ul&gt;
+&lt;li&gt;one or more reflections off of geological layers in the subsurface;&lt;/li&gt;
+&lt;li&gt;intrinsic attenuation of the porous-rock medium.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Consequently, an accurate characterization of the earthquake rupture
+involves reliably analyzing the recorded seismograms  to separate the path effects
+from the earthquake pulses.  Current methods for separating out the two types of information
+rely on dubious assumptions, and may be confounded because extracting source pulse
+requires assumptions about the path, but conversely
+extracting path effects requires assumptions about the source.
+This research introduces to seismology a new analysis method, &lt;em&gt;focused blind deconvolution&lt;/em&gt; (FBD),
+that can be used to extract source or path information
+without relying on traditional assumptions.
+Instead, this method compares data from the same source picked up by multiple receivers,
+and uses advanced signal processing to identify similarities and differences among the data.
+Similarities among the signals can be identified as source effects,
+while dissimilarities indicate path effects.
+Because it does not require the aforementioned assumptions,
+this method will provide more accurate and reliable source information to seismologists.&lt;/p&gt;
+ &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-fbd-factorizes-the-recorded-spectra-d-due-to-the-nicobar-earthquake-into-the-source-hats-and-the-path-hatg-at-multiple-azimuths-note-that-the-source-spectrum-exhibits-frequency-scaling-with-higher-corner-frequency-in-the-direction-of-the-rupture-propagation-indicated-by-an-arrow-and-vice-versa&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/redshift/nicobar1_spec_compare_hu98b3d0f894c95e692aa6baa3510c5850_230938_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;FBD factorizes the recorded spectra $|D|$, due to the Nicobar earthquake, into the source $|\hat{S}|$ and the path $|\hat{G}|$ at multiple azimuths. Note that the source spectrum exhibits frequency scaling, with higher corner frequency in the direction of the rupture propagation (indicated by an arrow) and vice versa.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/redshift/nicobar1_spec_compare_hu98b3d0f894c95e692aa6baa3510c5850_230938_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1351&#34; height=&#34;1157&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    FBD factorizes the recorded spectra $|D|$, due to the Nicobar earthquake, into the source $|\hat{S}|$ and the path $|\hat{G}|$ at multiple azimuths. Note that the source spectrum exhibits frequency scaling, with higher corner frequency in the direction of the rupture propagation (indicated by an arrow) and vice versa.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
     <item>
@@ -102,6 +241,11 @@
 
 
 
+
+  
+
+
+
   
   
 
@@ -118,7 +262,7 @@
 &lt;figure id=&#34;figure-marmousi-experiment-where-fbd-data-panel-3-outperforms-the-conventional-greens-function-retrieval-from-noise-data-panel-1-through-cross-correlation-data-panel-4-when-compared-to-the-true-greens-function-data-panel-2-note-that-fbd-not-only-recovers-the-direct-arrival-but-also-the-scattered-arrivals-due-to-the-reflectors-in-the-medium&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fbd/FBD_movie2_hub8cfcd6974b93ce722526307cd4a9f55_992000_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Marmousi experiment, where FBD (data panel 3) outperforms the conventional Green&amp;rsquo;s function retrieval from noise (data panel 1) through cross-correlation (data panel 4). When compared to the true Green&amp;rsquo;s function (data panel 2), note that FBD not only recovers the direct arrival but also the scattered arrivals due to the reflectors in the medium.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fbd/FBD_movie2_hub8cfcd6974b93ce722526307cd4a9f55_992000_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Marmousi experiment, where FBD (data panel 3) outperforms the conventional Green&amp;amp;rsquo;s function retrieval from noise (data panel 1) through cross-correlation (data panel 4). When compared to the true Green&amp;amp;rsquo;s function (data panel 2), note that FBD not only recovers the direct arrival but also the scattered arrivals due to the reflectors in the medium.&#34;&gt;
 
 
   &lt;img data-src=&#34;https://pawbz.github.io/project/fbd/FBD_movie2_hub8cfcd6974b93ce722526307cd4a9f55_992000_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1545&#34; height=&#34;752&#34;&gt;
@@ -151,6 +295,11 @@ but also helps us understand the noisy source characteristics.&lt;/li&gt;
 
 
 
+
+  
+
+
+
   
   
 
@@ -167,7 +316,7 @@ but also helps us understand the noisy source characteristics.&lt;/li&gt;
 &lt;figure id=&#34;figure-info-graphic-of-focused-blind-deconvolution-which-is-a-data-driven-greens-function-retrieval-algorithm-for-multi-channel-seismic-data-of-a-noisy-source&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fbd/FBD_movie1_hu4769845e09e8354db21013232c72c8aa_190136_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Info-graphic of focused blind deconvolution, which is a data-driven Green&amp;rsquo;s function retrieval algorithm for multi-channel seismic data of a noisy source.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fbd/FBD_movie1_hu4769845e09e8354db21013232c72c8aa_190136_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Info-graphic of focused blind deconvolution, which is a data-driven Green&amp;amp;rsquo;s function retrieval algorithm for multi-channel seismic data of a noisy source.&#34;&gt;
 
 
   &lt;img data-src=&#34;https://pawbz.github.io/project/fbd/FBD_movie1_hu4769845e09e8354db21013232c72c8aa_190136_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1859&#34; height=&#34;790&#34;&gt;
@@ -200,88 +349,56 @@ but also helps us understand the noisy source characteristics.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Redshift of Earthquakes</title>
-      <link>https://pawbz.github.io/project/redshift/</link>
+      <title>Multi-objective Full Waveform Inversion</title>
+      <link>https://pawbz.github.io/project/fwi_tbm/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/project/redshift/</guid>
-      <description>
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-schematic-of-waves-emitted-due-to-a-rupture-propagating-from-west-azimuth-theta270circ-to-east-90circ-a-blue-waves-emitted-towards-the-east-are-shortened-while-the-red-waves-traveling-towards-the-west-are-lengthened-these-waves-undergo-complex-scattering-squares-before-they-reach-the-receivers-triangles-resulting-in-a-challenging-source-spectrum-estimation-problem-b-fbd-factorizes-the-measurements-effectively-removes-the-complex-scattering-or-path-effects-and-directly-estimates-the-source-spectra-red-blue-graphs-at-the-receivers-the-variability-of-the-normalized-source-spectrum-with-theta-can-be-used-to-infer-the-kinematic-rupture-parameters&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/redshift/redshift_fig_hu4cc568d5d8fa211bbae1220101fda090_117495_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Schematic of waves emitted due to a rupture propagating from west (azimuth $\theta=270^{\circ}$) to east (90$^{\circ}$). a) Blue waves emitted towards the east are shortened, while the red waves traveling towards the west are lengthened. These waves undergo complex scattering (squares) before they reach the receivers (triangles), resulting in a challenging source-spectrum estimation problem. b) FBD factorizes the measurements, effectively removes the complex scattering or path effects and directly estimates the source spectra (red-blue graphs) at the receivers. The variability of the normalized source spectrum with $\theta$ can be used to infer the kinematic rupture parameters.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://pawbz.github.io/project/redshift/redshift_fig_hu4cc568d5d8fa211bbae1220101fda090_117495_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1963&#34; height=&#34;901&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    Schematic of waves emitted due to a rupture propagating from west (azimuth $\theta=270^{\circ}$) to east (90$^{\circ}$). a) Blue waves emitted towards the east are shortened, while the red waves traveling towards the west are lengthened. These waves undergo complex scattering (squares) before they reach the receivers (triangles), resulting in a challenging source-spectrum estimation problem. b) FBD factorizes the measurements, effectively removes the complex scattering or path effects and directly estimates the source spectra (red-blue graphs) at the receivers. The variability of the normalized source spectrum with $\theta$ can be used to infer the kinematic rupture parameters.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+      <guid>https://pawbz.github.io/project/fwi_tbm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;movie_snaps.gif&#34; alt=&#34;SH-Wave Modeling Karst&#34;&gt;
+summary: A seismic system structure ahead of a tunnel boring machine (TBM).
+title:  Full waveform inversion to look ahead of a tunnel-boring machine&lt;/p&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
-The hazard assessment of earthquakes is closely related to the propagation of their associated ruptures. This research 
-responds to numerous fundamental challenges involved in directly measuring source signals
-that originate from a propagating rupture.
-It is desirable to directly measure the source pulses 
-at the seismometers and subsequently infer 
-quantities that are related to the rupture propagation.
-However, 
-the signals measured in place of those pulses are affected by the subsurface properties through which they propagate
-before reaching these stations.
-Thus, instead of measuring the earthquake source signal directly, 
-each seismic station records 
-two types of information that are convoluted into a single signal: 
-information about the earthquake (source pulse) and information about the 
-unknown 
-subsurface features through which
-it passed (path effects).
-The path effects may distort the earthquake source signal, for example,
-due to:
-&lt;ul&gt;
-&lt;li&gt;one or more reflections off of geological layers in the subsurface;&lt;/li&gt;
-&lt;li&gt;intrinsic attenuation of the porous-rock medium.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Consequently, an accurate characterization of the earthquake rupture
-involves reliably analyzing the recorded seismograms  to separate the path effects
-from the earthquake pulses.  Current methods for separating out the two types of information
-rely on dubious assumptions, and may be confounded because extracting source pulse
-requires assumptions about the path, but conversely
-extracting path effects requires assumptions about the source.
-This research introduces to seismology a new analysis method, &lt;em&gt;focused blind deconvolution&lt;/em&gt; (FBD),
-that can be used to extract source or path information
-without relying on traditional assumptions.
-Instead, this method compares data from the same source picked up by multiple receivers,
-and uses advanced signal processing to identify similarities and differences among the data.
-Similarities among the signals can be identified as source effects,
-while dissimilarities indicate path effects.
-Because it does not require the aforementioned assumptions,
-this method will provide more accurate and reliable source information to seismologists.&lt;/p&gt;
+I worked on signal models for seismic imaging that incorporate all the physical principles of wave-propagation. 
+The algorithms related to these models constitute
+full waveform inversion (FWI), which is a popular imaging tool in both exploration and global
+seismology. FWI is a non-linear gradient-based optimization procedure that estimates the Earth’s
+properties by least-squares fitting of the seismic measurements. The advantage of FWI is
+that it could potentially result in an accurate and reliable characterization of complex geological
+structures with high resolution. However, as these algorithms aim to explain all details in the
+measured seismograms, they are not simple — advanced mathematical techniques
+and high performance algorithms are required to process large volumes of seismic data that are
+subject to full-waveform models. In other words, gradient-based optimizations are prone to local-
+minima convergence, resulting in an imperfect data fitting. Over the last couple of decades several
+researches have aimed to develop efficient FWI algorithms with the help of simpler or skeletonized
+signal models.
+&lt;p&gt;I have developed an auxiliary signal model that assists FWI to produce accurate reconstruction
+of the subsurface properties. The formulation of this model effectively involves simplification of
+the measurements by replacing the seismic arrivals by bumps. My numerical experiments have
+demonstrated that, during the gradient-based optimization, whenever the seismic waveforms are
+too complicated to be compared in the conventional least-squares sense, an objective function
+based on the simplified data i.e., the bump functional can be useful. In other words, the role
+of the bump functional is to guide the optimization towards the global minimum by
+pulling the trapped solution out of the local minima associated with the least-squares functional
+whenever necessary. The subsequent FWI algorithms that utilize the bump functional lead to an efficient
+multi-objective full waveform inversion.&lt;/p&gt;
  &lt;/div&gt;
+&lt;p&gt;The Earth’s properties, composition and structure ahead of a tunnel boring machine (TBM) should be mapped for hazard assessment during excavation. For mapping, a seismic system is deployed on the machine’s cutter head, with a few sources and sufficiently many sensors.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This project studies the feasibility of using 2-D SH full waveform inversion to this near-surface imaging problem, where the
+images need to be available in near real time and without human interaction.&lt;/li&gt;
+&lt;li&gt;The focus was on a system for soft soils, where shear waves are better and easier
+to interpret than compressional waves.&lt;/li&gt;
+&lt;li&gt;This study uses data acquired in a
+number of field settings by a shear-wave vibrator source that mimic realistic TBM configurations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;movie_inversion.gif&#34; alt=&#34;Look Ahead of a TBM&#34;&gt;&lt;/p&gt;
+&lt;!--
 
 
+
+
+
+
+  
 
 
 
@@ -298,25 +415,27 @@ this method will provide more accurate and reliable source information to seismo
 
 
 
-&lt;figure id=&#34;figure-fbd-factorizes-the-recorded-spectra-d-due-to-the-nicobar-earthquake-into-the-source-hats-and-the-path-hatg-at-multiple-azimuths-note-that-the-source-spectrum-exhibits-frequency-scaling-with-higher-corner-frequency-in-the-direction-of-the-rupture-propagation-indicated-by-an-arrow-and-vice-versa&#34;&gt;
+&lt;figure id=&#34;figure-imaging-a-near-surface-inclusion-in-the-netherlands-the-actual-location-of-a-buried-concrete-tube-is-marked-in-red-shear-wave-velocity-left-and-impedance-right-estimates-of-2-d-sh-full-waveform-inversion-depict-the-inclusion&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/redshift/nicobar1_spec_compare_hu98b3d0f894c95e692aa6baa3510c5850_215175_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;FBD factorizes the recorded spectra $|D|$, due to the Nicobar earthquake, into the source $|\hat{S}|$ and the path $|\hat{G}|$ at multiple azimuths. Note that the source spectrum exhibits frequency scaling, with higher corner frequency in the direction of the rupture propagation (indicated by an arrow) and vice versa.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fwi_tbm/mod_transect1_hu030b428d808a226bc1f058e43d9a918d_102353_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://pawbz.github.io/project/redshift/nicobar1_spec_compare_hu98b3d0f894c95e692aa6baa3510c5850_215175_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1351&#34; height=&#34;1157&#34;&gt;
+  &lt;img data-src=&#34;https://pawbz.github.io/project/fwi_tbm/mod_transect1_hu030b428d808a226bc1f058e43d9a918d_102353_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1010&#34; height=&#34;481&#34;&gt;
 &lt;/a&gt;
 
 
   
   
   &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    FBD factorizes the recorded spectra $|D|$, due to the Nicobar earthquake, into the source $|\hat{S}|$ and the path $|\hat{G}|$ at multiple azimuths. Note that the source spectrum exhibits frequency scaling, with higher corner frequency in the direction of the rupture propagation (indicated by an arrow) and vice versa.
+    Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
+ 
 
+--&gt;
 </description>
     </item>
     
@@ -328,6 +447,11 @@ this method will provide more accurate and reliable source information to seismo
       <description>&lt;h3 id=&#34;geophysics-is-largely-an-observational-science-and-the-ability-to-interpret-measured-data-is-fundamental-to-progress&#34;&gt;Geophysics is largely an observational science, and the ability to interpret measured data is fundamental to progress.&lt;/h3&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -423,98 +547,6 @@ insufficient data, they fail to provide reliable estimates;  they  should often 
     </item>
     
     <item>
-      <title>Super-virtual Interferometry</title>
-      <link>https://pawbz.github.io/project/svi/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/project/svi/</guid>
-      <description>
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure--intermediate-steps-of-denoising-via-super-virtual-interferometry-svi-for-core-mantle-boundary-diffractions-every-iteration-of-svi-consists-of-a---c-a-cross-correlation-and-summation-of-the-data-to-generate-records-with-virtual-arrivals-followed-by--d---f-a-convolution-of-the-records-with-the-virtual-arrivals-to-create-records-with-super-virtual-arrivals&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/svi/svi_cmb_illustration_hu73fd53e154706a25f130485540b51dcc_801258_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Intermediate steps of denoising via super-virtual interferometry (SVI) for core-mantle boundary diffractions. Every iteration of SVI consists of a)&amp;mdash;c) a cross-correlation and summation of the data to generate records with virtual arrivals, followed by  d)&amp;mdash;f) a convolution of the records with the virtual arrivals to create records with super-virtual arrivals.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://pawbz.github.io/project/svi/svi_cmb_illustration_hu73fd53e154706a25f130485540b51dcc_801258_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2590&#34; height=&#34;974&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    Intermediate steps of denoising via super-virtual interferometry (SVI) for core-mantle boundary diffractions. Every iteration of SVI consists of a)&amp;mdash;c) a cross-correlation and summation of the data to generate records with virtual arrivals, followed by  d)&amp;mdash;f) a convolution of the records with the virtual arrivals to create records with super-virtual arrivals.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;div style=&#34;text-align: justify&#34;&gt;
-In this project, I have established a novel physics-based 
-denoising model for seismic refraction imaging.
-It was carried out in close collaboration with marine geophysicists at The University of Texas at Austin and
-King Abdullah University of Science and Technology. 
-The experimental goal was to 
-understand the sub-seafloor geology using refracted seismic energy from the 
-geological boundaries.
-Curstal-scale ocean-bottom-seismometer (OBS) surveys were carried out with sufficiently large
-offset i.e.,
-distance between the OBS stations and the airgun sources. Large offsets facilitate
-the recording of the refracted signals radiated from deep geological boundaries, such as the 
-MOHO.
-However, as the energy propagates over large distances, the signal strength decays 
-resulting in poor signal-to-noise ratio.
-Consequently, an accurate tomography and imaging of the crustal structure required _denoising_ of the refracted energy.
-&lt;p&gt;Signal processing methods based on seismic interferometry principally extract energy, which is
-&lt;em&gt;coherent&lt;/em&gt;
-across the source and/or receiver dimensions of the measurements.
-However, the existing interferometric signal models were not reliable when focused on the application to
-seismic refractions.
-I have identified a
-special coherent structure for the refracted waves in seismic data that led to a
-reliable interferometric model for denoising.
-This signal model boosted our groups efforts to perform denoising,
-and the subsequent algorithms resulted in a subfield
-of seismic interferometry that I spearheaded:
-super-virtual interferometry (SVI).
-SVI constructively stacks (sums up) refracted energy
-from hundreds of weak air-gun sources to
-enhance its signal-to-noise ratio.
-My numerical experiments have shown that
-SVI can potentially boost
-the signal-to-noise ratio of the refracted seismic
-energy in the order of $\sqrt{N}$, where $N$ is the number of intermediate
-stations between a given source and receivers pair.
-Furthermore, I have also demonstrated the benefits of SVI for a variety of
-seismic surveys including near-surface geophysical experiments that image bedrock.
-In all these experiments, without SVI nearly half of the measured large-offset measurements
-was unusable for refraction traveltime tomography.
-Later on, I have developed a similar interferometric signal model for denoising
-core-mantle boundary (CMB) diffractions in
-collaboration with seismologists.
-This signal model for CMB diffractions, along
-with an intuitive sketch of SVI,
-is depicted in figure above.&lt;/p&gt;
- &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Teaching Philosophy</title>
       <link>https://pawbz.github.io/post/teaching/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -560,6 +592,104 @@ is depicted in figure above.&lt;/p&gt;
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://pawbz.github.io/publication/bharadwaj-2015-looking/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Super-virtual Interferometry</title>
+      <link>https://pawbz.github.io/project/svi/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/project/svi/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--intermediate-steps-of-denoising-via-super-virtual-interferometry-svi-for-core-mantle-boundary-diffractions-every-iteration-of-svi-consists-of-a---c-a-cross-correlation-and-summation-of-the-data-to-generate-records-with-virtual-arrivals-followed-by--d---f-a-convolution-of-the-records-with-the-virtual-arrivals-to-create-records-with-super-virtual-arrivals&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/svi/svi_cmb_illustration_hu73fd53e154706a25f130485540b51dcc_801258_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Intermediate steps of denoising via super-virtual interferometry (SVI) for core-mantle boundary diffractions. Every iteration of SVI consists of a)&amp;amp;mdash;c) a cross-correlation and summation of the data to generate records with virtual arrivals, followed by  d)&amp;amp;mdash;f) a convolution of the records with the virtual arrivals to create records with super-virtual arrivals.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/svi/svi_cmb_illustration_hu73fd53e154706a25f130485540b51dcc_801258_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2590&#34; height=&#34;974&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Intermediate steps of denoising via super-virtual interferometry (SVI) for core-mantle boundary diffractions. Every iteration of SVI consists of a)&amp;mdash;c) a cross-correlation and summation of the data to generate records with virtual arrivals, followed by  d)&amp;mdash;f) a convolution of the records with the virtual arrivals to create records with super-virtual arrivals.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;div style=&#34;text-align: justify&#34;&gt;
+In this project, I have established a novel physics-based 
+denoising model for seismic refraction imaging.
+It was carried out in close collaboration with marine geophysicists at The University of Texas at Austin and
+King Abdullah University of Science and Technology. 
+The experimental goal was to 
+understand the sub-seafloor geology using refracted seismic energy from the 
+geological boundaries.
+Curstal-scale ocean-bottom-seismometer (OBS) surveys were carried out with sufficiently large
+offset i.e.,
+distance between the OBS stations and the airgun sources. Large offsets facilitate
+the recording of the refracted signals radiated from deep geological boundaries, such as the 
+MOHO.
+However, as the energy propagates over large distances, the signal strength decays 
+resulting in poor signal-to-noise ratio.
+Consequently, an accurate tomography and imaging of the crustal structure required denoising
+ of the refracted energy.
+&lt;p&gt;Signal processing methods based on seismic interferometry principally extract energy, which is
+&lt;em&gt;coherent&lt;/em&gt;
+across the source and/or receiver dimensions of the measurements.
+However, the existing interferometric signal models were not reliable when focused on the application to
+seismic refractions.
+I have identified a
+special coherent structure for the refracted waves in seismic data that led to a
+reliable interferometric model for denoising.
+This signal model boosted our groups efforts to perform denoising,
+and the subsequent algorithms resulted in a subfield
+of seismic interferometry that I spearheaded:
+super-virtual interferometry (SVI).
+SVI constructively stacks (sums up) refracted energy
+from hundreds of weak air-gun sources to
+enhance its signal-to-noise ratio.
+My numerical experiments have shown that
+SVI can potentially boost
+the signal-to-noise ratio of the refracted seismic
+energy in the order of $\sqrt{N}$, where $N$ is the number of intermediate
+stations between a given source and receivers pair.
+Furthermore, I have also demonstrated the benefits of SVI for a variety of
+seismic surveys including near-surface geophysical experiments that image bedrock.
+In all these experiments, without SVI nearly half of the measured large-offset measurements
+was unusable for refraction traveltime tomography.
+Later on, I have developed a similar interferometric signal model for denoising
+core-mantle boundary (CMB) diffractions in
+collaboration with seismologists.
+This signal model for CMB diffractions, along
+with an intuitive sketch of SVI,
+is depicted in figure above.&lt;/p&gt;
+ &lt;/div&gt;
+</description>
     </item>
     
     <item>
