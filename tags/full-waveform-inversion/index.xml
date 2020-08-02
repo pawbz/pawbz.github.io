@@ -18,8 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://pawbz.github.io/project/fwi_tbm/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;movie_snaps.gif&#34; alt=&#34;SH-Wave Modeling Karst&#34;&gt;
-summary: A seismic system structure ahead of a tunnel boring machine (TBM).
-title:  Full waveform inversion to look ahead of a tunnel-boring machine&lt;/p&gt;
+GIF 1: A look-ahead seismic system deployed on the cutter head of a tunnel-boring machine.&lt;/p&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 I worked on signal models for seismic imaging that incorporate all the physical principles of wave-propagation. 
 The algorithms related to these models constitute
@@ -45,16 +44,9 @@ pulling the trapped solution out of the local minima associated with the least-s
 whenever necessary. The subsequent FWI algorithms that utilize the bump functional lead to an efficient
 multi-objective full waveform inversion.&lt;/p&gt;
  &lt;/div&gt;
-&lt;p&gt;The Earth’s properties, composition and structure ahead of a tunnel boring machine (TBM) should be mapped for hazard assessment during excavation. For mapping, a seismic system is deployed on the machine’s cutter head, with a few sources and sufficiently many sensors.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This project studies the feasibility of using 2-D SH full waveform inversion to this near-surface imaging problem, where the
-images need to be available in near real time and without human interaction.&lt;/li&gt;
-&lt;li&gt;The focus was on a system for soft soils, where shear waves are better and easier
-to interpret than compressional waves.&lt;/li&gt;
-&lt;li&gt;This study uses data acquired in a
-number of field settings by a shear-wave vibrator source that mimic realistic TBM configurations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;movie_inversion.gif&#34; alt=&#34;Look Ahead of a TBM&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;movie_inversion.gif&#34; alt=&#34;Look Ahead of a TBM&#34;&gt;
+GIF 2: Near-surface imaging using 2-D SH full waveform inversion, where the
+images need to be available in near real time and without human interaction.&lt;/p&gt;
 &lt;!--
 
 

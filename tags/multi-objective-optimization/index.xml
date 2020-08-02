@@ -14,11 +14,47 @@
     
     <item>
       <title>Multi-objective Full Waveform Inversion</title>
-      <link>https://pawbz.github.io/project/fwi_bump/</link>
+      <link>https://pawbz.github.io/project/fwi_tbm/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/project/fwi_bump/</guid>
-      <description>
+      <guid>https://pawbz.github.io/project/fwi_tbm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;movie_snaps.gif&#34; alt=&#34;SH-Wave Modeling Karst&#34;&gt;
+GIF 1: A look-ahead seismic system deployed on the cutter head of a tunnel-boring machine.&lt;/p&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+I worked on signal models for seismic imaging that incorporate all the physical principles of wave-propagation. 
+The algorithms related to these models constitute
+full waveform inversion (FWI), which is a popular imaging tool in both exploration and global
+seismology. FWI is a non-linear gradient-based optimization procedure that estimates the Earth’s
+properties by least-squares fitting of the seismic measurements. The advantage of FWI is
+that it could potentially result in an accurate and reliable characterization of complex geological
+structures with high resolution. However, as these algorithms aim to explain all details in the
+measured seismograms, they are not simple — advanced mathematical techniques
+and high performance algorithms are required to process large volumes of seismic data that are
+subject to full-waveform models. In other words, gradient-based optimizations are prone to local-
+minima convergence, resulting in an imperfect data fitting. Over the last couple of decades several
+researches have aimed to develop efficient FWI algorithms with the help of simpler or skeletonized
+signal models.
+&lt;p&gt;I have developed an auxiliary signal model that assists FWI to produce accurate reconstruction
+of the subsurface properties. The formulation of this model effectively involves simplification of
+the measurements by replacing the seismic arrivals by bumps. My numerical experiments have
+demonstrated that, during the gradient-based optimization, whenever the seismic waveforms are
+too complicated to be compared in the conventional least-squares sense, an objective function
+based on the simplified data i.e., the bump functional can be useful. In other words, the role
+of the bump functional is to guide the optimization towards the global minimum by
+pulling the trapped solution out of the local minima associated with the least-squares functional
+whenever necessary. The subsequent FWI algorithms that utilize the bump functional lead to an efficient
+multi-objective full waveform inversion.&lt;/p&gt;
+ &lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;movie_inversion.gif&#34; alt=&#34;Look Ahead of a TBM&#34;&gt;
+GIF 2: Near-surface imaging using 2-D SH full waveform inversion, where the
+images need to be available in near real time and without human interaction.&lt;/p&gt;
+&lt;!--
 
+
+
+
+
+
+  
 
 
 
@@ -35,40 +71,27 @@
 
 
 
-&lt;figure id=&#34;figure-subsurface-p-wave-velocity-models-a-true-b-fwi-result-using-the-least-squares-objective--convergence-to-local-minima-c-multi-objective-fwi-with-the-auxiliary-bump-functional&#34;&gt;
+&lt;figure id=&#34;figure-imaging-a-near-surface-inclusion-in-the-netherlands-the-actual-location-of-a-buried-concrete-tube-is-marked-in-red-shear-wave-velocity-left-and-impedance-right-estimates-of-2-d-sh-full-waveform-inversion-depict-the-inclusion&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fwi_bump/marm_bump.svg_hu59b4e8f825750a3a4a7dd7aabe7a79bd_49107_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Subsurface P-wave velocity models. a) True. b) FWI result using the least-squares objective — convergence to local minima. c) Multi-objective FWI with the auxiliary bump functional.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fwi_tbm/mod_transect1_hu030b428d808a226bc1f058e43d9a918d_102353_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://pawbz.github.io/project/fwi_bump/marm_bump.svg_hu59b4e8f825750a3a4a7dd7aabe7a79bd_49107_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;864&#34; height=&#34;147&#34;&gt;
+  &lt;img data-src=&#34;https://pawbz.github.io/project/fwi_tbm/mod_transect1_hu030b428d808a226bc1f058e43d9a918d_102353_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1010&#34; height=&#34;481&#34;&gt;
 &lt;/a&gt;
 
 
   
   
   &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    Subsurface P-wave velocity models. a) True. b) FWI result using the least-squares objective — convergence to local minima. c) Multi-objective FWI with the auxiliary bump functional.
+    Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
+ 
 
-&lt;h3 id=&#34;cycle-skipping-in-full-waveform-inversion-fwi&#34;&gt;Cycle Skipping in Full Waveform Inversion (FWI)&lt;/h3&gt;
-&lt;p&gt;&amp;ldquo;When the seismic waveforms are too complicated to be analyzed during inversion, a simplification of them into envelope-like bumpy waveforms can be useful.&amp;rdquo;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This research formulates a bump functional that computes the data misfit in seismic inversion
-after a simplification.&lt;/li&gt;
-&lt;li&gt;A multi-objective FWI strategy, where the bump functional is
-used as an auxiliary functional to overcome the well-known cycle-skipping problem, is proposed.&lt;/li&gt;
-&lt;li&gt;Advantages of seismic inversion that maximizes the correlation between the observed and modelled seismic data.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;multi-parameter-seismic-inversion&#34;&gt;Multi-parameter Seismic Inversion&lt;/h3&gt;
-&lt;p&gt;An analysis of the multi-parameter inverse problem in quantitative seismic imaging.
-
-&lt;a href=&#34;https://github.com/pawbz/pawbz.github.io/blob/src/pdf/slides/Pawan_EAGE14slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[slides]&lt;/a&gt;
-
-&lt;a href=&#34;https://arxiv.org/abs/1804.01184&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[paper]&lt;/a&gt;&lt;/p&gt;
+--&gt;
 </description>
     </item>
     
