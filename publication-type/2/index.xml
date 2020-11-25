@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/publication-type/2/</link>
+      <atom:link href="https://pawbz.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://pawbz.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Focused blind deconvolution</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2019-focused_ieee/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2019-focused_ieee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redshift of earthquakes via focused blind deconvolution of teleseisms</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2019-redshift/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2019-redshift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A shear-wave seismic system using full-waveform inversion to look ahead of a tunnel-boring machine</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2017-shear/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2017-shear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full waveform inversion with an auxiliary bump functional</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2016-full/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2016-full/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing core-diffracted arrivals by supervirtual interferometry</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2013-enhancing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2013-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing the number and signal-to-noise ratio of OBS traces with supervirtual refraction interferometry and free-surface multiples</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2013-increasing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2013-increasing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study and mapping of ground water prospect using remote sensing, GIS and geoelectrical resistivity techniques—a case study of Dhanbad district, Jharkhand, India</title>
+      <link>https://pawbz.github.io/publication/srivastava-2012-study/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/srivastava-2012-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory of supervirtual refraction interferometry</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2012-theory/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2012-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced refractor imaging by supervirtual interferometry</title>
+      <link>https://pawbz.github.io/publication/mallinson-2011-enhanced/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/mallinson-2011-enhanced/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

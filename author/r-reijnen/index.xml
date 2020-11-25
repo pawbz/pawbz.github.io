@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Reijnen | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/author/r-reijnen/</link>
+      <atom:link href="https://pawbz.github.io/author/r-reijnen/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Reijnen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
+      <title>R Reijnen</title>
+      <link>https://pawbz.github.io/author/r-reijnen/</link>
+    </image>
+    
+    <item>
+      <title>Looking ahead of a tunnel boring machine with 2-D SH full waveform inversion</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2015-looking/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2015-looking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

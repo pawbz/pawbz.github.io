@@ -5,7 +5,7 @@
     <link>https://pawbz.github.io/project/</link>
       <atom:link href="https://pawbz.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -52,7 +52,7 @@
 
   
   
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
     Schematic of waves emitted due to a rupture propagating from west (azimuth $\theta=270^{\circ}$) to east (90$^{\circ}$). a) Blue waves emitted towards the east are shortened, while the red waves traveling towards the west are lengthened. These waves undergo complex scattering (squares) before they reach the receivers (triangles), resulting in a challenging source-spectrum estimation problem. b) I have developed a signal model to factorize the measurements, effectively removes the complex scattering or path effects and directly estimates the source spectra (red-blue graphs) at the receivers. The variability of the normalized source spectrum with $\theta$ can be used to infer the kinematic rupture parameters.
   &lt;/figcaption&gt;
 
@@ -133,7 +133,7 @@ this method will provide more accurate and reliable source information to seismo
 
   
   
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
     FBD factorizes the recorded spectra $|D|$, due to the Nicobar earthquake, into the source $|\hat{S}|$ and the path $|\hat{G}|$ at multiple azimuths. Note that the source spectrum exhibits frequency scaling, with higher corner frequency in the direction of the rupture propagation (indicated by an arrow) and vice versa.
   &lt;/figcaption&gt;
 
@@ -183,7 +183,7 @@ this method will provide more accurate and reliable source information to seismo
 
   
   
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
     Marmousi experiment, where FBD (data panel 3) outperforms the conventional Green&amp;rsquo;s function retrieval from noise (data panel 1) through cross-correlation (data panel 4). When compared to the true Green&amp;rsquo;s function (data panel 2), note that FBD not only recovers the direct arrival but also the scattered arrivals due to the reflectors in the medium.
   &lt;/figcaption&gt;
 
@@ -237,7 +237,7 @@ but also helps us understand the noisy source characteristics.&lt;/li&gt;
 
   
   
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
     Info-graphic of focused blind deconvolution, which is a data-driven Green&amp;rsquo;s function retrieval algorithm for multi-channel seismic data of a noisy source.
   &lt;/figcaption&gt;
 
@@ -331,7 +331,7 @@ images need to be available in near real time and without human interaction.&lt;
 
   
   
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
     Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.
   &lt;/figcaption&gt;
 
@@ -371,7 +371,7 @@ images need to be available in near real time and without human interaction.&lt;
 
 
 
-&lt;figure id=&#34;figure--intermediate-steps-of-denoising-via-super-virtual-interferometry-svi-for-core-mantle-boundary-diffractions-every-iteration-of-svi-consists-of-a---c-a-cross-correlation-and-summation-of-the-data-to-generate-records-with-virtual-arrivals-followed-by--d---f-a-convolution-of-the-records-with-the-virtual-arrivals-to-create-records-with-super-virtual-arrivals&#34;&gt;
+&lt;figure id=&#34;figure-intermediate-steps-of-denoising-via-super-virtual-interferometry-svi-for-core-mantle-boundary-diffractions-every-iteration-of-svi-consists-of-a---c-a-cross-correlation-and-summation-of-the-data-to-generate-records-with-virtual-arrivals-followed-by--d---f-a-convolution-of-the-records-with-the-virtual-arrivals-to-create-records-with-super-virtual-arrivals&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/svi/svi_cmb_illustration_hu73fd53e154706a25f130485540b51dcc_801258_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Intermediate steps of denoising via super-virtual interferometry (SVI) for core-mantle boundary diffractions. Every iteration of SVI consists of a)&amp;amp;mdash;c) a cross-correlation and summation of the data to generate records with virtual arrivals, followed by  d)&amp;amp;mdash;f) a convolution of the records with the virtual arrivals to create records with super-virtual arrivals.&#34;&gt;
@@ -383,7 +383,7 @@ images need to be available in near real time and without human interaction.&lt;
 
   
   
-  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
     Intermediate steps of denoising via super-virtual interferometry (SVI) for core-mantle boundary diffractions. Every iteration of SVI consists of a)&amp;mdash;c) a cross-correlation and summation of the data to generate records with virtual arrivals, followed by  d)&amp;mdash;f) a convolution of the records with the virtual arrivals to create records with super-virtual arrivals.
   &lt;/figcaption&gt;
 

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Green&#39;s Function Retrieval | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/tag/greens-function-retrieval/</link>
+      <atom:link href="https://pawbz.github.io/tag/greens-function-retrieval/index.xml" rel="self" type="application/rss+xml" />
+    <description>Green&#39;s Function Retrieval</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
+      <title>Green&#39;s Function Retrieval</title>
+      <link>https://pawbz.github.io/tag/greens-function-retrieval/</link>
+    </image>
+    
+    <item>
+      <title>Focused Blind Deconvolution</title>
+      <link>https://pawbz.github.io/project/fbd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/project/fbd/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-marmousi-experiment-where-fbd-data-panel-3-outperforms-the-conventional-greens-function-retrieval-from-noise-data-panel-1-through-cross-correlation-data-panel-4-when-compared-to-the-true-greens-function-data-panel-2-note-that-fbd-not-only-recovers-the-direct-arrival-but-also-the-scattered-arrivals-due-to-the-reflectors-in-the-medium&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fbd/FBD_movie2_hub8cfcd6974b93ce722526307cd4a9f55_992000_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Marmousi experiment, where FBD (data panel 3) outperforms the conventional Green&amp;amp;rsquo;s function retrieval from noise (data panel 1) through cross-correlation (data panel 4). When compared to the true Green&amp;amp;rsquo;s function (data panel 2), note that FBD not only recovers the direct arrival but also the scattered arrivals due to the reflectors in the medium.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/fbd/FBD_movie2_hub8cfcd6974b93ce722526307cd4a9f55_992000_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1545&#34; height=&#34;752&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Marmousi experiment, where FBD (data panel 3) outperforms the conventional Green&amp;rsquo;s function retrieval from noise (data panel 1) through cross-correlation (data panel 4). When compared to the true Green&amp;rsquo;s function (data panel 2), note that FBD not only recovers the direct arrival but also the scattered arrivals due to the reflectors in the medium.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This research
+introduces an idea (focusing) that is important to
+resolve the indeterminacy inherent to multichannel blind deconvolution.&lt;/li&gt;
+&lt;li&gt;FBD is a deconvolution algorithm that
+extracts sparse and front-loaded impulse responses from the channel outputs, i.e.,
+their convolutions with a single arbitrary source.&lt;/li&gt;
+&lt;li&gt;This project also employs FBD to solve essential problems in both exploration and earthquake seismology.
+In this context, FBD not only
+outputs the subsurface Green&amp;rsquo;s function, which can be directly input to imaging,
+but also helps us understand the noisy source characteristics.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-info-graphic-of-focused-blind-deconvolution-which-is-a-data-driven-greens-function-retrieval-algorithm-for-multi-channel-seismic-data-of-a-noisy-source&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fbd/FBD_movie1_hu4769845e09e8354db21013232c72c8aa_190136_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Info-graphic of focused blind deconvolution, which is a data-driven Green&amp;amp;rsquo;s function retrieval algorithm for multi-channel seismic data of a noisy source.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/fbd/FBD_movie1_hu4769845e09e8354db21013232c72c8aa_190136_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1859&#34; height=&#34;790&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Info-graphic of focused blind deconvolution, which is a data-driven Green&amp;rsquo;s function retrieval algorithm for multi-channel seismic data of a noisy source.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

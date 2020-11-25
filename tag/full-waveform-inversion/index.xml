@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Full Waveform Inversion | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/tag/full-waveform-inversion/</link>
+      <atom:link href="https://pawbz.github.io/tag/full-waveform-inversion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Full Waveform Inversion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
+      <title>Full Waveform Inversion</title>
+      <link>https://pawbz.github.io/tag/full-waveform-inversion/</link>
+    </image>
+    
+    <item>
+      <title>Multi-objective Full Waveform Inversion</title>
+      <link>https://pawbz.github.io/project/fwi_tbm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/project/fwi_tbm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;movie_snaps.gif&#34; alt=&#34;SH-Wave Modeling Karst&#34;&gt;
+GIF 1: A look-ahead seismic system deployed on the cutter head of a tunnel-boring machine.&lt;/p&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+I worked on signal models for seismic imaging that incorporate all the physical principles of wave-propagation. 
+The algorithms related to these models constitute
+full waveform inversion (FWI), which is a popular imaging tool in both exploration and global
+seismology. FWI is a non-linear gradient-based optimization procedure that estimates the Earth’s
+properties by least-squares fitting of the seismic measurements. The advantage of FWI is
+that it could potentially result in an accurate and reliable characterization of complex geological
+structures with high resolution. However, as these algorithms aim to explain all details in the
+measured seismograms, they are not simple — advanced mathematical techniques
+and high performance algorithms are required to process large volumes of seismic data that are
+subject to full-waveform models. In other words, gradient-based optimizations are prone to local-
+minima convergence, resulting in an imperfect data fitting. Over the last couple of decades several
+researches have aimed to develop efficient FWI algorithms with the help of simpler or skeletonized
+signal models.
+&lt;p&gt;I have developed an auxiliary signal model that assists FWI to produce accurate reconstruction
+of the subsurface properties. The formulation of this model effectively involves simplification of
+the measurements by replacing the seismic arrivals by bumps. My numerical experiments have
+demonstrated that, during the gradient-based optimization, whenever the seismic waveforms are
+too complicated to be compared in the conventional least-squares sense, an objective function
+based on the simplified data i.e., the bump functional can be useful. In other words, the role
+of the bump functional is to guide the optimization towards the global minimum by
+pulling the trapped solution out of the local minima associated with the least-squares functional
+whenever necessary. The subsequent FWI algorithms that utilize the bump functional lead to an efficient
+multi-objective full waveform inversion.&lt;/p&gt;
+ &lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;movie_inversion.gif&#34; alt=&#34;Look Ahead of a TBM&#34;&gt;
+GIF 2: Near-surface imaging using 2-D SH full waveform inversion, where the
+images need to be available in near real time and without human interaction.&lt;/p&gt;
+&lt;!--
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-imaging-a-near-surface-inclusion-in-the-netherlands-the-actual-location-of-a-buried-concrete-tube-is-marked-in-red-shear-wave-velocity-left-and-impedance-right-estimates-of-2-d-sh-full-waveform-inversion-depict-the-inclusion&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/fwi_tbm/mod_transect1_hu030b428d808a226bc1f058e43d9a918d_102353_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/fwi_tbm/mod_transect1_hu030b428d808a226bc1f058e43d9a918d_102353_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1010&#34; height=&#34;481&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Imaging a near-surface inclusion in the Netherlands. The actual location of a buried concrete tube is marked in red. Shear-wave velocity (left) and impedance (right) estimates of 2-D SH full waveform inversion depict the inclusion.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

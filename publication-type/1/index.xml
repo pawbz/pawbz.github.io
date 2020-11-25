@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/publication-type/1/</link>
+      <atom:link href="https://pawbz.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://pawbz.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>SymAE: redatuming timelapse data to create virtual baseline sources in the monitoring medium</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2020-agusymae/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2020-agusymae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SymAE: an autoencoder with embedded physical symmetries for passive time-lapse monitoring</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2020-symae/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2020-symae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A seismoelectric inverse problem with well-log data and borehole-confined acquisition</title>
+      <link>https://pawbz.github.io/publication/fournier-2019-seismoelectric/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/fournier-2019-seismoelectric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focused blind deconvolution of interferometric Green&#39;s functions</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2018-focused-seg/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2018-focused-seg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focused blind deconvolution of earthquake signals</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2018-focused/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2018-focused/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deblending random seismic sources via independent component analysis</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2017-deblending/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2017-deblending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Shear-Wave Seismic System to Look Ahead of a Tunnel Boring Machine</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2016-shear/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2016-shear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Auxiliary Bump Functional to Overcome Cycle Skipping in Waveform Inversion</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2015-auxiliary/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2015-auxiliary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking ahead of a tunnel boring machine with 2-D SH full waveform inversion</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2015-looking/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2015-looking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametrization for 2-D SH full waveform inversion</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2014-parametrization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2014-parametrization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective full waveform inversion in the absence of low frequencies</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2013-multi/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2013-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting CMB diffractions by Super-virtual Interferometry</title>
+      <link>https://pawbz.github.io/publication/schuster-2012-extracting/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/schuster-2012-extracting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refraction Interferometry and Free-surface Multiples for Large-offset OBS Data</title>
+      <link>https://pawbz.github.io/publication/schuster-2011-refraction/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/schuster-2011-refraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-virtual refraction interferometry: Theory</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2011-super/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2011-super/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending the aperture and increasing the signal-to-noise ratio of refraction surveys with super-virtual interferometry</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2010-extending/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2010-extending/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

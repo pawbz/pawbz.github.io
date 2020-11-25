@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laurent Demanet | Pawan Bharadwaj</title>
+    <link>https://pawbz.github.io/author/laurent-demanet/</link>
+      <atom:link href="https://pawbz.github.io/author/laurent-demanet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laurent Demanet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
+      <title>Laurent Demanet</title>
+      <link>https://pawbz.github.io/author/laurent-demanet/</link>
+    </image>
+    
+    <item>
+      <title>SymAE: redatuming timelapse data to create virtual baseline sources in the monitoring medium</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2020-agusymae/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2020-agusymae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SymAE: an autoencoder with embedded physical symmetries for passive time-lapse monitoring</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2020-symae/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2020-symae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems and methods for focused blind deconvolution</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2019-systems/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2019-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focused blind deconvolution</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2019-focused_ieee/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2019-focused_ieee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redshift of earthquakes via focused blind deconvolution of teleseisms</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2019-redshift/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2019-redshift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focused blind deconvolution of interferometric Green&#39;s functions</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2018-focused-seg/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2018-focused-seg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focused blind deconvolution of earthquake signals</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2018-focused/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2018-focused/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deblending random seismic sources via independent component analysis</title>
+      <link>https://pawbz.github.io/publication/bharadwaj-2017-deblending/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/publication/bharadwaj-2017-deblending/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
