@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pawan Bharadwaj</title>
+    <title>Computational Seismology @ IISc</title>
     <link>https://pawbz.github.io/</link>
       <atom:link href="https://pawbz.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pawan Bharadwaj</description>
+    <description>Computational Seismology @ IISc</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
-      <title>Pawan Bharadwaj</title>
+      <title>Computational Seismology @ IISc</title>
       <link>https://pawbz.github.io/</link>
     </image>
     
@@ -18,6 +18,163 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://pawbz.github.io/publication/bharadwaj-2020-agusymae/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Research Statement</title>
+      <link>https://pawbz.github.io/post/statement/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/post/statement/</guid>
+      <description>&lt;h3 id=&#34;geophysics-is-largely-an-observational-science-and-the-ability-to-interpret-measured-data-is-fundamental-to-progress&#34;&gt;Geophysics is largely an observational science, and the ability to interpret measured data is fundamental to progress.&lt;/h3&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-three-virtues-of-models-used-in-geophysical-signal-processing-blue-arrow-indicate-my-previous-research-directions-where-the-signal-models-were-developed-towards-their-better-versions-ongoing-and-potential-future-projects-are-marked-in-red-note-these-virtues-are-subjective-and-are-assigned-in-regards-to-a-specific-application-and-experimental-setup&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/post/statement/fig_models_hu753ca570c1e01d8df9f00d3aed751739_90801_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Three virtues of models used in geophysical signal processing. Blue arrow indicate my previous research directions, where the signal models were developed towards their better versions. Ongoing and potential future projects are marked in red. Note: these virtues are subjective and are assigned in regards to a specific application and experimental setup.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/post/statement/fig_models_hu753ca570c1e01d8df9f00d3aed751739_90801_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3151&#34; height=&#34;1182&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Three virtues of models used in geophysical signal processing. Blue arrow indicate my previous research directions, where the signal models were developed towards their better versions. Ongoing and potential future projects are marked in red. Note: these virtues are subjective and are assigned in regards to a specific application and experimental setup.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;div style=&#34;text-align: justify&#34;&gt;
+For given measurements of an experiment,  
+our first task as geophysicists is to
+build a model, in other words, identify the structure of the measurements. 
+Then, we interpret the data  
+with an _implicit belief_ that our model explains them.
+If the model is too simple, 
+the inversion might result in a significant bias in our interpretation, e.g.,
+we can assume a linear stress-strain relationship during the analysis of seismic waves due to an 
+earthquake,
+however this model is questionable when analyzing seismograms close to large magnitude earthquakes.
+On the other hand, when the models are too complicated, the 
+subsequent optimization algorithms may not be easy to formulate.
+For example, full waveform inversion of seismograms is based on models that encode the complex 
+physical laws concerning seismic wave 
+propagation. As a consequence   
+the recorded waves have a 
+strong non-linear dependence on  
+certain subsurface properties, and the gradient-based optimizer
+often 
+converges to an inaccurate Earth model i.e., a local minima, where the simulated waves only
+partially explain the records.
+&lt;h3 id=&#34;my-research-seeks-simple-reliable-and-flexible-signal-models-for-seismic-inversion-that-improve-over-their-predecessors&#34;&gt;My research seeks simple, reliable, and flexible signal models for seismic inversion that improve over their predecessors.&lt;/h3&gt;
+&lt;p&gt;It allows for an accurate characterization
+of the subsurface structures, at both global and exploration scales,
+and also of natural and induced seismicity.
+Our current models are established
+on well-understood physical principles.
+However,
+they have to be
+allowed to evolve
+with the developments in instrumentation and data availability.
+For example, conventional signal models might not be optimal for
+processing waves that are recorded using fiber optic cables.
+More importantly,  my research will leverage vast
+amounts of data that are being generated by our seismometers to show that
+&lt;strong&gt;improved models can also be learned directly from the data&lt;/strong&gt;.
+Researchers in disciplines such as computer science and engineering are being constantly
+challenged to develop methods that learn models given big data.
+However, those methods don&amp;rsquo;t constitute a skeleton that can build
+on the top of the existing physical principles. Internalizing their methods into seismic imaging
+has to be done in a way that we don&amp;rsquo;t ignore the physics that is at the core of our systems.
+My role in the geophysics department is to internalize advances in disciplines like
+electrical engineering, applied mathematics and computer science.&lt;/p&gt;
+&lt;p&gt;For a model to succeed in its mission of
+treating the data, it must be a good compromise
+between three qualities: simplicity, reliability, and flexibility.
+There virtues
+in the view of the experimental goal and setup.
+Inverse problems based on simple models are stable and easy to solve; although,
+it is questionable if these models are appropriate
+for complex measurements.
+Reliable models capture the true essence of the data; however, they
+may not necessarily explain all the details in the data.
+Flexible models have the capacity to explain the data to the fullest, however, given
+insufficient data, they fail to provide reliable estimates;  they  should often be modified with additional constraints to have a reliable inversion. I have depicted the seismic inversion models that I developed in the past in the Figure. In this figure, the models are torn between the three qualities, where my contribution allowed development of ideal models.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>SymAE (coming soon)</title>
+      <link>https://pawbz.github.io/project/symae/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/project/symae/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-timelapse-passive-seismic-monitoring-experiment-an-illustration-that-symae-allows-for-vector-algebra-in-the-latent-space-to-manipulate-the-source-and-path-effects-in-the-recorded-data&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/symae/symae_hu3437505782b67371a6553ebe271bbc74_637734_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Timelapse passive seismic monitoring experiment. An illustration that SymAE allows for vector algebra in the latent space to manipulate the source and path effects in the recorded data.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/symae/symae_hu3437505782b67371a6553ebe271bbc74_637734_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1636&#34; height=&#34;1252&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Timelapse passive seismic monitoring experiment. An illustration that SymAE allows for vector algebra in the latent space to manipulate the source and path effects in the recorded data.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
     <item>
@@ -176,6 +333,14 @@ this method will provide more accurate and reliable source information to seismo
     </item>
     
     <item>
+      <title>admin_extra</title>
+      <link>https://pawbz.github.io/admin_extra/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/admin_extra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Focused blind deconvolution</title>
       <link>https://pawbz.github.io/publication/bharadwaj-2019-focused_ieee/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -188,6 +353,14 @@ this method will provide more accurate and reliable source information to seismo
       <link>https://pawbz.github.io/publication/bharadwaj-2019-redshift/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://pawbz.github.io/publication/bharadwaj-2019-redshift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://pawbz.github.io/people/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/people/</guid>
       <description></description>
     </item>
     
@@ -213,6 +386,15 @@ this method will provide more accurate and reliable source information to seismo
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://pawbz.github.io/publication/bharadwaj-2018-focused/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://pawbz.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0530</pubDate>
+      <guid>https://pawbz.github.io/news/</guid>
+      <description>
+</description>
     </item>
     
     <item>
@@ -428,129 +610,6 @@ images need to be available in near real time and without human interaction.&lt;
  
 
 --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Research Statement</title>
-      <link>https://pawbz.github.io/post/statement/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/post/statement/</guid>
-      <description>&lt;h3 id=&#34;geophysics-is-largely-an-observational-science-and-the-ability-to-interpret-measured-data-is-fundamental-to-progress&#34;&gt;Geophysics is largely an observational science, and the ability to interpret measured data is fundamental to progress.&lt;/h3&gt;
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-three-virtues-of-models-used-in-geophysical-signal-processing-blue-arrow-indicate-my-previous-research-directions-where-the-signal-models-were-developed-towards-their-better-versions-ongoing-and-potential-future-projects-are-marked-in-red-note-these-virtues-are-subjective-and-are-assigned-in-regards-to-a-specific-application-and-experimental-setup&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/post/statement/fig_models_hu753ca570c1e01d8df9f00d3aed751739_90801_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Three virtues of models used in geophysical signal processing. Blue arrow indicate my previous research directions, where the signal models were developed towards their better versions. Ongoing and potential future projects are marked in red. Note: these virtues are subjective and are assigned in regards to a specific application and experimental setup.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://pawbz.github.io/post/statement/fig_models_hu753ca570c1e01d8df9f00d3aed751739_90801_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3151&#34; height=&#34;1182&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-    Three virtues of models used in geophysical signal processing. Blue arrow indicate my previous research directions, where the signal models were developed towards their better versions. Ongoing and potential future projects are marked in red. Note: these virtues are subjective and are assigned in regards to a specific application and experimental setup.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;div style=&#34;text-align: justify&#34;&gt;
-For given measurements of an experiment,  
-our first task as geophysicists is to
-build a model, in other words, identify the structure of the measurements. 
-Then, we interpret the data  
-with an _implicit belief_ that our model explains them.
-If the model is too simple, 
-the inversion might result in a significant bias in our interpretation, e.g.,
-we can assume a linear stress-strain relationship during the analysis of seismic waves due to an 
-earthquake,
-however this model is questionable when analyzing seismograms close to large magnitude earthquakes.
-On the other hand, when the models are too complicated, the 
-subsequent optimization algorithms may not be easy to formulate.
-For example, full waveform inversion of seismograms is based on models that encode the complex 
-physical laws concerning seismic wave 
-propagation. As a consequence   
-the recorded waves have a 
-strong non-linear dependence on  
-certain subsurface properties, and the gradient-based optimizer
-often 
-converges to an inaccurate Earth model i.e., a local minima, where the simulated waves only
-partially explain the records.
-&lt;h3 id=&#34;my-research-seeks-simple-reliable-and-flexible-signal-models-for-seismic-inversion-that-improve-over-their-predecessors&#34;&gt;My research seeks simple, reliable, and flexible signal models for seismic inversion that improve over their predecessors.&lt;/h3&gt;
-&lt;p&gt;It allows for an accurate characterization
-of the subsurface structures, at both global and exploration scales,
-and also of natural and induced seismicity.
-Our current models are established
-on well-understood physical principles.
-However,
-they have to be
-allowed to evolve
-with the developments in instrumentation and data availability.
-For example, conventional signal models might not be optimal for
-processing waves that are recorded using fiber optic cables.
-More importantly,  my research will leverage vast
-amounts of data that are being generated by our seismometers to show that
-&lt;strong&gt;improved models can also be learned directly from the data&lt;/strong&gt;.
-Researchers in disciplines such as computer science and engineering are being constantly
-challenged to develop methods that learn models given big data.
-However, those methods don&amp;rsquo;t constitute a skeleton that can build
-on the top of the existing physical principles. Internalizing their methods into seismic imaging
-has to be done in a way that we don&amp;rsquo;t ignore the physics that is at the core of our systems.
-My role in the geophysics department is to internalize advances in disciplines like
-electrical engineering, applied mathematics and computer science.&lt;/p&gt;
-&lt;p&gt;For a model to succeed in its mission of
-treating the data, it must be a good compromise
-between three qualities: simplicity, reliability, and flexibility.
-There virtues
-in the view of the experimental goal and setup.
-Inverse problems based on simple models are stable and easy to solve; although,
-it is questionable if these models are appropriate
-for complex measurements.
-Reliable models capture the true essence of the data; however, they
-may not necessarily explain all the details in the data.
-Flexible models have the capacity to explain the data to the fullest, however, given
-insufficient data, they fail to provide reliable estimates;  they  should often be modified with additional constraints to have a reliable inversion. I have depicted the seismic inversion models that I developed in the past in the Figure. In this figure, the models are torn between the three qualities, where my contribution allowed development of ideal models.&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Teaching Philosophy</title>
-      <link>https://pawbz.github.io/post/teaching/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pawbz.github.io/post/teaching/</guid>
-      <description>&lt;h2 id=&#34;computing-has-quickly-evolved-to-become-the-third-pillar-of-science&#34;&gt;Computing has quickly evolved to become the &lt;em&gt;third pillar&lt;/em&gt; of science.&lt;/h2&gt;
-&lt;h2 id=&#34;high-level-intended-learning-outcomes-ilo-during-course-design&#34;&gt;High-level intended learning outcomes (ILO) during course design.&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;blooms.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;impart-functional-knowledge-of-various-geophysical-inversion-algorithms&#34;&gt;Impart functional knowledge of various geophysical inversion algorithms.&lt;/h2&gt;
-&lt;h2 id=&#34;active-learning-through-interactive-computing-via-post-lecture-jupyter-notebooks&#34;&gt;Active learning through interactive computing via post-lecture Jupyter Notebooks.&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;notebook.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;class-projects-have-a-focus-on-solving-problems-in-the-energy-industry&#34;&gt;Class projects have a focus on solving problems in the energy industry.&lt;/h2&gt;
-&lt;h2 id=&#34;organize-workshops-during-the-semester-to-solve-several-computational-assignments-related-to-earth-sciences&#34;&gt;Organize workshops during the semester to solve several computational assignments related to Earth sciences.&lt;/h2&gt;
 </description>
     </item>
     

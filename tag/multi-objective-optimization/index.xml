@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multi-objective Optimization | Pawan Bharadwaj</title>
+    <title>Multi-objective Optimization | Computational Seismology @ IISc</title>
     <link>https://pawbz.github.io/tag/multi-objective-optimization/</link>
       <atom:link href="https://pawbz.github.io/tag/multi-objective-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Multi-objective Optimization</description>

@@ -1,16 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interferometry | Pawan Bharadwaj</title>
+    <title>Interferometry | Computational Seismology @ IISc</title>
     <link>https://pawbz.github.io/tag/interferometry/</link>
       <atom:link href="https://pawbz.github.io/tag/interferometry/index.xml" rel="self" type="application/rss+xml" />
     <description>Interferometry</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Thu, 27 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Pawan Bharadwaj 2020</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pawbz.github.io/images/icon_hu9eca5deb9de1d8df932016d56491e60f_36035_512x512_fill_lanczos_center_2.png</url>
       <title>Interferometry</title>
       <link>https://pawbz.github.io/tag/interferometry/</link>
     </image>
+    
+    <item>
+      <title>SymAE (coming soon)</title>
+      <link>https://pawbz.github.io/project/symae/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pawbz.github.io/project/symae/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-timelapse-passive-seismic-monitoring-experiment-an-illustration-that-symae-allows-for-vector-algebra-in-the-latent-space-to-manipulate-the-source-and-path-effects-in-the-recorded-data&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pawbz.github.io/project/symae/symae_hu3437505782b67371a6553ebe271bbc74_637734_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Timelapse passive seismic monitoring experiment. An illustration that SymAE allows for vector algebra in the latent space to manipulate the source and path effects in the recorded data.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://pawbz.github.io/project/symae/symae_hu3437505782b67371a6553ebe271bbc74_637734_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1636&#34; height=&#34;1252&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Timelapse passive seismic monitoring experiment. An illustration that SymAE allows for vector algebra in the latent space to manipulate the source and path effects in the recorded data.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Super-virtual Interferometry</title>

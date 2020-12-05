@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Velocity Model Building | Pawan Bharadwaj</title>
+    <title>Velocity Model Building | Computational Seismology @ IISc</title>
     <link>https://pawbz.github.io/tag/velocity-model-building/</link>
       <atom:link href="https://pawbz.github.io/tag/velocity-model-building/index.xml" rel="self" type="application/rss+xml" />
     <description>Velocity Model Building</description>

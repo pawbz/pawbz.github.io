@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wim Mulder | Pawan Bharadwaj</title>
+    <title>Wim Mulder | Computational Seismology @ IISc</title>
     <link>https://pawbz.github.io/author/wim-mulder/</link>
       <atom:link href="https://pawbz.github.io/author/wim-mulder/index.xml" rel="self" type="application/rss+xml" />
     <description>Wim Mulder</description>
